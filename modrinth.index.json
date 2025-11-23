@@ -1,0 +1,43 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "0.0.1",
+  "name": "CombeeCraft Server",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/Cobblemon-neoforge-1.7.0+1.21.1.jar.jar",
+      "hashes": {
+        "sha512": "536da526dcac5c5321ff4d787c9d6aa42332665e9e0a857d9fba86c14538732bb637fd51c6d6c10f4ca9efe882e1b977ec1fdd0dc2f357d96beaffd3c859f87f",
+        "sha1": "0f39652be6d3db636c64b03bf83ce956998827e9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MdwFAVRL/versions/jeZJOCEb/Cobblemon-neoforge-1.7.0%2B1.21.1.jar.jar"
+      ],
+      "fileSize": 123683886
+    },
+    {
+      "path": "mods/kotlinforforge-5.10.0-all.jar",
+      "hashes": {
+        "sha512": "0c7a23c6b8017c9a24694bc6c0dbcb3d9b4ec630ae2ff965c0ee478ca881ad70f4755388678430b0175c3abe18c66fcbc25ed9be6f600bcdc083743eaecbfc35",
+        "sha1": "a86a436cb7ffd0509750ba7b078fe88143da1ea6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ordsPcFz/versions/pp2cY80Q/kotlinforforge-5.10.0-all.jar"
+      ],
+      "fileSize": 6730190
+    }
+  ],
+  "dependencies": {
+    "neoforge": "21.1.215",
+    "minecraft": "1.21.1"
+  }
+}
