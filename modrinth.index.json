@@ -2091,6 +2091,21 @@
       "fileSize": 17366800
     },
     {
+      "path": "mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar",
+      "hashes": {
+        "sha512": "b412ba686f327ec501f58f2335667de02eea0f6350f78a48ca0faaec9015d0e142058c2fc25aba35485096434a01e09a3b94fa930f44977142bd200bb606a2b3",
+        "sha1": "f98335548ab3d6592912535c5703f18ab153c10d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/9uOfdsZC/forgified-fabric-api-0.115.6%2B2.1.4%2B1.21.1.jar"
+      ],
+      "fileSize": 5578066
+    },
+    {
       "path": "mods/formations-1.0.4-neoforge-mc1.21.jar",
       "hashes": {
         "sha512": "09fd3bcb9b7d63f18a89693e4bd84548fa15761a60214e3e2f010c680c06914e92794661d1887746c9b4dfa1907d21533738ecda8557abf5801774f4875fc77f",
