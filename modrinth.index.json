@@ -2001,21 +2001,6 @@
       "fileSize": 111317
     },
     {
-      "path": "mods/evenbetternether-1.3.0-neoforge-1.21.1.jar",
-      "hashes": {
-        "sha512": "d14d8a0bea55c63545d9fd8b1063c949df6165d29e3496755c3c94895f9c925b9af8cbb2a5a5f1f775bacae20435a67fe77775906296defb26f59341fd4c25f0",
-        "sha1": "b17e8f961e4e6639d6e66d659b2a3bdc915b3860"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/ZSdhSrVt/versions/cKXQ7dSi/evenbetternether-1.3.0-neoforge-1.21.1.jar"
-      ],
-      "fileSize": 1005340
-    },
-    {
       "path": "mods/explore_ruins_aether-1.0.0-neoforge-1.21.1.jar",
       "hashes": {
         "sha512": "02da0a1689689f0817043c1f42f7264f0446292cfba5d9428630d9cbf8ea24f509e74015b339a0e4cc211680b21bed19401736772d38cab8bfbaccb34fede569",
