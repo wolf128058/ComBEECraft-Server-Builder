@@ -2721,6 +2721,21 @@
       "fileSize": 317326
     },
     {
+      "path": "mods/neoforge-carpet-1.21.1-1.0.8+v251027.jar",
+      "hashes": {
+        "sha512": "1251195e45340b475b6ee8ea7712b33d9f5f84c87ec1f783e6276b12fc93cec877cefcfb083758395d09da5a890de5c659bbb1357e7092d5c70567b22629038e",
+        "sha1": "fffcc899d13b25c808d4d906cafa41de8cffc861"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XqqOkvZz/versions/lnOeoKcQ/neoforge-carpet-1.21.1-1.0.8%2Bv251027.jar"
+      ],
+      "fileSize": 1498683
+    },
+    {
       "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
       "hashes": {
         "sha512": "be26c53b4e7aa9dc27b05fe4cafdd120a3d1356410b35d25381d473bd9a7aa19ce6cec1bb982fda842f2a663d15dec5d12248b50141f9479a5e9ec33ed2ab3f7",
