@@ -3546,6 +3546,21 @@
       "fileSize": 3739809
     },
     {
+      "path": "mods/tt20-0.7.2+mc1.21.jar",
+      "hashes": {
+        "sha512": "5ac0e645f61e44f82bd52f8f592aadfa11df502d311730804cf7f7625d511086e7f82ef994df1f9f5f0ffb0eda9c3229ac219c13c2245da24cf018d6faa79699",
+        "sha1": "32689a528835f1d29c0b02baaa127ca582ecabe8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YS3ZignI/versions/izJJ7jqZ/tt20-0.7.2%2Bmc1.21.jar"
+      ],
+      "fileSize": 60778
+    },
+    {
       "path": "mods/txnilib-neoforge-1.0.24-1.21.1.jar",
       "hashes": {
         "sha512": "656cd5746fe1b3a2cc7c516619d9f88556f37387e672bb0f362c8aecefc6f1d06705d3a84564c8779856fbbf69fee67b6038a24ffcf46f36f2c478a1aff43a57",
