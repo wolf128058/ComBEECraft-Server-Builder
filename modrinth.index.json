@@ -3486,6 +3486,21 @@
       "fileSize": 192571
     },
     {
+      "path": "mods/toofast-1.21.0-0.4.3.5.jar",
+      "hashes": {
+        "sha512": "4108ff7d3ca21c4392f99df510bdcc5ca968def79ed0a855c8e77be91b583b4f435ee643b952a8238369db3bdcda3725c2efc84ca105fd0978b76c803ea250ec",
+        "sha1": "7940d2516a492ff687696dfc0f8b66a6c628baad"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/w6JSkKSH/versions/pDkjMI8q/toofast-1.21.0-0.4.3.5.jar"
+      ],
+      "fileSize": 3352
+    },
+    {
       "path": "mods/torchmaster-neoforge-1.21.1-21.1.9.jar",
       "hashes": {
         "sha512": "855dd7f37a01c617dddcb5fe569b14a14cff4d5ea7f53a958bec4a694eb4b82677160a2509a84a03e41adea2d44617434667f56f2191e6427811ddbdc63e48fc",
