@@ -411,21 +411,6 @@
       "fileSize": 1611531
     },
     {
-      "path": "mods/Explorify v1.6.4 f15-88.mod.jar",
-      "hashes": {
-        "sha512": "601ee61e3619ab6a929ff06e4e3db6cc480d97a19e5716ac40a2a325d2d609b857a1ac17f2c0ed2b242e662b5486f4e0f59584fbd47acd481b318c45c244254b",
-        "sha1": "5a9b99242bdb9437396f5a3c78decc567adab6a5"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/HSfsxuTo/versions/9vHj342y/Explorify%20v1.6.4%20f15-88.mod.jar"
-      ],
-      "fileSize": 951495
-    },
-    {
       "path": "mods/ExtendedAE-1.21-2.2.12-neoforge.jar",
       "hashes": {
         "sha512": "b5b408b18dc3c59d41f5b09105e90c2b449f496b365232485569555b2e9014c2217047c42e737e34ad66d04c833d9cb9d547cb49b45be95f3c71b615e504189d",
