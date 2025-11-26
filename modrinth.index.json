@@ -2976,6 +2976,21 @@
       "fileSize": 7047
     },
     {
+      "path": "mods/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
+      "hashes": {
+        "sha512": "ad2e779db3c0ddd05a5873384a5392bef533834e62a5e53b6f71c36a3389f2d0827a83fc26be83811a9e07987b0eca392d6a9dca438752564c5654a3775424d6",
+        "sha1": "be92f6f19c846641fe99ef1b4aaa76ea04c7460f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5hoSWfrw/versions/lms85HFr/plushie_buddies-0.1.7-neofroge-1.21.1.jar"
+      ],
+      "fileSize": 395626
+    },
+    {
       "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "hashes": {
         "sha512": "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5",
