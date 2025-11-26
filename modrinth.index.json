@@ -3441,6 +3441,21 @@
       "fileSize": 4737276
     },
     {
+      "path": "mods/rctmod-neoforge-1.21.1-0.17.1-beta.jar",
+      "hashes": {
+        "sha512": "1ac4bc1b60dd6d43f3f48475bd4f00f54ef6bc9d01248e340c3884059f651d5849116388e9bc624313c26dc21328def32f5be29775e48540581decd6a07a3727",
+        "sha1": "67559367584e95a8f3ecd13da022dc45da8ea167"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lRwTUnD7/versions/CaQCbFrI/rctmod-neoforge-1.21.1-0.17.1-beta.jar"
+      ],
+      "fileSize": 4738985
+    },
+     {
       "path": "mods/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
       "hashes": {
         "sha512": "5fcb978c04e3bff7b5a60e2589f0fd206169c6b26828a3c310aeb93d52ec93f594986006ac2d507d049a3b9ac8d1089a255034c7c7948cd3945b135581ee6cce",
