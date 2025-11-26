@@ -2976,6 +2976,21 @@
       "fileSize": 569818
     },
     {
+      "path": "mods/monsters_in_the_closet-1.0.3+1.21-forge.jar",
+      "hashes": {
+        "sha512": "8c699eb05e5d53dcfea03cd3eb16fda574a13a99d045715f842fec31af051bd6fa81adf2a81d107883265c61bd540fb61f48ebf4b63917c2d1e8edff982fec8d",
+        "sha1": "1baf3e2a2e45023e1db66e839e0c85e3daad5784"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GMA8jFBD/versions/8nOX0cUH/monsters_in_the_closet-1.0.3%2B1.21-forge.jar"
+      ],
+      "fileSize": 10441
+    },
+    {
       "path": "mods/moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar",
       "hashes": {
         "sha512": "3f1a22fff74805dbe1cc1ad2eaa9e4c4bbe3eddb77ed99bd873bdf9b8b6d0b55c12bf0064e5459816d4429250483e24978db816100a9b71462daaf1cdfe92af1",
