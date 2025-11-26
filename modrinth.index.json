@@ -3411,6 +3411,21 @@
       "fileSize": 227790
     },
     {
+      "path": "mods/rctapi-neoforge-1.21.1-0.14.1-beta.jar",
+      "hashes": {
+        "sha512": "d206b9dfa05fbcdb9164aea67323d1beb3d4a9ec63ec2746968193e70a35095f4b334a60fe5ecbc81352d0660ca8c10ba36b11ad973d919fb58eada06f301794",
+        "sha1": "50c6e607113ae515d18094ab5de40d80c1c190ac"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/CBfM2yw7/versions/THhPTcBj/rctapi-neoforge-1.21.1-0.14.1-beta.jar"
+      ],
+      "fileSize": 227804
+    },
+    {
       "path": "mods/rctmod-neoforge-1.21.1-0.17.0-beta.jar",
       "hashes": {
         "sha512": "510c1a2ba628b6bfecd53e62d621fede75d69d9af793851f7dda26ae3ae2a07acbdb895869f63c8236ba810d27f357a2af9245c9aa1f9b25da996edbe818357b",
