@@ -3081,6 +3081,21 @@
       "fileSize": 211972
     },
     {
+      "path": "mods/no-creeper-grief-v.1.1.0.jar",
+      "hashes": {
+        "sha512": "c105566d680e0ce2207e92495d62b13575c8383246b661a4ad68c7b3c0a926f4aaef35f6ccd275f4a4f957dce1c0171dac438aa8cf2c7c4fdff7ec9480dc11f9",
+        "sha1": "65755e1c72d05811b58837bba132ce462061c0c3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/flHpkyzN/versions/qYqbj3CB/no-creeper-grief-v.1.1.0.jar"
+      ],
+      "fileSize": 229574
+    },
+    {
       "path": "mods/observable-5.4.4.jar",
       "hashes": {
         "sha512": "e594ed3a4a211158db1282202a48ded9b824d2f326e985d86116ad1709b6111cf41eba3f6ad9a4a84a8053bc8a641f955c1d4090b5776bfb9448580c26816185",
