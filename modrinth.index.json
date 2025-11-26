@@ -2286,51 +2286,6 @@
       "fileSize": 5578066
     },
     {
-      "path": "mods/formations-1.0.4-neoforge-mc1.21.jar",
-      "hashes": {
-        "sha512": "09fd3bcb9b7d63f18a89693e4bd84548fa15761a60214e3e2f010c680c06914e92794661d1887746c9b4dfa1907d21533738ecda8557abf5801774f4875fc77f",
-        "sha1": "3845f96c9304f6956688f7a35205e9354bf411b0"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/tPe4xnPd/versions/ybUmDE8h/formations-1.0.4-neoforge-mc1.21.jar"
-      ],
-      "fileSize": 287525
-    },
-    {
-      "path": "mods/formationsnether-1.0.5-mc1.21+.jar",
-      "hashes": {
-        "sha512": "db25dd89c37c1e95880a570c63ca53aa4713064a19dbb8016dab63aa68232a252c93277b2b5f0e42e8006d8de197707bf487b431ead3d27f39b85f6551c6ff8e",
-        "sha1": "12b69c1cd22bbbe8c5888a030bef791b992b0d39"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/cGvQGRls/versions/6DBJbZXK/formationsnether-1.0.5-mc1.21%2B.jar"
-      ],
-      "fileSize": 942046
-    },
-    {
-      "path": "mods/formationsoverworld-1.0.5-mc1.21+.jar",
-      "hashes": {
-        "sha512": "cc1143bab8897f89db2b17e68068bd71ee19814beedde8a6ef4ca6dc1f3ef31828caf0952181730af2ac68f7a44d940b5dbbc9d9f1abe91752ca364f6864a370",
-        "sha1": "edbc169c78f9f1cdf5233e996f12b21e7e1cdf18"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/KX1XC0Oo/versions/oDpgbADk/formationsoverworld-1.0.5-mc1.21%2B.jar"
-      ],
-      "fileSize": 873370
-    },
-    {
       "path": "mods/friendsandfoes-neoforge-4.0.15+mc1.21.1.jar",
       "hashes": {
         "sha512": "f6658a9287b2ac7a714a5c09f71036d776b6f1311834bec4096b640ca721efc9f4a14c849b226e58c63c730df7a67c52890188dbba0838b593a02dae87e548a7",
