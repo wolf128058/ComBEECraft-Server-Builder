@@ -216,6 +216,21 @@
       "fileSize": 123683886
     },
     {
+      "path": "mods/CobblemonSizeVariationNeoforge-1.4.0+1.7.0.jar",
+      "hashes": {
+        "sha512": "e3702828b56177d12fb15e8ea8ee2957b8f0e850b50a7f55849cfdff65930720629cc9147fbc7aa90fa6450db803b89017d314fe0c2f7a171a25abf88e5fc242",
+        "sha1": "077fb58fc8b36e285c7225d0d96ffc5c7a83f03a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/bMdS1gMo/versions/kg0mJPYU/CobblemonSizeVariationNeoforge-1.4.0%2B1.7.0.jar"
+      ],
+      "fileSize": 96112
+    },
+    {
       "path": "mods/Cobbreeding-neoforge-2.1.0.jar",
       "hashes": {
         "sha512": "bab6a2d1b6d85fb2fefa6cca3d88afce7f21e6bfe88b432e1786c767c949ec73a3ff55574f05b4bb43b88a910c43844bfbd0ab5a570e32e9cb8c249aa026cf7c",
