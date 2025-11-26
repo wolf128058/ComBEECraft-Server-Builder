@@ -3411,6 +3411,21 @@
       "fileSize": 4737276
     },
     {
+      "path": "mods/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
+      "hashes": {
+        "sha512": "5fcb978c04e3bff7b5a60e2589f0fd206169c6b26828a3c310aeb93d52ec93f594986006ac2d507d049a3b9ac8d1089a255034c7c7948cd3945b135581ee6cce",
+        "sha1": "62ede9990220a5cb8397ee04c62fc2a4b0a25467"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/E6867niZ/versions/nVRC1t23/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar"
+      ],
+      "fileSize": 658173
+    },
+    {
       "path": "mods/reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
       "hashes": {
         "sha512": "28f0b04e8e448cc43e4a4a5684fe35e30e21e7db698aba24c556a5b2353b81fd749a4948d4bfe6465708997368d9253839a97794e67bf5ab35906395afadf00f",
