@@ -2646,6 +2646,21 @@
       "fileSize": 11217284
     },
     {
+      "path": "mods/luminax-1.3.1_neoforge_1.21.1.jar",
+      "hashes": {
+        "sha512": "310aa50a96c3fbee0d16f8bfdc0ac8b4d9bc0b4b4912518f5e34c11884abd305ebfc062c53cc6e5380b9a357791bf1ad9ce7b24259e0e13e5453021698a81203",
+        "sha1": "8ec996b9783d05d4c107a3ea727ff9c7d52ce452"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/v8pgbyzm/versions/4GevHoQn/luminax-1.3.1_neoforge_1.21.1.jar"
+      ],
+      "fileSize": 704672
+    },
+    {
       "path": "mods/ly-clumps-v1.0.2.jar",
       "hashes": {
         "sha512": "170f06766b6a528df6f72e4ba42e8d0a9101d89fa5ac108fef663ab6d7e4c44ace39f47733ab2102fbc93204322d1e42f00f91e14dfa9f199f15a5bdd43ba126",
