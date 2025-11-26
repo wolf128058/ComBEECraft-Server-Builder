@@ -2031,6 +2031,21 @@
       "fileSize": 315870
     },
     {
+      "path": "mods/easy-villagers-neoforge-1.21.1-1.1.39.jar",
+      "hashes": {
+        "sha512": "7ad2f9f279c2bd261a922ce78b40d477eb9867b0c20fa21fde94c1f1537bcda3c32dd3f9c5446a8b815a1b70698b4ed931ace60b569b28ad89279086141df64d",
+        "sha1": "bb682aaa2c27f0de53240f50b4f820991fa51b48"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Kaov2qgi/versions/Pdo9pdHy/easy-villagers-neoforge-1.21.1-1.1.39.jar"
+      ],
+      "fileSize": 449984
+    },
+    {
       "path": "mods/easy_npc-neoforge-1.21.1-6.0.21.jar",
       "hashes": {
         "sha512": "a82a0e0d8c083aa383f77e8bc83f5d05ebc35eb42bfa5d5fd7f3bd23fb52592bd5f53ea6abc2c6cccb4f61969de22aa6fafe72d32425ac85ca3b36714a5ddc45",
