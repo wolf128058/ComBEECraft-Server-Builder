@@ -3096,6 +3096,21 @@
       "fileSize": 108785
     },
     {
+      "path": "mods/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar",
+      "hashes": {
+        "sha512": "b969b2afd6d2b5e2085127399ccefaa2c6dcef9f91aada26c274f0afa633f9425a8aa6db225a48de33daefba04a9a6f48dd212f7b4487186aa861a560084982a",
+        "sha1": "b559696138085bdcf437674f095a4201b2587ddb"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gF3BGWvG/versions/M6DB7Bdh/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar"
+      ],
+      "fileSize": 1311358
+    },
+    {
       "path": "mods/oritech-neoforge-1.21.1-0.19.5.jar",
       "hashes": {
         "sha512": "52a8514911b1c59edd3f7f6b879b2827b2ea60b54923031bab1fdf425de134c416db610e9633dff9b8d19f1b58103d625e4ccf6653cb2235bbba727127481c26",
