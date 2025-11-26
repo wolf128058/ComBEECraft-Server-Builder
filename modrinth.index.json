@@ -81,6 +81,21 @@
       "fileSize": 4795368
     },
     {
+      "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "hashes": {
+        "sha512": "94724dd77d005f0a189c4843efcc2800cf3d3e01d1f1ac184c6f6ad7c921aec508e93fa0bfac0e641a74c1629d4e5e4d06b8c1a3e0d8e63f97db89b2f879c106",
+        "sha1": "829d33e71b30e9158d772f5963bb6020f6026d78"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9NM0dXub/versions/OWylG33I/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar"
+      ],
+      "fileSize": 195730
+    },
+    {
       "path": "mods/AetherVillages-1.21.1-1.0.8-neoforge.jar",
       "hashes": {
         "sha512": "6721d6fcc1b3d5135facef730cdcca3accbae7e8f9a241b3ac2120242d8b8b6b91de5770a84edda57de16a041a8b8025dac6d7d21527a2d782dc844221c4e8b3",
