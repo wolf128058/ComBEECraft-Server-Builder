@@ -1641,6 +1641,21 @@
       "fileSize": 785865
     },
     {
+      "path": "mods/cobblestats-neoforge-1.7+1.21.1.jar",
+      "hashes": {
+        "sha512": "29ac65c11fa6227c2433338aff3aa505ed00deca02e61c80013b1809b82af5762e14660fb8206e51f1ed7ad9376c848ea521116c612a5f3b1b6f180a9e307524",
+        "sha1": "f1c23962e2e1468a12207a9a7799ed2275cdd400"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jlXFcQk4/versions/bPy998yd/cobblestats-neoforge-1.7%2B1.21.1.jar"
+      ],
+      "fileSize": 60170
+    },
+    {
       "path": "mods/collective-1.21.1-8.13.jar",
       "hashes": {
         "sha512": "20ade6d666440659d38ec43202624993f47681a844c7f9e3e66a462e9f88f5d98bdd9a0a26278b1ed94bd4836b3c9cdbcfef73ad8515555f239e84bfea45d938",
