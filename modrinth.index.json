@@ -2091,6 +2091,21 @@
       "fileSize": 449984
     },
     {
+      "path": "mods/easy_mob_farm-neoforge-1.21.1-10.2.0.jar",
+      "hashes": {
+        "sha512": "f6d091c6d17dba65a3cb80262e0493580f2e12954778834a5e23039f56e2447b450ea7fb244ad0a1502e797d5fca7d22315ace54c58da03e1a0871e08fd1d736",
+        "sha1": "23a926ae4968c395319a5378f98317674133ff0e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/crxsDbEo/versions/KdMqYtm4/easy_mob_farm-neoforge-1.21.1-10.2.0.jar"
+      ],
+      "fileSize": 851949
+    },
+    {
       "path": "mods/easy_npc-neoforge-1.21.1-6.0.21.jar",
       "hashes": {
         "sha512": "a82a0e0d8c083aa383f77e8bc83f5d05ebc35eb42bfa5d5fd7f3bd23fb52592bd5f53ea6abc2c6cccb4f61969de22aa6fafe72d32425ac85ca3b36714a5ddc45",
