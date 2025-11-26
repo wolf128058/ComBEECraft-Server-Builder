@@ -3936,21 +3936,6 @@
       "fileSize": 50827
     },
     {
-      "path": "mods/tectonic-3.0.17-neoforge-1.21.1.jar",
-      "hashes": {
-        "sha512": "705422e7140332d54de5f2e4eee4f1a82ebfd2d1a36d2e59216ab56982de79b2e6ae62f78927b98b15bdcaedbc7f4a49ff8ee58a1508c06695d594b1583837c8",
-        "sha1": "aca67dff6d4cf4590f307523adf40a28d49fa351"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lWDHr9jE/versions/fTPmbv20/tectonic-3.0.17-neoforge-1.21.1.jar"
-      ],
-      "fileSize": 317752
-    },
-    {
       "path": "mods/terrablenderfix-neoforge-1.21.1-0.0.1.jar",
       "hashes": {
         "sha512": "b54de742dec0d9227b1ac805f749850376a5ef89fc3d7370ab85ec96c509e63e00fc26c94eb56b91cbdd4408a01ac83b4b1571080c7dfa5fb2b0a71fe6a05c2d",
