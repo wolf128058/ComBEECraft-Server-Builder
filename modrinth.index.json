@@ -3096,6 +3096,21 @@
       "fileSize": 229574
     },
     {
+      "path": "mods/no-enderman-grief-v.2.1.2.jar",
+      "hashes": {
+        "sha512": "c8c2e1e93f090e2afdefbfcbe0061dfc6843010394d50a0e17d99e7717794b567a1d98a63667551f98843022aa67499524d31c308902b872273dd4664b5d54d8",
+        "sha1": "03ca2659cd9021825fc3ef75a168e5b7c872c2eb"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ss02V75k/versions/60P6f4CJ/no-enderman-grief-v.2.1.2.jar"
+      ],
+      "fileSize": 94951
+    },
+    {
       "path": "mods/observable-5.4.4.jar",
       "hashes": {
         "sha512": "e594ed3a4a211158db1282202a48ded9b824d2f326e985d86116ad1709b6111cf41eba3f6ad9a4a84a8053bc8a641f955c1d4090b5776bfb9448580c26816185",
