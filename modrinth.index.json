@@ -1251,6 +1251,21 @@
       "fileSize": 113380
     },
     {
+      "path": "mods/amendments-1.21-2.0.9-neoforge.jar",
+      "hashes": {
+        "sha512": "86d03194c23cf6e0950b92413d9933e2988e5e62a8cfdf0116b8a89f7df914c753247203ee6c93a68802b4a95d34510af9587cdc6cc649a9e13c4e03078c422c",
+        "sha1": "49215840a534d0ecea8e07c7219b275e506ed2c5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6iTJugQR/versions/1sGIeJE4/amendments-1.21-2.0.9-neoforge.jar"
+      ],
+      "fileSize": 1137431
+    },
+    {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.7.jar",
       "hashes": {
         "sha512": "03a94fe4143250b8e80abe97770918ba0af1265110bb73c25444674f9cdf86164464332a913cbac29af82d8ed02dce6ef19bbb62fced92620817a7ec1e761b71",
