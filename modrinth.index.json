@@ -2256,6 +2256,21 @@
       "fileSize": 621848
     },
     {
+      "path": "mods/groveextras-1.1.8.jar",
+      "hashes": {
+        "sha512": "852e01dd0c89aff1564ce00942a9e27a8456c27db0cbb699d605993560a64212349fa39a6d9ab5b7d9002cffe40d64fd5dcd592c971b92d20d625c40c04407ab",
+        "sha1": "f252c7c6230b9be441f0ce47ac148081ca4f9bd3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nTMwRGmx/versions/TXH7fs4M/groveextras-1.1.8.jar"
+      ],
+      "fileSize": 17627680
+    },
+    {
       "path": "mods/guideme-21.1.15.jar",
       "hashes": {
         "sha512": "4a35b2d9ae3958cb9e152757223b0fc0f85ed2c55da2c3bb773b9a353cf5db15e4294ac2b6d897c0d7c82674dd86c084dd2e35fb80b5bcf92067735c03288edc",
