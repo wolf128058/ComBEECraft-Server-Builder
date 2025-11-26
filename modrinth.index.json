@@ -3651,6 +3651,21 @@
       "fileSize": 518643
     },
     {
+      "path": "mods/supplementaries-1.21-3.4.20-neoforge.jar",
+      "hashes": {
+        "sha512": "0206956afafee9846f902bd8d40b56b1707d77bfb8ae6eb1a61499860eccb897ccff81d0a64a8f99202daa2df0111998bf276dd625199129d2ce628a899b2bed",
+        "sha1": "56e352df4def87fbcd620f2d8ebd7682a0c2bb84"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/rEEPz2OX/supplementaries-1.21-3.4.20-neoforge.jar"
+      ],
+      "fileSize": 12413238
+    },
+    {
       "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
       "hashes": {
         "sha512": "5edc9324618b481b60e1c970138a60842d79a9e486cc89c83f01ca41eb193c55ac622dedbe48799492c59b4e8d25c53757396f8fb3d4806eb5b1de12e5d7dd0c",
