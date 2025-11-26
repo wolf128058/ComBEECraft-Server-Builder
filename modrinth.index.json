@@ -3455,7 +3455,52 @@
       ],
       "fileSize": 4738985
     },
-     {
+    {
+      "path": "mods/rechiseled-1.1.6a-neoforge-mc1.21.jar",
+      "hashes": {
+        "sha512": "522c870ce447eed0ffe269805f5bd3d776a960249f864a49ba3f203bff2d2f353cc62cd79978fd9a352d68b312e0f02f918d53b3f66869c80c9c9af311e5b534",
+        "sha1": "26e4487b4e4441702a984c12af5e521b4b1b0bef"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/B0g2vT6l/versions/UZPjD9WH/rechiseled-1.1.6a-neoforge-mc1.21.jar"
+      ],
+      "fileSize": 3484553
+    },
+    {
+      "path": "mods/rechiseled_chipped-1.4-1.21.1.jar",
+      "hashes": {
+        "sha512": "d679dc2664a1043cf42a382a1861303f838bc9461fb0a15fcbcdc7c8e789c2efa3294e82c355104ed7b9acf393be2cdfc9e435a0c75cce13f374899179ec550f",
+        "sha1": "e038b5c150babffa95ee6631e3ad67bf50e701f3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ryYcxeeA/versions/4Camklbj/rechiseled_chipped-1.4-1.21.1.jar"
+      ],
+      "fileSize": 194358
+    },
+    {
+      "path": "mods/rechiseledae2-neoforge-1.21-1.21.1-1.0.0.jar",
+      "hashes": {
+        "sha512": "355c9c95aaad5f126f93db9e694c12bba836632313060722eeed38b7d39eb48a44290864d4d7f3b03755897ac8b547706de6f05b16fe1d1d1c50782e2ab1d7c3",
+        "sha1": "8235516df96d621d8b17749cee483b98703ba076"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sDBUwZVY/versions/QyElNsOO/rechiseledae2-neoforge-1.21-1.21.1-1.0.0.jar"
+      ],
+      "fileSize": 275513
+    },
+    {
       "path": "mods/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
       "hashes": {
         "sha512": "5fcb978c04e3bff7b5a60e2589f0fd206169c6b26828a3c310aeb93d52ec93f594986006ac2d507d049a3b9ac8d1089a255034c7c7948cd3945b135581ee6cce",
