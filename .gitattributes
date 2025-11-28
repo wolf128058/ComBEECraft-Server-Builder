@@ -3,3 +3,4 @@ overrides/**/*.jar filter=lfs diff=lfs merge=lfs -text
 overrides/**/*.zip filter=lfs diff=lfs merge=lfs -text
 *.icns filter=lfs diff=lfs merge=lfs -text
 *.ogg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
