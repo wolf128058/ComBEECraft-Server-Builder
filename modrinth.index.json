@@ -486,6 +486,21 @@
       "fileSize": 98320
     },
     {
+      "path": "mods/FramedBlocks-10.5.1.jar",
+      "hashes": {
+        "sha512": "51cca270b93fd3180f25c0f8ceb00e8d7cba4829556e71d5535179d64d3db79268bd7630c040d599cb4e4cdfb24ca3c1b3fa039933e382a97279a6824d642b4c",
+        "sha1": "b9017c290dca4539441ce214466f8674f263603e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/wbgfS34j/versions/q6hnNGtC/FramedBlocks-10.5.1.jar"
+      ],
+      "fileSize": 4283953
+    },
+    {
       "path": "mods/Glodium-1.21-2.2-neoforge.jar",
       "hashes": {
         "sha512": "56a387a1bdaf0146c9a7e14de0aca8b6f53f25d3ba9d46255f142043387282ed9e4fa0011d309e32d9ffe5362b129c07e301226dd4ac11eda9a4f42f27c0b5d1",
