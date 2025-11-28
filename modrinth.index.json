@@ -1641,6 +1641,21 @@
       "fileSize": 367106
     },
     {
+      "path": "mods/cobblemonjourneymounts-1.4.0.jar",
+      "hashes": {
+        "sha512": "fcd5fc10a62c25e6c10788ae634748990e7aa6e0b297a935cbc53e70998bea2d441093e1aec3a91d1f25cc236d0f6c457a5ec5ad0f8bf840a4a0437bc58340b1",
+        "sha1": "23b33e97e94e2235106e880cdc74d3d2d1c4e6b1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Vn5WCYr6/versions/xUxGcph5/cobblemonjourneymounts-1.4.0.jar"
+      ],
+      "fileSize": 1261469
+    },
+    {
       "path": "mods/cobblemonpokemonbadges-neoforge-0.1.1.jar",
       "hashes": {
         "sha512": "d5f1697282ce4a2334b3a3975ac25c5d26b00d93736b78fa70c8ab5f780dcc870fff7405d238a74298f9420f28f11d26529cdddb9ece8f341a1043b6880d9741",
