@@ -36,6 +36,21 @@
       "fileSize": 655394
     },
     {
+      "path": "datapacks/CCCwLegends1.6Beta.zip",
+      "hashes": {
+        "sha512": "ccb6aa5a7e1df31bc88d7c91cb83d7b1acfc203e8dc5aa68d3bd3491e8dc2bc49f7cbc9fcc8942ed28889138e4e7f8502762d9a18065c2694a293d4a104e3a62",
+        "sha1": "c6b2a4f702e7949c4d395f746c53d4cef6539856"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/578VPQc9/versions/uDyTJCxL/CCCwLegends1.6Beta.zip"
+      ],
+      "fileSize": 16537365
+    },
+    {
       "path": "mods/AEAdditions-1.21.1-6.0.2.jar",
       "hashes": {
         "sha512": "7277df53e3b37b5893680e7ed34ef14be5c181069a6d54a9debf6e16a44617214da8fc09323c1fa4f2067af96d08fe1f4d31affc7623c052f3a3cb45357b454b",
