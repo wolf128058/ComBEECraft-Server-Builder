@@ -6,6 +6,21 @@
   "summary": "",
   "files": [
     {
+      "path": "datapacks/AllTheMons R3.0.zip",
+      "hashes": {
+        "sha512": "9c4d23d75fb6840426e297568f1cbba646598d6ee0d77e34175e428885e643f7c6524260e134cafd791298ce785647965e517116df0b45789ffe51837e7062d4",
+        "sha1": "734932a8aef4d091e53a9de849bf0fc0fada9d8a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/JV5dvqVX/versions/KbK2OTtL/AllTheMons%20R3.0.zip"
+      ],
+      "fileSize": 11054345
+    },
+    {
       "path": "datapacks/BCA-Datapack-3.8_CE_norm_M1.21.1_C1.6.1.zip",
       "hashes": {
         "sha512": "65d97aeb98572b264badf9c19b7994853472910dc2b9da2c962525e6f635deae812b9bf7a7e1886fcdf5e72764271fa0543d9066bb43f71a60028507e6e4e35c",
