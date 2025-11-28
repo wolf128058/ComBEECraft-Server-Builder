@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.5-fix02",
+  "versionId": "0.0.5-fix03",
   "name": "CombeeCraft Server",
   "summary": "",
   "files": [
@@ -619,21 +619,6 @@
         "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
       ],
       "fileSize": 74419
-    },
-    {
-      "path": "mods/LuckPerms-NeoForge-5.4.140.jar",
-      "hashes": {
-        "sha512": "50d94c5a9d2635a445a2bd4f2f16c22172678b93315e3d91fa0829349ccd2b02944354af7baa3e6ae0c7bfe19f497b09af461f84aacc93900b59b75a07cd0290",
-        "sha1": "bd368d3254d81120a8c287f79c0467478ad2d73e"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Vebnzrzj/versions/rnvg05YO/LuckPerms-NeoForge-5.4.140.jar"
-      ],
-      "fileSize": 1434674
     },
     {
       "path": "mods/MoogsNetherStructures-1.21-2.0.1.jar",
@@ -2916,21 +2901,6 @@
       "fileSize": 12589770
     },
     {
-      "path": "mods/mega_showdown-neoforge-1.0+1.7+1.21.1.jar",
-      "hashes": {
-        "sha512": "72a704c3a99bf465a07ac3a850d85159552d4b8339470e815902fb1ab9fb1c89bb5bca98feaecd7471fd7b71121fd7c877fe4f1acee226802081349ccbf91429",
-        "sha1": "96459b5c73fd20982bd603701b0a11959cc61648"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/SszvX85I/versions/BYbgTmQi/mega_showdown-neoforge-1.0%2B1.7%2B1.21.1.jar"
-      ],
-      "fileSize": 15796438
-    },
-    {
       "path": "mods/mega_showdown-neoforge-1.3+1.7+1.21.1.jar",
       "hashes": {
         "sha512": "6b4ba6ec493a379545cba02103a6c863dbeeba1f871c3693720fdd5ae437c0e80dcef18de23439787b8927ac7f63706d1560224637b8e0aae5dc561408061eab",
@@ -3949,21 +3919,6 @@
         "https://cdn.modrinth.com/data/38tpSycf/versions/QxntUSgI/the_bumblezone-7.11.5%2B1.21.1-neoforge.jar"
       ],
       "fileSize": 69604636
-    },
-    {
-      "path": "mods/timcore-neoforge-1.7.0-1.21.1.jar",
-      "hashes": {
-        "sha512": "133b828d7dbaa023e1ff6eb8fd652f122a54ae8cc0ce31beb49b1dee6ce6aca6dfb8efa009fe5a3d32af405cb34ce5d7fe54427d62768624e9b013e79db310fc",
-        "sha1": "4fc81c0ce6742516a0ebaf352451bdfa15100648"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lVP9aUaY/versions/KFdg2SL6/timcore-neoforge-1.7.0-1.21.1.jar"
-      ],
-      "fileSize": 192571
     },
     {
       "path": "mods/timcore-neoforge-1.7.0-1.26.0.jar",
