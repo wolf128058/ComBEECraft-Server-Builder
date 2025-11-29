@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.5-fix04",
+  "versionId": "0.0.5-fix05",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -3381,21 +3381,6 @@
       "fileSize": 595137
     },
     {
-      "path": "mods/rctapi-neoforge-1.21.1-0.14.0-beta.jar",
-      "hashes": {
-        "sha512": "e92f3bc14222d0eb14c140f6235e69c63b61958028933ff70a7f85f5fa886077708582373eaa2a927d0893369dd00a9ce39e197b1a6528065b260983b437ea05",
-        "sha1": "810b693495573f59b523f2f002141e799b9af82e"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/CBfM2yw7/versions/tyDYOwoZ/rctapi-neoforge-1.21.1-0.14.0-beta.jar"
-      ],
-      "fileSize": 227790
-    },
-    {
       "path": "mods/rctapi-neoforge-1.21.1-0.14.1-beta.jar",
       "hashes": {
         "sha512": "d206b9dfa05fbcdb9164aea67323d1beb3d4a9ec63ec2746968193e70a35095f4b334a60fe5ecbc81352d0660ca8c10ba36b11ad973d919fb58eada06f301794",
@@ -3409,21 +3394,6 @@
         "https://cdn.modrinth.com/data/CBfM2yw7/versions/THhPTcBj/rctapi-neoforge-1.21.1-0.14.1-beta.jar"
       ],
       "fileSize": 227804
-    },
-    {
-      "path": "mods/rctmod-neoforge-1.21.1-0.17.0-beta.jar",
-      "hashes": {
-        "sha512": "510c1a2ba628b6bfecd53e62d621fede75d69d9af793851f7dda26ae3ae2a07acbdb895869f63c8236ba810d27f357a2af9245c9aa1f9b25da996edbe818357b",
-        "sha1": "1d5f188bafae946abd103ccf118a0fc9ff240725"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lRwTUnD7/versions/el22CFFM/rctmod-neoforge-1.21.1-0.17.0-beta.jar"
-      ],
-      "fileSize": 4737276
     },
     {
       "path": "mods/rctmod-neoforge-1.21.1-0.17.1-beta.jar",
