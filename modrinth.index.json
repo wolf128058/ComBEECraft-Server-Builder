@@ -426,21 +426,6 @@
       "fileSize": 264089
     },
     {
-      "path": "mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
-      "hashes": {
-        "sha512": "9d69f66389d3c8c9a3572854f839b503fee00b67f9c5e8d51fcdc9dd16170448d5ad98abaaccedbb2091ab70ef2b450cbc90e6ff11d9735638bf7672d6f3d5d2",
-        "sha1": "120a2f2ad8f9fcbefebd087c60592b8057a834fc"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2rL16t1O/versions/PvmN3OKy/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar"
-      ],
-      "fileSize": 1611531
-    },
-    {
       "path": "mods/ExtendedAE-1.21-2.2.12-neoforge.jar",
       "hashes": {
         "sha512": "b5b408b18dc3c59d41f5b09105e90c2b449f496b365232485569555b2e9014c2217047c42e737e34ad66d04c833d9cb9d547cb49b45be95f3c71b615e504189d",
