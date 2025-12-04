@@ -1641,21 +1641,6 @@
       "fileSize": 174305
     },
     {
-      "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.4.jar",
-      "hashes": {
-        "sha512": "4d6a1a3db5ddeb60dbbd1d1ad0299d984662beff83bc8bfe1baae76fe85a45b36099af9183ed2570888ce7a25543cd8225506e23c23639394f55b5919f91dc92",
-        "sha1": "5d4d1d081a7d8585f26b4fcc283b6dc49b206630"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NPCfuUI4/versions/J2XZJowS/cobblemonintegrations-neoforge-1.21.1-1.1.4.jar"
-      ],
-      "fileSize": 367106
-    },
-    {
       "path": "mods/cobblemonjourneymounts-1.4.0.jar",
       "hashes": {
         "sha512": "fcd5fc10a62c25e6c10788ae634748990e7aa6e0b297a935cbc53e70998bea2d441093e1aec3a91d1f25cc236d0f6c457a5ec5ad0f8bf840a4a0437bc58340b1",
