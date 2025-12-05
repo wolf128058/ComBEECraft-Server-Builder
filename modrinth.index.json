@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0-preview05",
+  "versionId": "1.0.0-preview06",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -2254,6 +2254,21 @@
         "https://cdn.modrinth.com/data/uTGjf7vA/versions/nwQ8MthQ/easy_npc_config_ui-neoforge-1.21.1-6.1.0.jar"
       ],
       "fileSize": 651404
+    },
+    {
+      "path": "mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
+      "hashes": {
+        "sha512": "2b13e5daf0e54d7d004a1fbdcfbd75909f32c83527df727f708106b7d5770b790d35facb2308b2fd63540f40c895ff4c7cc30916bb5e6c4934f06484fbaed16e",
+        "sha1": "87a5504efcd51de55cd4215a103cbfcf717fa022"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hi2dSXTu/versions/NKEMiRIu/elevatorid-neoforge-1.21.1-1.11.4.jar"
+      ],
+      "fileSize": 191190
     },
     {
       "path": "mods/elytraslot-neoforge-9.0.2+1.21.1.jar",
