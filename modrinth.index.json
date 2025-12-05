@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0-preview03",
+  "versionId": "1.0.0-preview04",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -3576,19 +3576,19 @@
       "fileSize": 217587
     },
     {
-      "path": "mods/relics-1.21.1-0.11.3.jar",
+      "path": "mods/relics-1.21.1-0.10.7.6.jar",
       "hashes": {
-        "sha512": "d83d48b823ab471f7047257daa8d978cc09ba896c2c8906ababa4c349ad718d28cd7039c2574d2b901f003913a4290ac0c5d1b4a4869d6164a30e63bf00c31f2",
-        "sha1": "0ede088f203a93fab05d41dc11008c8d2f88b8e9"
+        "sha512": "7af59fba04d9b370a8642bf089b89630718861cf386064ee0b758f8701a1ad92dab978e6e1fc22fe0c14746b9ad2233ebb950b2e482541d0803a4df7c0c83192",
+        "sha1": "d01514adde52d511bc857495d35e9b6a7b1423a7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/OCJRPujW/versions/nk2SLbnj/relics-1.21.1-0.11.3.jar"
+        "https://cdn.modrinth.com/data/OCJRPujW/versions/pHqkVRdi/relics-1.21.1-0.10.7.6.jar"
       ],
-      "fileSize": 3463437
+      "fileSize": 2752737
     },
     {
       "path": "mods/reliquified_lenders_cataclysm-1.21.1-0.1.1.jar",
