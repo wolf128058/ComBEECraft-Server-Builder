@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.0-preview01",
+  "versionId": "1.0.0-preview02",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -1159,6 +1159,36 @@
         "https://cdn.modrinth.com/data/jtmvUHXj/versions/CtRim6mz/accessories-neoforge-1.1.0-beta.52%2B1.21.1.jar"
       ],
       "fileSize": 1078973
+    },
+    {
+      "path": "mods/accessories_compat_layer-neoforge-0.1.10+1.21.1.jar",
+      "hashes": {
+        "sha512": "d53e77c2650c74beb90c242eae85413d6607a4253ef55cddb4e98565786f3591c4d27f5316ecf6b9d9f1878368e0c132f670f95d7e9a9a6eb0967be297b4b5e5",
+        "sha1": "81075dd9ba87a5e2814548e9e3ab20001f0a06de"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ySnjMzLg/versions/6ocwvkgG/accessories_compat_layer-neoforge-0.1.10%2B1.21.1.jar"
+      ],
+      "fileSize": 376256
+    },
+    {
+      "path": "mods/aces_spell_utils-1.1.18-1.21.1.jar",
+      "hashes": {
+        "sha512": "9a2a8223ec52cf32681f04fd4cda34f5e7a52afcba56a500b3da524a6570b8445c3669785b8b82e605693ab974e3bf39226c61c10a78c476e3d16523c3851291",
+        "sha1": "4276688051770be6235f6e7cb5c0935353ab010a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7Jy4rK9m/versions/VDFycs8J/aces_spell_utils-1.1.18-1.21.1.jar"
+      ],
+      "fileSize": 157372
     },
     {
       "path": "mods/addonslib-neoforge-1.21.1-1.9.jar",
