@@ -1,0 +1,112 @@
+[
+  {
+    "alias": "Placebo",
+    "id": 283644,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "Simplylight",
+    "id": 300331,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "Apotheosis",
+    "id": 313970,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "Prometheus Exporter",
+    "id": 351938,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "GatewaysToEternity",
+    "id": 417802,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "ForgePlaceholderAPI",
+    "id": 545871,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft core",
+    "id": 653786,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft world",
+    "id": 653789,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft override",
+    "id": 653790,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "xycraft machines",
+    "id": 653791,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "irons spellbooks",
+    "id": 855414,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "ApothicAttributes",
+    "id": 898963,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "productive farming",
+    "id": 944463,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "Apothic Spawners",
+    "id": 986583,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "ApothicEnchanting",
+    "id": 1063926,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "cataclysm_spellbooks",
+    "id": 1099461,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "irons_jewelry",
+    "id": 1101111,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "cobblegengalore",
+    "id": 1108467,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "atlas_api",
+    "id": 1145462,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "productivemetalworks",
+    "id": 1184570,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "sgearmetalworks",
+    "id": 1199188,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "irons_apothic",
+    "id": 1244863,
+    "path": "overrides/mods"
+  }
+]
