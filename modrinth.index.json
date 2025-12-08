@@ -861,6 +861,21 @@
       "fileSize": 8154
     },
     {
+      "path": "mods/SimpleTMs-neoforge-2.2.1.jar",
+      "hashes": {
+        "sha512": "598b4e6be3bc008a6dae6eb89d9133fa9fa137065422c2c4a5f507f732769f4366c399d9a7d30cf8f56adb9682313d39c1f1c853060230e8cfe760960da27c2e",
+        "sha1": "8e82a414e8cae8653d90bdc77378d4dd06084e37"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yFqR0DNc/versions/ibBTJFGh/SimpleTMs-neoforge-2.2.1.jar"
+      ],
+      "fileSize": 720461
+    },
+    {
       "path": "mods/SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar",
       "hashes": {
         "sha512": "507e145249aa5eb5ddb1b97f9e48084219ba81d2b97f5b7dc5e6a72b368f6dbeaf1c521b0a722e5125b88e94dfb2586ee5c992340678c5de52567c67d72a924d",
