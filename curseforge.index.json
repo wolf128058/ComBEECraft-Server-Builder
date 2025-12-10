@@ -70,11 +70,6 @@
     "path": "overrides/mods"
   },
   {
-    "alias": "ApothicEnchanting",
-    "id": 1063926,
-    "path": "overrides/mods"
-  },
-  {
     "alias": "cataclysm_spellbooks",
     "id": 1099461,
     "path": "overrides/mods"
