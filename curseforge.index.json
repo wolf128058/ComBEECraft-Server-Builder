@@ -10,11 +10,6 @@
     "path": "overrides/mods"
   },
   {
-    "alias": "Apotheosis",
-    "id": 313970,
-    "path": "overrides/mods"
-  },
-  {
     "alias": "Prometheus Exporter",
     "id": 351938,
     "path": "overrides/mods"
