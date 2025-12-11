@@ -636,6 +636,21 @@
       "fileSize": 138071302
     },
     {
+      "path": "mods/Mekanism-1.21.1-10.7.17.83.jar",
+      "hashes": {
+        "sha512": "df8de81d0c57894e4965ad39aa7468576a95007d07de96d021b9d0a89ba82b2da53beeda590a21f665e57dd358c7c88c3382f2eea0d678d18a58f9519d352886",
+        "sha1": "2977b4f3130f8abab508ff56d774bb2cd419c5d0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ce6I4WUE/versions/D32JUF51/Mekanism-1.21.1-10.7.17.83.jar"
+      ],
+      "fileSize": 11950439
+    },
+    {
       "path": "mods/MoogsEndStructures-1.21-2.0.0.jar",
       "hashes": {
         "sha512": "b41f683a8ea99b5932802f077f7ea22dbcf733159d36ad43a05c2379b50f9f4c3ddcef9cfe0abbba68230e12b2cc4a3ebf1969be1746ef8b1db5398eb89e5940",
@@ -3229,21 +3244,6 @@
         "https://cdn.modrinth.com/data/gF3BGWvG/versions/M6DB7Bdh/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar"
       ],
       "fileSize": 1311358
-    },
-    {
-      "path": "mods/oritech-neoforge-1.21.1-0.19.7.jar",
-      "hashes": {
-        "sha512": "e42bb0417a941bcce9ccae7dd745cfb3f46420976f3a83ee8d1d17c6b1535ece59d487282a20adae6f99ba457ae88dc4f6bd1185ae54364bc5c269ab9e2caf4c",
-        "sha1": "dcf527a374a4ba7359d0ed7895d1eb0926d42411"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/4sYI62kA/versions/bxNYCj9r/oritech-neoforge-1.21.1-0.19.7.jar"
-      ],
-      "fileSize": 8866405
     },
     {
       "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
