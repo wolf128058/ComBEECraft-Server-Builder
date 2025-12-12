@@ -831,6 +831,21 @@
       "fileSize": 1365582
     },
     {
+      "path": "mods/Powah-6.2.7.jar",
+      "hashes": {
+        "sha512": "b1ff213c077ae29e078d8d785f13842b90d1df02800a3d2a434a495572f0e730b08cb22b83f6015e4f3a0080ef075f01ce4580fba661b047fac05d56b8fb9f75",
+        "sha1": "210644efe4936d299e486a811a7515ab73fd51cc"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KZO4S4DO/versions/K5Vhgari/Powah-6.2.7.jar"
+      ],
+      "fileSize": 2868518
+    },
+    {
       "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
       "hashes": {
         "sha512": "84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132f57a417e5bc679565439784c268b92ee8d353e4b26f86d3ef5e1c5453b",
