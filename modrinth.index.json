@@ -2571,21 +2571,6 @@
       "fileSize": 576866
     },
     {
-      "path": "mods/irons_apothic_invaders_1.0.0.jar",
-      "hashes": {
-        "sha512": "6896becf09749e8916211b3fbee96f03b89066283ed26cf2930d928d21c1c37069aaca692e00a7b439c3c47aef05a7cc872ce27568cec9ed71fbc10198fd4cb0",
-        "sha1": "320585bf9ef2120545fbe481655cbb09650b7e15"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/1veFBGT4/versions/JoyvwffA/irons_apothic_invaders_1.0.0.jar"
-      ],
-      "fileSize": 124889
-    },
-    {
       "path": "mods/irons_spellbooks-1.21.1-3.14.4.jar",
       "hashes": {
         "sha512": "93fca12e66e2b4de458c0474c26b2de7ceaf93cc91d4cca723e9ade5582d4903faa8a4e601ce58a14fc1f02f651fadd497b289506d46cea47f52b808ccc9257f",
