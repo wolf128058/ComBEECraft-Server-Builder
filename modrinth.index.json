@@ -1,24 +1,24 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.4-preview01",
+  "versionId": "1.0.4-preview02",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
     {
-      "path": "datapacks/AllTheMons [R3.1].zip",
+      "path": "datapacks/ATM x MSD [v3.1.1].zip",
       "hashes": {
-        "sha512": "9427f1f903335ce832e67a88dab9a341bdce8edc175dbf2adaead39280efffacafd2ec25714ae77729ae0e7907d282a1f67eac89cae6a0668e42692e6fdab73d",
-        "sha1": "6624afe4b2b43f98d4c115ee89a3e3779e689a09"
+        "sha512": "de2d1c877bede5b96f7086d61b286582712a9ef65cc57c90d82371170fe8e6ccdb9b4e4bde645833ab7a8ef0f3a848fae57a62d9255c25d92f6533bcb3d9b58d",
+        "sha1": "7186490990329f0633ec9fea438a69381e6ffce7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/JV5dvqVX/versions/EGw7rMZ1/AllTheMons%20%5BR3.1%5D.zip"
+        "https://cdn.modrinth.com/data/odZZdRCE/versions/kdtjENFG/ATM%20x%20MSD%20%5Bv3.1.1%5D.zip"
       ],
-      "fileSize": 10821188
+      "fileSize": 8186350
     },
     {
       "path": "datapacks/BCA-Datapack-3.8_CE_norm_M1.21.1_C1.6.1.zip",
@@ -861,6 +861,21 @@
       "fileSize": 8154
     },
     {
+      "path": "mods/SimpleTMs-neoforge-2.3.3.jar",
+      "hashes": {
+        "sha512": "9adb638419e08c05fc1eb123903848c3e999cfea9b3e111f22f4869891be282fc18b4a17066027757bbb0a5ee3ef0be0a7d278d7f593f26a5dd68280ef0edc01",
+        "sha1": "f30723c57a72ff9c9f4b54fe1652430273355607"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yFqR0DNc/versions/uaKfPMYS/SimpleTMs-neoforge-2.3.3.jar"
+      ],
+      "fileSize": 825317
+    },
+    {
       "path": "mods/SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar",
       "hashes": {
         "sha512": "507e145249aa5eb5ddb1b97f9e48084219ba81d2b97f5b7dc5e6a72b368f6dbeaf1c521b0a722e5125b88e94dfb2586ee5c992340678c5de52567c67d72a924d",
@@ -1234,6 +1249,21 @@
         "https://cdn.modrinth.com/data/cl5ec0Qm/versions/PX9DyVnh/addonslib-neoforge-1.21.1-1.9.jar"
       ],
       "fileSize": 132924
+    },
+    {
+      "path": "mods/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
+      "hashes": {
+        "sha512": "fea6cf8dcfb7b0a0bd7131885b304caec475a56564c60580cd2b2352399df1fb22b5f1b3e979f8a0d2e7175c25f1581b13794e89f23e3bb4491b83f2604cbdc0",
+        "sha1": "ffb0d0a6d4300157ee1cafddd014daa9df724a80"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/K7VSm2YY/versions/gyP6Pp5h/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar"
+      ],
+      "fileSize": 118319
     },
     {
       "path": "mods/ae2wtlib-19.3.0.jar",
@@ -2571,21 +2601,6 @@
       "fileSize": 576866
     },
     {
-      "path": "mods/irons_apothic_invaders_1.0.0.jar",
-      "hashes": {
-        "sha512": "6896becf09749e8916211b3fbee96f03b89066283ed26cf2930d928d21c1c37069aaca692e00a7b439c3c47aef05a7cc872ce27568cec9ed71fbc10198fd4cb0",
-        "sha1": "320585bf9ef2120545fbe481655cbb09650b7e15"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/1veFBGT4/versions/JoyvwffA/irons_apothic_invaders_1.0.0.jar"
-      ],
-      "fileSize": 124889
-    },
-    {
       "path": "mods/irons_spellbooks-1.21.1-3.14.4.jar",
       "hashes": {
         "sha512": "93fca12e66e2b4de458c0474c26b2de7ceaf93cc91d4cca723e9ade5582d4903faa8a4e601ce58a14fc1f02f651fadd497b289506d46cea47f52b808ccc9257f",
@@ -2599,6 +2614,21 @@
         "https://cdn.modrinth.com/data/s4OWxYQQ/versions/9PTiIbvt/irons_spellbooks-1.21.1-3.14.4.jar"
       ],
       "fileSize": 12400433
+    },
+    {
+      "path": "mods/irons_spellbooks-1.21.1-3.14.8.jar",
+      "hashes": {
+        "sha512": "7ed9891680413913e22179a9b7e707271e97453bc4d2a23bc7a6c6da2d6572eb611b3f73e2c2ccb44326cc857335e2546c2313f6b4f41b18815ae9cc63d13f3d",
+        "sha1": "9f3c9ec0ab3d1caed39010eaaf32c46d16901952"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/4GN2MStD/irons_spellbooks-1.21.1-3.14.8.jar"
+      ],
+      "fileSize": 12529766
     },
     {
       "path": "mods/irons_spells_dynamic_skilltree_1.1.0.jar",
@@ -3589,6 +3619,21 @@
         "https://cdn.modrinth.com/data/E6867niZ/versions/nVRC1t23/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar"
       ],
       "fileSize": 658173
+    },
+    {
+      "path": "mods/recipe_integration-0.3.0.jar",
+      "hashes": {
+        "sha512": "e92d4186e64f82f305331a3daa3a75822591fd1fc9b8ca35f44392de6b1959a2ce9366c0cb57b9839a3cb59f714f2dfc5ea847bc0f5f6adf3e6f2a2206adf4cd",
+        "sha1": "dabc2eac8ae1574e7d2bc365563cd72585ecd30e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/35hUUUwA/versions/uVUhhVIS/recipe_integration-0.3.0.jar"
+      ],
+      "fileSize": 1775376
     },
     {
       "path": "mods/reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
