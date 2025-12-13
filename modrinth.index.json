@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.4-preview03",
+  "versionId": "1.0.4-preview04",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -1476,21 +1476,6 @@
       "fileSize": 584004
     },
     {
-      "path": "mods/arcwise-1.21-1.21.1-forge.jar",
-      "hashes": {
-        "sha512": "e4f7878fbbad5341a8dfcc1210e931c818d407e883402f4f3a0accf7857302c33224c3b2923b853e9c3a830e9e3d6268dc561671b0d4d12f53d551b0593c23f9",
-        "sha1": "94018c9ffd9b61f96b1bf301eb4f1b78103a095d"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/8Uddo3yY/versions/ozDG3dvw/arcwise-1.21-1.21.1-forge.jar"
-      ],
-      "fileSize": 62668
-    },
-    {
       "path": "mods/astikorcartsredux-1.2.2.jar",
       "hashes": {
         "sha512": "c3cbee867aa4ef73606105247c9c1106dfcb7d3e9f6bf387f3285ba1425f9d9966beb335fc01c8d314a56251933dcc712384eb4b6953fa948a0191b915f5e9ea",
@@ -2629,21 +2614,6 @@
         "https://cdn.modrinth.com/data/yPlaLxD1/versions/WZ25JeYB/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
       ],
       "fileSize": 576866
-    },
-    {
-      "path": "mods/irons_spellbooks-1.21.1-3.14.4.jar",
-      "hashes": {
-        "sha512": "93fca12e66e2b4de458c0474c26b2de7ceaf93cc91d4cca723e9ade5582d4903faa8a4e601ce58a14fc1f02f651fadd497b289506d46cea47f52b808ccc9257f",
-        "sha1": "5d119e79beb9ed5d4264b083a958ec7e0a83f768"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/9PTiIbvt/irons_spellbooks-1.21.1-3.14.4.jar"
-      ],
-      "fileSize": 12400433
     },
     {
       "path": "mods/irons_spellbooks-1.21.1-3.14.8.jar",
