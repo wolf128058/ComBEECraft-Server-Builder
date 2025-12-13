@@ -50,6 +50,11 @@
     "path": "overrides/mods"
   },
   {
+    "alias": "Save My Shaky Network",
+    "id": 1129397,
+    "path": "overrides/mods"
+  },
+  {
     "alias": "atlas_api",
     "id": 1145462,
     "path": "overrides/mods"
