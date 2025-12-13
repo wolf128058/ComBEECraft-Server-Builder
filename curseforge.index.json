@@ -1,27 +1,12 @@
 [
   {
-    "alias": "Placebo",
-    "id": 283644,
-    "path": "overrides/mods"
-  },
-  {
     "alias": "Simplylight",
     "id": 300331,
     "path": "overrides/mods"
   },
   {
-    "alias": "Apotheosis",
-    "id": 313970,
-    "path": "overrides/mods"
-  },
-  {
     "alias": "Prometheus Exporter",
     "id": 351938,
-    "path": "overrides/mods"
-  },
-  {
-    "alias": "GatewaysToEternity",
-    "id": 417802,
     "path": "overrides/mods"
   },
   {
@@ -55,33 +40,13 @@
     "path": "overrides/mods"
   },
   {
-    "alias": "ApothicAttributes",
-    "id": 898963,
-    "path": "overrides/mods"
-  },
-  {
     "alias": "productive farming",
     "id": 944463,
     "path": "overrides/mods"
   },
   {
-    "alias": "Apothic Spawners",
-    "id": 986583,
-    "path": "overrides/mods"
-  },
-  {
-    "alias": "ApothicEnchanting",
-    "id": 1063926,
-    "path": "overrides/mods"
-  },
-  {
     "alias": "cataclysm_spellbooks",
     "id": 1099461,
-    "path": "overrides/mods"
-  },
-  {
-    "alias": "irons_jewelry",
-    "id": 1101111,
     "path": "overrides/mods"
   },
   {
@@ -105,8 +70,8 @@
     "path": "overrides/mods"
   },
   {
-    "alias": "irons_apothic",
-    "id": 1244863,
+    "alias": "Growth Accelerator Tiers",
+    "id": 1316818,
     "path": "overrides/mods"
   }
 ]
