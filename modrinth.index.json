@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.4-preview02",
+  "versionId": "1.0.4-preview03",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -636,6 +636,21 @@
       "fileSize": 138071302
     },
     {
+      "path": "mods/Mekanism-1.21.1-10.7.17.83.jar",
+      "hashes": {
+        "sha512": "df8de81d0c57894e4965ad39aa7468576a95007d07de96d021b9d0a89ba82b2da53beeda590a21f665e57dd358c7c88c3382f2eea0d678d18a58f9519d352886",
+        "sha1": "2977b4f3130f8abab508ff56d774bb2cd419c5d0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Ce6I4WUE/versions/D32JUF51/Mekanism-1.21.1-10.7.17.83.jar"
+      ],
+      "fileSize": 11950439
+    },
+    {
       "path": "mods/MoogsEndStructures-1.21-2.0.0.jar",
       "hashes": {
         "sha512": "b41f683a8ea99b5932802f077f7ea22dbcf733159d36ad43a05c2379b50f9f4c3ddcef9cfe0abbba68230e12b2cc4a3ebf1969be1746ef8b1db5398eb89e5940",
@@ -829,6 +844,21 @@
         "https://cdn.modrinth.com/data/KdJhOYVV/versions/EQHGxQAv/Philips-Ruins1.21.1-2.0-NeoForge.jar"
       ],
       "fileSize": 1365582
+    },
+    {
+      "path": "mods/Powah-6.2.7.jar",
+      "hashes": {
+        "sha512": "b1ff213c077ae29e078d8d785f13842b90d1df02800a3d2a434a495572f0e730b08cb22b83f6015e4f3a0080ef075f01ce4580fba661b047fac05d56b8fb9f75",
+        "sha1": "210644efe4936d299e486a811a7515ab73fd51cc"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KZO4S4DO/versions/K5Vhgari/Powah-6.2.7.jar"
+      ],
+      "fileSize": 2868518
     },
     {
       "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
@@ -3261,21 +3291,6 @@
       "fileSize": 1311358
     },
     {
-      "path": "mods/oritech-neoforge-1.21.1-0.19.7.jar",
-      "hashes": {
-        "sha512": "e42bb0417a941bcce9ccae7dd745cfb3f46420976f3a83ee8d1d17c6b1535ece59d487282a20adae6f99ba457ae88dc4f6bd1185ae54364bc5c269ab9e2caf4c",
-        "sha1": "dcf527a374a4ba7359d0ed7895d1eb0926d42411"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/4sYI62kA/versions/bxNYCj9r/oritech-neoforge-1.21.1-0.19.7.jar"
-      ],
-      "fileSize": 8866405
-    },
-    {
       "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
       "hashes": {
         "sha512": "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f413667dbca1e55772445b04a70210c17b3bc13e3c88e425e7d928104b9fa",
@@ -3891,21 +3906,6 @@
       "fileSize": 3642581
     },
     {
-      "path": "mods/sparsestructures-neoforge-1.21.1-3.0.jar",
-      "hashes": {
-        "sha512": "adef915104fe7a010b7e3305f3bb85c3336cc764fb2b8c6dfec3b749e08d0d0b7d36b6ca470699ec85ba2474d6c726d96a2bb9c1952668202d9dfe0382fbdae9",
-        "sha1": "daa7235c52c822524e9a4edd8b382a68ec78b1f8"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qwvI41y9/versions/MoJZpi20/sparsestructures-neoforge-1.21.1-3.0.jar"
-      ],
-      "fileSize": 117743
-    },
-    {
       "path": "mods/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar",
       "hashes": {
         "sha512": "4b9413baae8a9cffbf3389ec9e8a507a085e0d19026b73aced6f4e430a5d3ecb846173a25f606a5fa4b1eac6254913a900417ed3c3911c652f4f31865db01c3b",
@@ -4219,21 +4219,6 @@
         "https://cdn.modrinth.com/data/RDOWziKW/versions/TrhcDW8T/universaljewelry-1.1.1.jar"
       ],
       "fileSize": 35022
-    },
-    {
-      "path": "mods/utility-belt-neoforge-2.6.0+1.21.1.jar",
-      "hashes": {
-        "sha512": "8a37cba6dbe5b71e5c6976839589c91f4cbd545e94963c8bedc70a50cda913d3ee857bfb47fafe75b0b0222e082e315499a02751417bfaecefd81f5ab7ed482c",
-        "sha1": "9a3c058d8ed57c9b7a9ef6f274d1089f5a86b0cc"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/9ewe2JHJ/versions/PJ53nUMm/utility-belt-neoforge-2.6.0%2B1.21.1.jar"
-      ],
-      "fileSize": 259276
     },
     {
       "path": "mods/vanillabackport-neoforge-1.21.1-1.1.5.1.jar",
