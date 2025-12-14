@@ -3651,19 +3651,19 @@
       "fileSize": 217587
     },
     {
-      "path": "mods/relics-1.21.1-0.10.7.6.jar",
+      "path": "mods/relics-1.21.1-0.11.5.jar",
       "hashes": {
-        "sha512": "7af59fba04d9b370a8642bf089b89630718861cf386064ee0b758f8701a1ad92dab978e6e1fc22fe0c14746b9ad2233ebb950b2e482541d0803a4df7c0c83192",
-        "sha1": "d01514adde52d511bc857495d35e9b6a7b1423a7"
+        "sha512": "47c9a93db6aba78356c24d3a5e679f9dca4d3dc07bb0bf60ed44daf9e0bcf4c0b2cf1af21b9aa0a0715c3aa22f2b421d1ee412fdaa9f734aa8242f5152a2a12b",
+        "sha1": "3ec45ab3a75765c71254954e6284176711b38a19"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/OCJRPujW/versions/pHqkVRdi/relics-1.21.1-0.10.7.6.jar"
+        "https://cdn.modrinth.com/data/OCJRPujW/versions/nj7MrVqj/relics-1.21.1-0.11.5.jar"
       ],
-      "fileSize": 2752737
+      "fileSize": 3742968
     },
     {
       "path": "mods/reliquified_lenders_cataclysm-1.21.1-0.1.1.jar",
