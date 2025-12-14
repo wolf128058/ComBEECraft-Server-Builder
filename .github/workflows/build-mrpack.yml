@@ -1,4 +1,4 @@
-name: Build & Release .mrpack (FAT & SLIM)
+name: Build & Release .mrpack
 
 on:
   push:
@@ -17,8 +17,8 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build-slim:
-    name: Build SLIM .mrpack (nur overrides)
+  build-mrpack:
+    name: Build .mrpack (nur overrides)
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -59,15 +59,29 @@ jobs:
         run: |
           test -f modrinth.index.json || { echo "::error::modrinth.index.json fehlt"; exit 1; }
 
-      - name: Read name/version
+      - name: Read name/version and detect prerelease
         id: meta
         run: |
+          # Extract Data
           NAME_RAW=$(jq -r '.name // "Pack"' modrinth.index.json)
           VER_RAW=$(jq -r '.versionId // .version // .version_number // "dev"' modrinth.index.json)
+          
+          # Clean name and version
           NAME_SAFE=$(printf "%s" "$NAME_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
           VER_SAFE=$(printf "%s" "$VER_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
+          
+          # Prerelease Check: 
+          # If the version does NOT consist solely of numbers and dots (e.g., contains -beta, -preview, etc.)
+          # we set is_prerelease to true.
+          IS_PRERELEASE="false"
+          if [[ ! "$VER_SAFE" =~ ^[0-9.]+$ ]]; then
+            IS_PRERELEASE="true"
+            echo "Detected Prerelease version: $VER_SAFE"
+          fi
+
           echo "pack_name=$NAME_SAFE" >> "$GITHUB_OUTPUT"
           echo "version=$VER_SAFE" >> "$GITHUB_OUTPUT"
+          echo "is_prerelease=$IS_PRERELEASE" >> "$GITHUB_OUTPUT"
 
       - name: Stage packroot (nur overrides)
         run: |
@@ -80,149 +94,20 @@ jobs:
             mkdir -p .packroot/overrides
           fi
 
-      - name: Build .mrpack (slim)
+      - name: Build .mrpack
         id: package
         run: |
           OUT="build/${{ steps.meta.outputs.pack_name }}-${{ steps.meta.outputs.version }}.mrpack"
           (cd .packroot && zip -X -r "../$OUT" .)
           echo "artifact=$OUT" >> "$GITHUB_OUTPUT"
 
-      - name: Release SLIM .mrpack
+      - name: Release .mrpack
         if: ${{ !env.ACT }}
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ format('{0}-{1}', steps.meta.outputs.pack_name, steps.meta.outputs.version) }}
           name: ${{ steps.meta.outputs.pack_name }} v${{ steps.meta.outputs.version }}
           draft: false
-          prerelease: false
+          prerelease: ${{ steps.meta.outputs.is_prerelease == 'true' }}
           files: |
             ${{ steps.package.outputs.artifact }}
-
-      - name: Save slim .mrpack locally (act only)
-        if: env.ACT
-        run: |
-          echo "COPYING: ${{ steps.package.outputs.artifact }} -> $GITHUB_WORKSPACE/.build"
-          ls -l "${{ steps.package.outputs.artifact }}"
-          mkdir -p "$GITHUB_WORKSPACE/.build"
-          cp "${{ steps.package.outputs.artifact }}" "$GITHUB_WORKSPACE/.build/"
-          echo "📦 Slim .mrpack saved as $GITHUB_WORKSPACE/.build/"
-
-
-  build-fat:
-    name: Build FAT .mrpack (mit Downloads)
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-
-    steps:
-      - name: Checkout (mit LFS)
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          lfs: true
-
-      - name: Ensure Git LFS & fetch overrides
-        run: |
-          set -euxo pipefail
-          git lfs install --local
-          git lfs pull --include="overrides/**" --exclude=""
-
-          echo "---- Pointer-Check ----"
-          PO=$(grep -RIl --exclude-dir=.git -m1 "version https://git-lfs.github.com/spec" overrides || true)
-          if [ -n "$PO" ]; then
-            echo "::group::Pointer-Dateien entdeckt"
-            echo "$PO" | while read -r f; do
-              echo "FILE: $f"
-              head -n3 "$f" || true
-            done
-            echo "::endgroup::"
-            echo "::error::Git LFS Pointer in overrides gefunden. Binärdaten fehlen!"
-            exit 1
-          fi
-
-      - name: Ensure tooling
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq curl zip unzip rsync
-
-      - name: Validate manifest
-        run: |
-          test -f modrinth.index.json || { echo "::error::modrinth.index.json fehlt"; exit 1; }
-
-      - name: Read name/version
-        id: meta
-        run: |
-          NAME_RAW=$(jq -r '.name // "Pack"' modrinth.index.json)
-          VER_RAW=$(jq -r '.versionId // .version // .version_number // "dev"' modrinth.index.json)
-          NAME_SAFE=$(printf "%s" "$NAME_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
-          VER_SAFE=$(printf "%s" "$VER_RAW" | tr ' ' '_' | tr -cd 'A-Za-z0-9._-')
-          echo "pack_name=$NAME_SAFE" >> "$GITHUB_OUTPUT"
-          echo "version=$VER_SAFE" >> "$GITHUB_OUTPUT"
-
-      - name: Stage packroot (index + overrides)
-        run: |
-          rm -rf .packroot build
-          mkdir -p .packroot build
-          cp modrinth.index.json .packroot/
-          if [ -d overrides ]; then
-            rsync -a overrides/ .packroot/overrides/
-          else
-            mkdir -p .packroot/overrides
-          fi
-
-      - name: Download files[] from index.json
-        run: |
-          set -euo pipefail
-          DESTROOT=".packroot/overrides"
-          jq -c '.files[]' modrinth.index.json | while read -r item; do
-            RELPATH=$(jq -r '.path // empty' <<<"$item")
-            URL=$(jq -r '.downloads[0] // empty' <<<"$item")
-            SHA512=$(jq -r '.hashes.sha512 // empty' <<<"$item")
-            SHA1=$(jq -r '.hashes.sha1 // empty' <<<"$item")
-
-            if [[ -z "$RELPATH" || -z "$URL" ]]; then
-              echo "::notice::skip (missing path or download)"
-              continue
-            fi
-
-            OUT="$DESTROOT/$RELPATH"
-            mkdir -p "$(dirname "$OUT")"
-            echo "↓ $URL -> overrides/$RELPATH"
-            curl -fL --retry 3 --retry-delay 2 -o "$OUT" "$URL"
-
-            if [[ -n "$SHA512" ]]; then
-              echo "$SHA512  $OUT" | sha512sum -c -
-            elif [[ -n "$SHA1" ]]; then
-              echo "$SHA1  $OUT" | sha1sum -c -
-            else
-              echo "::notice::no hash for $RELPATH"
-            fi
-          done
-
-      - name: Build .fat.mrpack
-        id: package
-        run: |
-          OUT="build/${{ steps.meta.outputs.pack_name }}-${{ steps.meta.outputs.version }}.fat.mrpack"
-          (cd .packroot && zip -X -r "../$OUT" .)
-          echo "artifact=$OUT" >> "$GITHUB_OUTPUT"
-
-      - name: Release FAT .mrpack
-        if: ${{ !env.ACT }}
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ format('{0}-{1}', steps.meta.outputs.pack_name, steps.meta.outputs.version) }}
-          name: ${{ steps.meta.outputs.pack_name }} v${{ steps.meta.outputs.version }}
-          draft: false
-          prerelease: false
-          files: |
-            ${{ steps.package.outputs.artifact }}
-
-      - name: Save fat .mrpack locally (act only)
-        if: env.ACT
-        run: |
-          echo "COPYING: ${{ steps.package.outputs.artifact }} -> $GITHUB_WORKSPACE/.build"
-          ls -l "${{ steps.package.outputs.artifact }}"
-          mkdir -p "$GITHUB_WORKSPACE/.build"
-          cp "${{ steps.package.outputs.artifact }}" "$GITHUB_WORKSPACE/.build/"
-          echo "📦 Fat .mrpack saved as $GITHUB_WORKSPACE/.build/"
