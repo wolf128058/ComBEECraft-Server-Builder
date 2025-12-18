@@ -36,19 +36,19 @@
       "fileSize": 655394
     },
     {
-      "path": "datapacks/CCCwLegends1.7.zip",
+      "path": "datapacks/CCCwLegends1.7.1.zip",
       "hashes": {
-        "sha512": "3d07b41801bf211b63fb3336211609bb572e487e6161c32fdd0c5a4a384f5ccc5ce31df8f8dc7c8196e4c338077cb430987f1ed4c176fe2fb0a1317ad6919be6",
-        "sha1": "a876990825db602b2eb8997a8bbd2339d747c95c"
+        "sha512": "bdc6a5cf4060cc95a73db947e31a64a490688575f1b591f5d36be7ab84c4b6637a87b5b233912436ee3c713ff95bb4d4b296db26ab754f584d1c30ab50d119f9",
+        "sha1": "090dafcd21599760bffff9bc8baa6a15b57c7be5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/578VPQc9/versions/yPcyuQDZ/CCCwLegends1.7.zip"
+        "https://cdn.modrinth.com/data/578VPQc9/versions/RVzFIhRN/CCCwLegends1.7.1.zip"
       ],
-      "fileSize": 16641899
+      "fileSize": 16646431
     },
     {
       "path": "mods/AEAdditions-1.21.1-6.0.2.jar",
