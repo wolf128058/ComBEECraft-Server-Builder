@@ -2241,19 +2241,19 @@
       "fileSize": 315870
     },
     {
-      "path": "mods/easy-villagers-neoforge-1.21.1-1.1.39.jar",
+      "path": "mods/easy-villagers-neoforge-1.21.1-1.1.40.jar",
       "hashes": {
-        "sha512": "7ad2f9f279c2bd261a922ce78b40d477eb9867b0c20fa21fde94c1f1537bcda3c32dd3f9c5446a8b815a1b70698b4ed931ace60b569b28ad89279086141df64d",
-        "sha1": "bb682aaa2c27f0de53240f50b4f820991fa51b48"
+        "sha512": "d382a7055c174bf6c92f47e868565db8da0bcfc1e6cc5318d413e3fab8d3df1e3eb7d47807ed40ea55483730734746b624dc4170c932210685ed97cc4bcb2066",
+        "sha1": "e366f2209761541b3edeab5866cf6920a91a05db"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Kaov2qgi/versions/Pdo9pdHy/easy-villagers-neoforge-1.21.1-1.1.39.jar"
+        "https://cdn.modrinth.com/data/Kaov2qgi/versions/5MZV66V9/easy-villagers-neoforge-1.21.1-1.1.40.jar"
       ],
-      "fileSize": 449984
+      "fileSize": 456001
     },
     {
       "path": "mods/easy_mob_farm-neoforge-1.21.1-10.3.0.jar",
