@@ -4206,19 +4206,19 @@
       "fileSize": 27117699
     },
     {
-      "path": "mods/voicechat-neoforge-1.21.1-2.6.7.jar",
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.9.jar",
       "hashes": {
-        "sha512": "92ecb2245999ad1047826fe4de634674e3a95f33544c4b4b675024472556d59b5dab27043742cd6597d0ce28c5351c1cdb19032f0240a45baa42cd9208d98b92",
-        "sha1": "2358b16340c00ddbce5a7234dc17e9f4a1f11216"
+        "sha512": "aafc81293652915b9f8110f7fd9c8e20f326d105483d693c6ae9340332d7ffc45a7fb2205e8616354853ede0cbeaa39156501c8d760d7ccc20c0b1bf0d786ea1",
+        "sha1": "6e2953f3e74ad09d6b1385a71e3a95147afea2eb"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/mBIGDJAR/voicechat-neoforge-1.21.1-2.6.7.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/gG2bQbgU/voicechat-neoforge-1.21.1-2.6.9.jar"
       ],
-      "fileSize": 4871513
+      "fileSize": 4890351
     },
     {
       "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
