@@ -3966,19 +3966,19 @@
       "fileSize": 518643
     },
     {
-      "path": "mods/supplementaries-1.21-3.5.10-neoforge.jar",
+      "path": "mods/supplementaries-1.21-3.5.11-neoforge.jar",
       "hashes": {
-        "sha512": "32b72c9a11147fa11f62debabc082cc683d13456eadf1f7ff20b8eae9e9622a6fec438a93c68fcbf1a09d1c459d076f1b1ef23094fbd8787efd20b2219ff9abb",
-        "sha1": "6f27cc14588be8d510decb8db136ef59579a5ecd"
+        "sha512": "848f506878d4291a32dcb35cae944c63a1d5faf7e1394c13c071aa2910f562c488228ca194b15d7413160baf9709fc5a1f994360ce4297deaa1f974489464e2d",
+        "sha1": "328bf02fcaa66dc2c8d7120b1d3e7d9bdb7d6ed6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/PY30MemR/supplementaries-1.21-3.5.10-neoforge.jar"
+        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/bkyutEGf/supplementaries-1.21-3.5.11-neoforge.jar"
       ],
-      "fileSize": 13332076
+      "fileSize": 13335760
     },
     {
       "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
