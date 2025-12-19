@@ -1296,19 +1296,19 @@
       "fileSize": 376256
     },
     {
-      "path": "mods/aces_spell_utils-1.1.19-1.21.1.jar",
+      "path": "mods/aces_spell_utils-1.1.22-1.21.1.jar",
       "hashes": {
-        "sha512": "777026a7c76bf7c5bb12e864f2d6f851ec638e185c4afbd0a7ad839df9bf66f361051be3809f259dfb55aa16eec03def6a20c2e3bf90609d79a157a78e0bb07a",
-        "sha1": "d075ebc67e422128dd7b03938a13ede82aed789b"
+        "sha512": "64c3e488938fdde68f2fd671144edeafe07a978878dd1e016b78af652a8c397eb5682abab928ccf95d09190f882110c59a41ae113992ed66d9f75ac3a4964fc1",
+        "sha1": "e03918876753cedac3e0aa65e49a99add322d97d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/7Jy4rK9m/versions/2iXUFOP9/aces_spell_utils-1.1.19-1.21.1.jar"
+        "https://cdn.modrinth.com/data/7Jy4rK9m/versions/nAfYq4eU/aces_spell_utils-1.1.22-1.21.1.jar"
       ],
-      "fileSize": 160680
+      "fileSize": 168313
     },
     {
       "path": "mods/addonslib-neoforge-1.21.1-1.9.jar",
