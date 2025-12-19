@@ -666,6 +666,21 @@
       "fileSize": 11950439
     },
     {
+      "path": "mods/MekanismGenerators-1.21.1-10.7.17.83.jar",
+      "hashes": {
+        "sha512": "26f0279c59b146d08aa909ffd999de340c3617a51e1224983dfd1ec4735a6244b6472441a2f95a7f2cd850247ec1c323b4d31d423a693a60b2dbd66d99bbf3c2",
+        "sha1": "2c8d5f69ec3d69837e5caf3d2a50927b0a85d74e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OFVYKsAk/versions/bPzSK3o5/MekanismGenerators-1.21.1-10.7.17.83.jar"
+      ],
+      "fileSize": 1104550
+    },
+    {
       "path": "mods/MoogsEndStructures-1.21-2.0.0.jar",
       "hashes": {
         "sha512": "b41f683a8ea99b5932802f077f7ea22dbcf733159d36ad43a05c2379b50f9f4c3ddcef9cfe0abbba68230e12b2cc4a3ebf1969be1746ef8b1db5398eb89e5940",
@@ -829,6 +844,21 @@
         "https://cdn.modrinth.com/data/g8NOG5OR/versions/44blpeJ7/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.1.2.jar"
       ],
       "fileSize": 136561
+    },
+    {
+      "path": "mods/Patchouli-1.21.1-92-NEOFORGE.jar",
+      "hashes": {
+        "sha512": "36cad2a2e5839fd4ee99165c4f275d1c3c0c71ed130413485e43f8506e7d2c3de2e2dbad40f90262378c6c6c5148140a473b0f7acd806e1a4bfede9c9a04600f",
+        "sha1": "97ae42096ee4a0a242cd8468dde293017f3cc39c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nU0bVIaL/versions/h6hKI2ob/Patchouli-1.21.1-92-NEOFORGE.jar"
+      ],
+      "fileSize": 646486
     },
     {
       "path": "mods/PerWorldGameRules-1.21.1-NeoForge-4.0.1.jar",
@@ -1746,6 +1776,21 @@
       "fileSize": 1163890
     },
     {
+      "path": "mods/cobblemon_industries-neoforge-1.3.0.jar",
+      "hashes": {
+        "sha512": "01496bcf76ebf3a8e86143af757a79b46036640b18ad555085cb5463007ea730d29691f3d9ba3639263aea0fb4890b6269ae80700ae1ede32d34c6af833a26ad",
+        "sha1": "8238094b87f358034b7f343e5cad9cde2fe4acfa"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7BX9lbH9/versions/mw7LbxAQ/cobblemon_industries-neoforge-1.3.0.jar"
+      ],
+      "fileSize": 79460
+    },
+    {
       "path": "mods/cobblemon_smartphone-neoforge-1.0.5.jar",
       "hashes": {
         "sha512": "fedafbce665e14c57a6f704cb0b3d74189edd9dcc6a9b4aea53ed347c9b96c797be7d434d0eae7af8f6d24aa57da2452a073d435ff429a5aec496a97b60a009b",
@@ -1759,6 +1804,21 @@
         "https://cdn.modrinth.com/data/n2f1HbK8/versions/hAWhioda/cobblemon_smartphone-neoforge-1.0.5.jar"
       ],
       "fileSize": 185490
+    },
+    {
+      "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.4.jar",
+      "hashes": {
+        "sha512": "4d6a1a3db5ddeb60dbbd1d1ad0299d984662beff83bc8bfe1baae76fe85a45b36099af9183ed2570888ce7a25543cd8225506e23c23639394f55b5919f91dc92",
+        "sha1": "5d4d1d081a7d8585f26b4fcc283b6dc49b206630"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NPCfuUI4/versions/J2XZJowS/cobblemonintegrations-neoforge-1.21.1-1.1.4.jar"
+      ],
+      "fileSize": 367106
     },
     {
       "path": "mods/cobblemonjourneymounts-1.6.0.jar",
@@ -1789,6 +1849,36 @@
         "https://cdn.modrinth.com/data/pPldOOeY/versions/xCPOrDQJ/cobblemonpokemonbadges-neoforge-0.1.1.jar"
       ],
       "fileSize": 125742
+    },
+    {
+      "path": "mods/cobblemonraiddens-neoforge-0.5.1+1.21.1.jar",
+      "hashes": {
+        "sha512": "63db294c755f3930bcb42f4c07f8e6ef4039541915db8cd857796540acfe392a46d6d8864428f75fda650781f949a326b70014bdf20ce73d2d2f01f63dd7dff8",
+        "sha1": "ecfb2bf8eb5a62c4a70e43b649fc5454275d0085"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GebWh45l/versions/1USFKVIh/cobblemonraiddens-neoforge-0.5.1%2B1.21.1.jar"
+      ],
+      "fileSize": 2311316
+    },
+    {
+      "path": "mods/cobblemore_lib-neoforge-1.2.5.jar",
+      "hashes": {
+        "sha512": "b2305db362a0eaf26147df0d31505b26e79d0bc05699e6c7a80ed780a58bb2e24ee0508fd528e4132294c8d099e37428105918af9b21ff47297b5e282d310f49",
+        "sha1": "d5c452572093dffaebe6d602a8df08eb2700122a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/VYP2vmDS/versions/I2gsCsYx/cobblemore_lib-neoforge-1.2.5.jar"
+      ],
+      "fileSize": 573320
     },
     {
       "path": "mods/cobblenav-neoforge-2.2.5.jar",
@@ -1954,6 +2044,21 @@
         "https://cdn.modrinth.com/data/9rlXSyLg/versions/YYynf5qc/cratedelight-25.09.22-1.21-neoforge.jar"
       ],
       "fileSize": 166931
+    },
+    {
+      "path": "mods/crd_broadcasts-neoforge-1.2.0+1.21.1.jar",
+      "hashes": {
+        "sha512": "b7cda83f5119b345fd5aaca3b40111f5859603bed81cb62ef605d6ead7471c23c64b7b52a64b5ef7783782ed190feef1918f575fa442b53d56fd3ee5c5942368",
+        "sha1": "5669c3c1a47c0ddb662a792a4333d3d4c655370c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TmNAjS6y/versions/93nmVdhe/crd_broadcasts-neoforge-1.2.0%2B1.21.1.jar"
+      ],
+      "fileSize": 1127701
     },
     {
       "path": "mods/create-1.21.1-6.0.8.jar",
