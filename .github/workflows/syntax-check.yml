@@ -1,0 +1,58 @@
+name: Syntax, Sort and LFS Check
+
+on:
+  pull_request:
+    branches:
+      - main
+      - next
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          # Wichtig für LFS-Checks: Wir brauchen die History und LFS-Metadaten
+          fetch-depth: 0
+          lfs: true
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Check JSON Syntax
+        run: |
+          jq . modrinth.index.json > /dev/null
+          jq . curseforge.index.json > /dev/null
+
+      - name: Verify Sorting
+        run: |
+          chmod +x sortjson.sh
+          ./sortjson.sh
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Fehler: Die JSON-Dateien sind nicht korrekt sortiert."
+            git diff
+            exit 1
+          fi
+
+      - name: Verify LFS Integrity
+        run: |
+          # Prüft, ob Dateien, die LFS sein sollten, fälschlicherweise als Text/Binär im Repo sind
+          # 'git lfs ls-files' listet alle Dateien auf, die korrekt als LFS getrackt werden
+          # 'git lfs check-glbt' oder ein manueller Vergleich hilft hier:
+          
+          echo "Prüfe auf korrekte LFS-Pointer..."
+          
+          # Dieser Befehl listet Dateien auf, die laut .gitattributes LFS sein müssten, 
+          # aber im aktuellen Commit als normale Dateien (Staged/Committed) vorliegen.
+          MISCONFIGURED=$(git lfs status --porcelain | grep -E '^\+' | grep -v 'LFS' || true)
+          
+          if [ -n "$MISCONFIGURED" ]; then
+            echo "Fehler: Folgende Dateien wurden ohne LFS hochgeladen, obwohl sie in .gitattributes stehen:"
+            echo "$MISCONFIGURED"
+            exit 1
+          fi
+          
+          # Zusätzlicher Sicherheitscheck: Suche nach großen Dateien, die nicht in LFS sind
+          # (Optional, falls du sichergehen willst, dass niemand die .gitattributes umgeht)
+          echo "LFS Check abgeschlossen."
