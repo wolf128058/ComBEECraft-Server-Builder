@@ -3441,36 +3441,6 @@
       "fileSize": 87041
     },
     {
-      "path": "mods/productivebees-1.21.1-13.6.11.jar",
-      "hashes": {
-        "sha512": "0ea043a3d67925d282ce57b6e1c9915eed82213433c0097290bfeafd63dd819d7a4da9661d4e7dce16a9abccf727d4f6093f79dfd256392c98909d5d4786b7df",
-        "sha1": "bb92335f21b29178ad2e816cea6d8875be707275"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/jH6iiqkd/versions/jhrT0FE3/productivebees-1.21.1-13.6.11.jar"
-      ],
-      "fileSize": 4840370
-    },
-    {
-      "path": "mods/productivetrees-1.21.1-0.7.0.jar",
-      "hashes": {
-        "sha512": "770ff12c0fca548be4829c857f1775ca82bfe7bde9c8f28a8d5eb3fa1432bdaacd1cf987ec2a93dc36becf2dba65f1d7cb25dc28a6aae776015e95f747814181",
-        "sha1": "4c0fe2017fa9d2aa3328b6c32890c536d79ca8d2"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/BTmup08e/versions/ezdbUBk7/productivetrees-1.21.1-0.7.0.jar"
-      ],
-      "fileSize": 13375389
-    },
-    {
       "path": "mods/pufferfish_unofficial_additions-1.21.1-2.2.7.jar",
       "hashes": {
         "sha512": "e5fbf6f65a5fbba856c1720aa7551597b1e3ece4916a29d2bc69ad1100ffaf592834e426e628361ddbae2f179ab4a1345e0132d77e1cc71fe4b510127890167c",

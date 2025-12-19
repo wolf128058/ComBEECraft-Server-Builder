@@ -10,6 +10,11 @@
     "path": "overrides/mods"
   },
   {
+    "alias": "Productive Bees",
+    "id": 377897,
+    "path": "overrides/mods"
+  },
+  {
     "alias": "ForgePlaceholderAPI",
     "id": 545871,
     "path": "overrides/mods"
@@ -32,6 +37,11 @@
   {
     "alias": "xycraft machines",
     "id": 653791,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "Productive Trees",
+    "id": 867074,
     "path": "overrides/mods"
   },
   {
