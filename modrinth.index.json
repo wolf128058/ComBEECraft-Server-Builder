@@ -306,19 +306,19 @@
       "fileSize": 310185
     },
     {
-      "path": "mods/CreativeCore_NEOFORGE_v2.13.22_mc1.21.1.jar",
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.23_mc1.21.1.jar",
       "hashes": {
-        "sha512": "f6bcdc22c89a90e37e7b3ee10ba2b9020b0faaa2c13ae50a3c432c45240650d77a54db8e2eb8bdcde9cad59c174dabfd2d83baf31aae7adb133e877619acc008",
-        "sha1": "37f5261e1c27da028572e3c17cb2a60daabef36c"
+        "sha512": "8a43292795617247447fa78192ced70a719d8689fe669c6a5c5e26a553a409076528524c9db86899023ce526cf28e66ac0174dbcad34c3f36d8ce4eee1923bcb",
+        "sha1": "65426dc0465baf237769eb00aca515950c9340a5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/OsZiaDHq/versions/I406TcLd/CreativeCore_NEOFORGE_v2.13.22_mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/OsZiaDHq/versions/yuWwz7cV/CreativeCore_NEOFORGE_v2.13.23_mc1.21.1.jar"
       ],
-      "fileSize": 1204040
+      "fileSize": 1204084
     },
     {
       "path": "mods/Cucumber-1.21.1-8.0.15.jar",
