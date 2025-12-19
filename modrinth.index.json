@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.5",
+  "versionId": "1.0.6",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -2931,19 +2931,19 @@
       "fileSize": 78624
     },
     {
-      "path": "mods/lootr-neoforge-1.21.1-1.11.36.101.jar",
+      "path": "mods/lootr-neoforge-1.21.1-1.11.36.105.jar",
       "hashes": {
-        "sha512": "4c90974eeb8776187b5cf9cd2e09f28d3471131d3f4f3e940a9e18b731362781eec719022408849901d059f0a7be1b72f66aada9c05b1af37a70866f01d0439f",
-        "sha1": "c54c27ff1b021f7d35a89fbe6dc8a3740f0c21f5"
+        "sha512": "57a367d74b189cff91c8839b748a1266c0e99c9c7c996ff92de14bacf30b2f13302afa32b2fa1f0ebb97a9137122f7687df0440e38c1ae993188744982395db7",
+        "sha1": "879998de201460bdccc09db9a90998267151d239"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/EltpO5cN/versions/JOKLCMbu/lootr-neoforge-1.21.1-1.11.36.101.jar"
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/q7WFZhjB/lootr-neoforge-1.21.1-1.11.36.105.jar"
       ],
-      "fileSize": 641341
+      "fileSize": 685779
     },
     {
       "path": "mods/lukis-grand-capitals-1.1.2.jar",
