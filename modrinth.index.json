@@ -3591,19 +3591,19 @@
       "fileSize": 232616
     },
     {
-      "path": "mods/puffish_skills-0.17.0-1.21-neoforge.jar",
+      "path": "mods/puffish_skills-0.17.1-1.21-neoforge.jar",
       "hashes": {
-        "sha512": "bcf270136791b6997bb75e4480b896c9969257561a6c6f83e0ce3c8c14d912f80ca09cd07d0fb11c81d3ec626d1e76580054eaacd97d66effcdf8c2ccc426cd5",
-        "sha1": "5229f488af9e3b4472a076ca9af45e8a48e63dde"
+        "sha512": "311d8037820bc2b689761d56ea730cbf134fd89b50850a9772ee241ecab31dd7d3691a508493a9ce945296e3363b84c5a6e4be36d7597aa13314131dddbd509b",
+        "sha1": "205b63da54452c4b45a9731df276fea1de0823c4"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hqQqvaa4/versions/j81SkEM9/puffish_skills-0.17.0-1.21-neoforge.jar"
+        "https://cdn.modrinth.com/data/hqQqvaa4/versions/BkWqPK2o/puffish_skills-0.17.1-1.21-neoforge.jar"
       ],
-      "fileSize": 595137
+      "fileSize": 603497
     },
     {
       "path": "mods/rctapi-neoforge-1.21.1-0.14.4-beta.jar",
