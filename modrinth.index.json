@@ -336,19 +336,19 @@
       "fileSize": 275523
     },
     {
-      "path": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
+      "path": "mods/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar",
       "hashes": {
-        "sha512": "c4aa2cd7baad39af942e0c757eabdbbd67ed2814ec60f9032a6e36c5d291d046b020eef156f9c1357929be32635cb3c8ad7fba1bbb41d9b1b409bb0f726c4ad3",
-        "sha1": "222ae3f9560dad1d4ce11e40348113ef57b687df"
+        "sha512": "4b88cbf5965a5cecdc82ce5d6a3d7ac0bc47b2ed29b907b3ed03939a80694db15925c8e932b650812b8fa3775c9f8fac8daa6dd495aa73702162151da05bc5c8",
+        "sha1": "6382fb38974844a0508b47330935577f2943de3d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/z2XEADmE/versions/p0GSX64G/Data_Anchor-neoforge-1.21.1-2.0.0.14.jar"
+        "https://cdn.modrinth.com/data/z2XEADmE/versions/izauCsh5/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar"
       ],
-      "fileSize": 118683
+      "fileSize": 111722
     },
     {
       "path": "mods/Design-n-Decor-1.21.1-2.1.0.jar",
