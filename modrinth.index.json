@@ -3891,34 +3891,34 @@
       "fileSize": 406282
     },
     {
-      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.18.1444.jar",
+      "path": "mods/sophisticatedbackpacks-1.21.1-3.25.21.1475.jar",
       "hashes": {
-        "sha512": "68858cd2ab8e0390f563ba7cad7a637cb7dce16356d9bbe1d31420dff0953a3e0b729067e676a53ce9e364683ddf3557103fe6912e9aceec8443fc8213bfb1d2",
-        "sha1": "7da261291dde4a0c5703818e7c943fb67374f97f"
+        "sha512": "3a566835aabb55a0a9256f790640ab0683b720165be05e955077b3e071704b64096111c1570a519002571302b573088a6cdc340edafc68bd3aca437e0bb257c7",
+        "sha1": "26fb3c0b046079180e9ca2952d73677f6fb51fe2"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TyCTlI4b/versions/olNaxQkY/sophisticatedbackpacks-1.21.1-3.25.18.1444.jar"
+        "https://cdn.modrinth.com/data/TyCTlI4b/versions/K27VegQ6/sophisticatedbackpacks-1.21.1-3.25.21.1475.jar"
       ],
-      "fileSize": 986387
+      "fileSize": 986309
     },
     {
-      "path": "mods/sophisticatedcore-1.21.1-1.3.94.1295.jar",
+      "path": "mods/sophisticatedcore-1.21.1-1.3.100.1348.jar",
       "hashes": {
-        "sha512": "1f865277ceee00088d184927bd6e3b3da1caa238dd51b5ab28d288df51022fe882464504c69bcc3ac6e6b8dfd049353d101ad9e61d82e2a99869e9b674dee2b1",
-        "sha1": "c0e2721168903ecaaabd30f03c2f24b147b5df5c"
+        "sha512": "bcb478305357d973f48f539429f9b472f7ab65173bf202477e8b76bca096288dc85d4079fb690d7730e5ad3cae36532d102390b8df3230fe268678049dd4a8a8",
+        "sha1": "90af262a19ad8c741b5bc470b0c758dbb760ef7f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nmoqTijg/versions/yBXkD3rW/sophisticatedcore-1.21.1-1.3.94.1295.jar"
+        "https://cdn.modrinth.com/data/nmoqTijg/versions/8R3bTV1X/sophisticatedcore-1.21.1-1.3.100.1348.jar"
       ],
-      "fileSize": 1492271
+      "fileSize": 1495723
     },
     {
       "path": "mods/sophisticatedstorage-1.21.1-1.5.17.1398.jar",
