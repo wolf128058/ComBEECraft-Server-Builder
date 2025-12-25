@@ -681,19 +681,19 @@
       "fileSize": 1104550
     },
     {
-      "path": "mods/MoogsEndStructures-1.21-2.0.0.jar",
+      "path": "mods/MoogsEndStructures-1.21-2.0.1.jar",
       "hashes": {
-        "sha512": "b41f683a8ea99b5932802f077f7ea22dbcf733159d36ad43a05c2379b50f9f4c3ddcef9cfe0abbba68230e12b2cc4a3ebf1969be1746ef8b1db5398eb89e5940",
-        "sha1": "141058406bc15b7304400913688b1649f06ddcf8"
+        "sha512": "bc6ebffe094c53dc4cdb1a0f7938ec679bdd3da4f2c47867ccc9195270fe8499afee052616e22d28493da13a53a71b6f1c34c3f12a6a7a02806a026c3b3b6e2f",
+        "sha1": "e44787b0d977a27a0367b76a09ba680487334671"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/r4PuRGfV/versions/NAAW6w2G/MoogsEndStructures-1.21-2.0.0.jar"
+        "https://cdn.modrinth.com/data/r4PuRGfV/versions/66xhbndk/MoogsEndStructures-1.21-2.0.1.jar"
       ],
-      "fileSize": 2458609
+      "fileSize": 2458587
     },
     {
       "path": "mods/MoogsNetherStructures-1.21-2.0.31.jar",
