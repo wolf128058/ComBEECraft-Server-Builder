@@ -2901,19 +2901,19 @@
       "fileSize": 749987
     },
     {
-      "path": "mods/lithostitched-1.5.4-neoforge-1.21.1.jar",
+      "path": "mods/lithostitched-1.5.7-neoforge-1.21.1.jar",
       "hashes": {
-        "sha512": "976aaa47eb2c1c1c021783c8f696a4c6d3526f650510f315bec779554e497cd1510e12068d064794ef68eca9636f1eba5d91e943e243cecdcef3497d2117062c",
-        "sha1": "dc71515ddec9b2788f30ae7da490ef4a727fa45a"
+        "sha512": "98792c8ec08ccb5152bf992ef023e89e65f42c7789453cdcb948c2cc96d600b9287d0ec0c52d06e8c851f28b43c84e618562f77da14e1b3d9efa338a89fade95",
+        "sha1": "aed1e2f4d6db2b3f2d4a1548f97fcaa6b606911e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/XaDC71GB/versions/8FDhXGkE/lithostitched-1.5.4-neoforge-1.21.1.jar"
+        "https://cdn.modrinth.com/data/XaDC71GB/versions/HsoCbRc0/lithostitched-1.5.7-neoforge-1.21.1.jar"
       ],
-      "fileSize": 564503
+      "fileSize": 567562
     },
     {
       "path": "mods/lmft-1.1.1+1.21.9-neoforge.jar",
