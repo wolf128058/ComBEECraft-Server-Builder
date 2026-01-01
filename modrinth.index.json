@@ -4387,7 +4387,7 @@
     }
   ],
   "dependencies": {
-    "neoforge": "21.1.215",
+    "neoforge": "21.1.217",
     "minecraft": "1.21.1"
   }
 }
