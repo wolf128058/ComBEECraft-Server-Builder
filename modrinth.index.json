@@ -2076,19 +2076,19 @@
       "fileSize": 1127701
     },
     {
-      "path": "mods/create-1.21.1-6.0.8.jar",
+      "path": "mods/create-1.21.1-6.0.9.jar",
       "hashes": {
-        "sha512": "cb3ffee35ee2b2ab212fb4649e75ccfcb8e99ae954cf0b0251591062e3f200e5e639e8f40d7af7c79b7dc71164a027b0e6fbcd5c0bafe2da88f888fc3ffd254c",
-        "sha1": "eee603ac7b083c9cd3a8ded4d4e3ed1a9a836f96"
+        "sha512": "8b3b3d9b6874f31a538add81390dff26b5f9475da6349dc52fc20dbde802edfc32ead511e12291198591574d42605f916f1acbadc2437056eea615d8586bf7cf",
+        "sha1": "bf08bf8980c080f42d6f644f4f44a725cf7c3be9"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LNytGWDc/versions/88L641Un/create-1.21.1-6.0.8.jar"
+        "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.9.jar"
       ],
-      "fileSize": 19001557
+      "fileSize": 19019888
     },
     {
       "path": "mods/create-central-kitchen-2.2.6.jar",
