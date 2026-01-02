@@ -3486,19 +3486,19 @@
       "fileSize": 488718
     },
     {
-      "path": "mods/player-animation-lib-forge-2.0.1+1.21.1.jar",
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "hashes": {
-        "sha512": "1b6fdeec973d36fed687d27af05c1ea8467564b21b8f884a0de8cf97e8a8f91d5e7b0cffaa3a687a7341f2357dae8c47e989e2bba44cd3fbb9d90726207f427b",
-        "sha1": "c0a3d0cf0569b61302e17f35dc158ee75813f80f"
+        "sha512": "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f",
+        "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gedNE4y2/versions/q60QWuOK/player-animation-lib-forge-2.0.1%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
       ],
-      "fileSize": 203160
+      "fileSize": 203149
     },
     {
       "path": "mods/playerxp-neoforge-1.0.3+1.21.1.jar",
