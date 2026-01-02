@@ -996,19 +996,19 @@
       "fileSize": 3115385
     },
     {
-      "path": "mods/XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
+      "path": "mods/XaerosWorldMap_1.40.2_NeoForge_1.21.jar",
       "hashes": {
-        "sha512": "1753332e797230f81865607e8e90ddb97c8093154974de02f0b3dc00e7a4bc62ff268314260bc6b215aaea17c0cef3f78ea9e8c66f5c97179496b8bc42cf0ebd",
-        "sha1": "afae070bb33f28696336e804333544f819d9a88c"
+        "sha512": "fbcd60a95017796a1d1c6f53ce24a8c98515b5afa50da1baae881b36022d2b00c329dc1ab1f6311ebf6508f5c4f04efeaece0d10b427847c99e4b5dad780993f",
+        "sha1": "aeabbcb21eb5c143802687323c341d1895b6123d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/3WghnUq9/XaerosWorldMap_1.39.12_NeoForge_1.21.jar"
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/qZXRCPsg/XaerosWorldMap_1.40.2_NeoForge_1.21.jar"
       ],
-      "fileSize": 955196
+      "fileSize": 1378132
     },
     {
       "path": "mods/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
