@@ -1011,19 +1011,19 @@
       "fileSize": 955196
     },
     {
-      "path": "mods/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+      "path": "mods/Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
       "hashes": {
-        "sha512": "8c39668792ea4053e0dfd52f7045819dde26b18dddf2deae2a76b1873c9593f4c4c1b5c51c7134e288732ce35cd360fd01904354334e8320cb35634090e74988",
-        "sha1": "c671bd1d33e551c74f0157c9678549e566c5368e"
+        "sha512": "e34edc81388b9f119f1096778f651655411e98a909d7979001ba9a40951bc4d239dd997fd4e5aa660db87b7c41fcdb1b100325ce37a243f604b49c153c97cf55",
+        "sha1": "0a6ccd432319ea3f5d30ff3a06f9f080c93cf974"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/DyuxZXfy/Xaeros_Minimap_25.2.10_NeoForge_1.21.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/iTA5fl45/Xaeros_Minimap_25.3.2_NeoForge_1.21.jar"
       ],
-      "fileSize": 1710781
+      "fileSize": 2120102
     },
     {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
