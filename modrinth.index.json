@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.7-preview01",
+  "versionId": "1.0.7-preview02",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -1701,19 +1701,19 @@
       "fileSize": 22895
     },
     {
-      "path": "mods/cataclysm_spellbooks-1.1.7-1.21.jar",
+      "path": "mods/cataclysm_spellbooks-1.1.10-1.21.jar",
       "hashes": {
-        "sha512": "288268f58e98bb917aca2eba39f02512e47cb8174a24af00c1183d47ffdf015dab201b4a35b4a43d6f346831e3a31bd96571275e63c342c925f087cbd24eadbc",
-        "sha1": "f279ece596a0e3ab327c539505ce9aaa47bcf4e4"
+        "sha512": "219c81a47406b01fd18d09ed0782b07dc97c0ace893caebf1dabba0db3cec7db5fd6be98f6b8a7a8a3454742843b93cdc3ab44daf20318fb386f1bf4da92c0d3",
+        "sha1": "b3974e36087126d1ca1b826cb88d7d22fb30d5cb"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/3FEg0A8D/versions/PLWaIMgo/cataclysm_spellbooks-1.1.7-1.21.jar"
+        "https://cdn.modrinth.com/data/3FEg0A8D/versions/AFPKOUgd/cataclysm_spellbooks-1.1.10-1.21.jar"
       ],
-      "fileSize": 459009
+      "fileSize": 450926
     },
     {
       "path": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
