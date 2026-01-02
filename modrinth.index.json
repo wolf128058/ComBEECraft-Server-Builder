@@ -3561,19 +3561,19 @@
       "fileSize": 87041
     },
     {
-      "path": "mods/pufferfish_unofficial_additions-1.21.1-2.2.7.jar",
+      "path": "mods/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
       "hashes": {
-        "sha512": "e5fbf6f65a5fbba856c1720aa7551597b1e3ece4916a29d2bc69ad1100ffaf592834e426e628361ddbae2f179ab4a1345e0132d77e1cc71fe4b510127890167c",
-        "sha1": "4c58709ce135fdf9a16303a5ccb4430cfbb1e392"
+        "sha512": "ca2dc10f2b8751948e5fa5d8d8e02581cb15e20a6ca6b446bfe4422ff1e76d2ab10f00536272f97c5e54cfa0334161e9a4d4f14c094263c1be2bee04ca925ce3",
+        "sha1": "b273ea691e027b33fb9a19fb966c5f072edfa5c0"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/IAao6ECB/versions/C7a3w6xb/pufferfish_unofficial_additions-1.21.1-2.2.7.jar"
+        "https://cdn.modrinth.com/data/IAao6ECB/versions/Gg8lwHYR/pufferfish_unofficial_additions-1.21.1-2.2.8.jar"
       ],
-      "fileSize": 52924
+      "fileSize": 52976
     },
     {
       "path": "mods/puffish_attributes-0.8.0-1.21-neoforge.jar",
