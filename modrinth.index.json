@@ -3981,6 +3981,21 @@
       "fileSize": 223524
     },
     {
+      "path": "mods/spudaciousshops-1.9.7.jar",
+      "hashes": {
+        "sha512": "2e8d134191244ea07f80ae38d3232ad035553b2db87b93424cc58d4c74605a4171346fc2aae2383c745b06751761cd44cec2f224a3ed77751b0cfa8bdfb25525",
+        "sha1": "35a4a33afba9386c0bd41884049679390f0e688a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5L4ZQ2Jk/versions/kAOxsbS0/spudaciousshops-1.9.7.jar"
+      ],
+      "fileSize": 898966
+    },
+    {
       "path": "mods/status-fabric-1.21.1-1.0.8.jar",
       "hashes": {
         "sha512": "25c2823f819809f927c4f532dd7958d8c26d29cfa0b34db3961e4832d5f08172b7daff80f638dfff76e307d4b709fd75c1c1a09390030c67cc4b780f1143c05f",
