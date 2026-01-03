@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.7",
+  "versionId": "1.0.8",
   "name": "ComBEECraft Server",
   "summary": "",
   "files": [
@@ -139,6 +139,21 @@
         "https://cdn.modrinth.com/data/3P2XnNW6/versions/9l6te4eG/AetherVillages-1.21.1-1.0.8-neoforge.jar"
       ],
       "fileSize": 647447
+    },
+    {
+      "path": "mods/Applied-Mekanistics-1.6.3.jar",
+      "hashes": {
+        "sha512": "1a693c3c05862805bd88cf1265fd4b9b98b2da4efe986c9ff26efa0e675df14373983ffdf7ededb26f07864b6702fabc299ac1a06fb8fa35de0b341b596dbf9b",
+        "sha1": "bec4a47269ec23bca2329742e13409bfde69c5c3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IiATswDj/versions/TpUCzFaW/Applied-Mekanistics-1.6.3.jar"
+      ],
+      "fileSize": 149709
     },
     {
       "path": "mods/AutochefsDelight-1.21.1-NeoForge-2.0.2.jar",
@@ -2931,6 +2946,21 @@
       "fileSize": 78624
     },
     {
+      "path": "mods/logbegone-neoforge-1.21.1-1.0.3.jar",
+      "hashes": {
+        "sha512": "5908033aa96432ff55b9d81bd010172e353997312537f82c25b2ddf4767e8dc0100469cefc7513cf1542a919c79f090f7c74e5f29ccd788422231914335d047d",
+        "sha1": "ee401552a031798993fffb7c9761742bdf6789e8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9ON3zv6e/versions/1OrkaiPD/logbegone-neoforge-1.21.1-1.0.3.jar"
+      ],
+      "fileSize": 73237
+    },
+    {
       "path": "mods/lootr-neoforge-1.21.1-1.11.36.109.jar",
       "hashes": {
         "sha512": "5a843128058973183697f662da53ff2d1667d53a21484c33d9068991aacb499918e3926807430994fa725be52f84b1d52507dbfaebc3640d9e42451ec5c01dd7",
@@ -3184,6 +3214,21 @@
         "https://cdn.modrinth.com/data/SszvX85I/versions/16L9myt6/mega_showdown-neoforge-1.5.1%2B1.7.1%2B1.21.1-b-2.jar"
       ],
       "fileSize": 16119461
+    },
+    {
+      "path": "mods/merequester-neoforge-1.21.1-1.4.1.jar",
+      "hashes": {
+        "sha512": "72dd290d32e5f5393fcdb570ce61a2e390a37204ce084cb751218b5c2c97a1147ef42849b80612f779b5071ac28c442f9b9fd3555a4b303b5503bd71f9085df4",
+        "sha1": "44eb03cdc526dc4233d6d9ad02a7cb48ef2eb008"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/E6BFl96N/versions/kkJqmO8M/merequester-neoforge-1.21.1-1.4.1.jar"
+      ],
+      "fileSize": 183435
     },
     {
       "path": "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar",
@@ -3531,6 +3576,36 @@
       "fileSize": 395626
     },
     {
+      "path": "mods/polyeng-0.4.1.jar",
+      "hashes": {
+        "sha512": "7a2838f275ea229177b188632d482959408ab0caef274dd39bf4e33f49967d382137536127f75817649d58b3616b50b0d2fd0afff0d75eb86cdd947043a60694",
+        "sha1": "4add4d9e854807ed2b10c0cabf972244f862b21f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/VS1a14jA/versions/oxmWQs9t/polyeng-0.4.1.jar"
+      ],
+      "fileSize": 20130
+    },
+    {
+      "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "hashes": {
+        "sha512": "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff",
+        "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+      ],
+      "fileSize": 174972
+    },
+    {
       "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "hashes": {
         "sha512": "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5",
@@ -3829,6 +3904,21 @@
         "https://cdn.modrinth.com/data/4WWQxlQP/versions/77MAnmOn/servercore-neoforge-1.5.10%2B1.21.1.jar"
       ],
       "fileSize": 1429522
+    },
+    {
+      "path": "mods/shadered-1.1.2.jar",
+      "hashes": {
+        "sha512": "be5d619bef992e9b9c4d3a7662752b8908825df22241dca4de9e771cfb48ff6f96754305f99117403041792b7b18d0e54f2a45ae2b5e670497a5742571c838bf",
+        "sha1": "70e978841fc8f8cce4bec8f6bca15644d1c957e3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NtwUFqmD/versions/Mk1fz49U/shadered-1.1.2.jar"
+      ],
+      "fileSize": 14942925
     },
     {
       "path": "mods/silent-gear-1.21.1-neoforge-4.0.30.jar",
