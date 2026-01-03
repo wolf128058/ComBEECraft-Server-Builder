@@ -3186,6 +3186,21 @@
       "fileSize": 16119461
     },
     {
+      "path": "mods/megacells-4.10.1.jar",
+      "hashes": {
+        "sha512": "43b5452c0ce745f03cabef962cf74392376bff752a2ad1dac71af0982905970c4c6e94a62a37a18ad0ea3beb235ba0ef69d40b77fcfb5643789b04bfb03fe03a",
+        "sha1": "649780cc164bb39060ff7396cc24b6cbd3607167"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/jjuIRIVr/versions/uuYUevGe/megacells-4.10.1.jar"
+      ],
+      "fileSize": 1120948
+    },
+    {
       "path": "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar",
       "hashes": {
         "sha512": "e82ba385f2f4737bc5817db449c9e0082ec86e710265f6e991df562da8dbf2f27b1472c62f7f74ff9c38d51b49a5cc4acd8680d3aa00a266c10826a54624ca84",
