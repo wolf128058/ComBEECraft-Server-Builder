@@ -45,6 +45,11 @@
     "path": "overrides/mods"
   },
   {
+    "alias": "Polymorphic Energistics",
+    "id": 941096,
+    "path": "overrides/mods"
+  },
+  {
     "alias": "productive farming",
     "id": 944463,
     "path": "overrides/mods"
