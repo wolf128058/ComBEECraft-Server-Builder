@@ -2931,6 +2931,21 @@
       "fileSize": 78624
     },
     {
+      "path": "mods/logbegone-neoforge-1.21.1-1.0.3.jar",
+      "hashes": {
+        "sha512": "5908033aa96432ff55b9d81bd010172e353997312537f82c25b2ddf4767e8dc0100469cefc7513cf1542a919c79f090f7c74e5f29ccd788422231914335d047d",
+        "sha1": "ee401552a031798993fffb7c9761742bdf6789e8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9ON3zv6e/versions/1OrkaiPD/logbegone-neoforge-1.21.1-1.0.3.jar"
+      ],
+      "fileSize": 73237
+    },
+    {
       "path": "mods/lootr-neoforge-1.21.1-1.11.36.109.jar",
       "hashes": {
         "sha512": "5a843128058973183697f662da53ff2d1667d53a21484c33d9068991aacb499918e3926807430994fa725be52f84b1d52507dbfaebc3640d9e42451ec5c01dd7",
