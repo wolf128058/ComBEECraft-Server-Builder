@@ -1026,21 +1026,6 @@
       "fileSize": 1378132
     },
     {
-      "path": "mods/Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
-      "hashes": {
-        "sha512": "e34edc81388b9f119f1096778f651655411e98a909d7979001ba9a40951bc4d239dd997fd4e5aa660db87b7c41fcdb1b100325ce37a243f604b49c153c97cf55",
-        "sha1": "0a6ccd432319ea3f5d30ff3a06f9f080c93cf974"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/iTA5fl45/Xaeros_Minimap_25.3.2_NeoForge_1.21.jar"
-      ],
-      "fileSize": 2120102
-    },
-    {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "hashes": {
         "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d",
@@ -4459,6 +4444,21 @@
         "https://cdn.modrinth.com/data/II7t6llZ/versions/5nUEDt1Z/wwoo-2.3.4.jar"
       ],
       "fileSize": 2217959
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.5.jar",
+      "hashes": {
+        "sha512": "b9e261eff2987e12244a70ccc1c65688da73343f182f5c59afcfce58cd61f2c930a4920a139bea62c5c5915f9b99bf9b624c09535901f5dd679b7998f7701f17",
+        "sha1": "b662f97a58d88d56780487a89bf65d9d0330869d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/puXrtfcK/xaerominimap-neoforge-1.21.1-25.3.5.jar"
+      ],
+      "fileSize": 2120271
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.1+1.21.1-neoforge.jar",
