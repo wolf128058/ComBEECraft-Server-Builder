@@ -1011,21 +1011,6 @@
       "fileSize": 3115385
     },
     {
-      "path": "mods/XaerosWorldMap_1.40.2_NeoForge_1.21.jar",
-      "hashes": {
-        "sha512": "fbcd60a95017796a1d1c6f53ce24a8c98515b5afa50da1baae881b36022d2b00c329dc1ab1f6311ebf6508f5c4f04efeaece0d10b427847c99e4b5dad780993f",
-        "sha1": "aeabbcb21eb5c143802687323c341d1895b6123d"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/qZXRCPsg/XaerosWorldMap_1.40.2_NeoForge_1.21.jar"
-      ],
-      "fileSize": 1378132
-    },
-    {
       "path": "mods/Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
       "hashes": {
         "sha512": "e34edc81388b9f119f1096778f651655411e98a909d7979001ba9a40951bc4d239dd997fd4e5aa660db87b7c41fcdb1b100325ce37a243f604b49c153c97cf55",
@@ -4459,6 +4444,21 @@
         "https://cdn.modrinth.com/data/II7t6llZ/versions/5nUEDt1Z/wwoo-2.3.4.jar"
       ],
       "fileSize": 2217959
+    },
+    {
+      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.6.jar",
+      "hashes": {
+        "sha512": "b16d1c0c53303e2081bb95a29ae4f994fee377e6ee47e95ab13d0a22109c59aa53701c61eb8ef55da0413fa9ce4ba8ec1320518b5cbe707cd0c8a7906c2052a3",
+        "sha1": "3001fb25d05142b3c35cccf5d6d52e662e303d66"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/xUpTkg0V/xaeroworldmap-neoforge-1.21.1-1.40.6.jar"
+      ],
+      "fileSize": 1378685
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.1+1.21.1-neoforge.jar",
