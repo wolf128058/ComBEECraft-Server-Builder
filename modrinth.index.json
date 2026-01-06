@@ -3201,19 +3201,19 @@
       "fileSize": 12736547
     },
     {
-      "path": "mods/mega_showdown-neoforge-1.5.1+1.7.1+1.21.1-b-2.jar",
+      "path": "mods/mega_showdown-neoforge-1.5.1+1.7.1+1.21.1-b-4.jar",
       "hashes": {
-        "sha512": "ece7e96c839057d05b824877ef617672f7a1785cf3f102953cf8c66beee8f0e12f118b75d74fa26b7908abec07c9c1c44439e1174511d87694975f2c0b386df3",
-        "sha1": "22caa12c898ff7366f7ef249fcc590b6dac012d3"
+        "sha512": "9f965e07bff811e68d693691ccfab39ef1a26029fbba7c04b329969af7eb5eaa36a38e4987843764c5efa32ac69b3799380db7b8148eb90f0a1de0a88e7e6872",
+        "sha1": "28c9792cc8080e161f82ec7e25ca795e03b5932a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/SszvX85I/versions/16L9myt6/mega_showdown-neoforge-1.5.1%2B1.7.1%2B1.21.1-b-2.jar"
+        "https://cdn.modrinth.com/data/SszvX85I/versions/wo9vtp1x/mega_showdown-neoforge-1.5.1%2B1.7.1%2B1.21.1-b-4.jar"
       ],
-      "fileSize": 16119461
+      "fileSize": 16122127
     },
     {
       "path": "mods/merequester-neoforge-1.21.1-1.4.1.jar",
