@@ -2661,19 +2661,19 @@
       "fileSize": 2348703
     },
     {
-      "path": "mods/geckolib-neoforge-1.21.1-4.8.2.jar",
+      "path": "mods/geckolib-neoforge-1.21.1-4.8.3.jar",
       "hashes": {
-        "sha512": "6b70d7dc11adb68cd590110c6b29de39eaae40b55f934026288a2018f6d529a2579124d0596825126db4a499f0dfc26248e4005a452bc1b0d4d05c0279e33602",
-        "sha1": "b2d84a5ea8b8944be66dbf817f0d4aa3f494db7a"
+        "sha512": "4b8f3bcdc04450aa97af136353341f136921259f16f2363f3cfe77956860455f27c38f9701b3f0e8a78ea86067411ecd35d391803b753276934057481e770556",
+        "sha1": "fb0ac6ad63dc5f401c15c66a037c08e9709d1c42"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/RVIo5f6E/geckolib-neoforge-1.21.1-4.8.2.jar"
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/lWsXauBN/geckolib-neoforge-1.21.1-4.8.3.jar"
       ],
-      "fileSize": 621848
+      "fileSize": 622121
     },
     {
       "path": "mods/groveextras-1.1.8.jar",
