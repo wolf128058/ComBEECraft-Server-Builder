@@ -1896,19 +1896,19 @@
       "fileSize": 2311316
     },
     {
-      "path": "mods/cobblemore_lib-neoforge-1.2.5.jar",
+      "path": "mods/cobblemore_lib-neoforge-1.2.7.jar",
       "hashes": {
-        "sha512": "b2305db362a0eaf26147df0d31505b26e79d0bc05699e6c7a80ed780a58bb2e24ee0508fd528e4132294c8d099e37428105918af9b21ff47297b5e282d310f49",
-        "sha1": "d5c452572093dffaebe6d602a8df08eb2700122a"
+        "sha512": "22b91c0c3bb6f47f89eb586beedcc30b2636a70fd77f231fc1222693691b04d8d5d5ca046fafad9c31bd81cd7d31fbcf72efd4a9f58ebc853fbc6197296286ce",
+        "sha1": "1e6cbc60ed0a4f376e7660aea680bf7034f4e621"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/VYP2vmDS/versions/I2gsCsYx/cobblemore_lib-neoforge-1.2.5.jar"
+        "https://cdn.modrinth.com/data/VYP2vmDS/versions/Gn5JndfU/cobblemore_lib-neoforge-1.2.7.jar"
       ],
-      "fileSize": 573320
+      "fileSize": 569580
     },
     {
       "path": "mods/cobblenav-neoforge-2.2.5.jar",
