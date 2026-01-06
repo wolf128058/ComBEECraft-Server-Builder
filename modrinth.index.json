@@ -2931,19 +2931,19 @@
       "fileSize": 78624
     },
     {
-      "path": "mods/lootr-neoforge-1.21.1-1.11.36.109.jar",
+      "path": "mods/lootr-neoforge-1.21.1-1.11.36.110.jar",
       "hashes": {
-        "sha512": "5a843128058973183697f662da53ff2d1667d53a21484c33d9068991aacb499918e3926807430994fa725be52f84b1d52507dbfaebc3640d9e42451ec5c01dd7",
-        "sha1": "de65184ae46d055277fda8bf4abe18f059674050"
+        "sha512": "9902345ef5cf80aa866329cb8f3db35c327a8a8128e995724add604bd89a996d613983f719fd08b4f082a2a7ff0039f75e3e347e1890a91c14abc667257b6064",
+        "sha1": "406211226f2fe1e40eb29db9fcdba1a557c1a068"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/EltpO5cN/versions/XmE0NB7F/lootr-neoforge-1.21.1-1.11.36.109.jar"
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/fAKcTzg3/lootr-neoforge-1.21.1-1.11.36.110.jar"
       ],
-      "fileSize": 929299
+      "fileSize": 939085
     },
     {
       "path": "mods/lukis-grand-capitals-1.1.2.jar",
