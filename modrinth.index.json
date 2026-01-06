@@ -2631,19 +2631,19 @@
       "fileSize": 1908733
     },
     {
-      "path": "mods/fusion-1.2.11d-neoforge-mc1.21.jar",
+      "path": "mods/fusion-1.2.11e-neoforge-mc1.21.1.jar",
       "hashes": {
-        "sha512": "8f59016c6278aa69e071977fffc2246793438642221986dad50fec8b4c6e56b10fc6f54a3be118375a9928f2e37007e7b00af52147d62cd24467467209e31880",
-        "sha1": "6f67c7b1976282b7fa4445996d000f3b0bba6180"
+        "sha512": "f511f4a2c2cbbe929f22743daa32365ff6acf1375263a83066c4acbf6c2960f9cbfc02e8ea88b3badc979a83e0660aa27f46ad198a86412cd90506178ec4e877",
+        "sha1": "fac062d152aa979a57dc5336bb5261f248d97a61"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/p19vrgc2/versions/cbJLPWnb/fusion-1.2.11d-neoforge-mc1.21.jar"
+        "https://cdn.modrinth.com/data/p19vrgc2/versions/nHVU0dOT/fusion-1.2.11e-neoforge-mc1.21.1.jar"
       ],
-      "fileSize": 533054
+      "fileSize": 533132
     },
     {
       "path": "mods/fzzy_config-0.7.4+1.21+neoforge.jar",
