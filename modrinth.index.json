@@ -4131,19 +4131,19 @@
       "fileSize": 207514
     },
     {
-      "path": "mods/supermartijn642corelib-1.1.18b-neoforge-mc1.21.jar",
+      "path": "mods/supermartijn642corelib-1.1.19-neoforge-mc1.21.jar",
       "hashes": {
-        "sha512": "39a10569745c97b05ffef15ef4a05e2706c07a9ca7bb12a57ff5813fee0bbf7011725d362315b6ab17058ddd8a9cd1e44c8267294a60685bedc328bc664e2c57",
-        "sha1": "bfec1a4737355f2f3bbb4486563a015a01f80b30"
+        "sha512": "80aec2e9828c2a140972750e5ef38fcad099502f0e3c4715a970d1b646a92dbd7e30228fdf97c7a7523531880022ea41398fde3b070fb50e101681082be82f95",
+        "sha1": "7288a5f11ffedc72495d0afaca64f2e83f9c9c0f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/rOUBggPv/versions/NEkQq7EH/supermartijn642corelib-1.1.18b-neoforge-mc1.21.jar"
+        "https://cdn.modrinth.com/data/rOUBggPv/versions/lhA84Gn9/supermartijn642corelib-1.1.19-neoforge-mc1.21.jar"
       ],
-      "fileSize": 518646
+      "fileSize": 519542
     },
     {
       "path": "mods/supplementaries-1.21-3.5.16-neoforge.jar",
