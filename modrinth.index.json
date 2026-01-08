@@ -3261,19 +3261,19 @@
       "fileSize": 562089
     },
     {
-      "path": "mods/neoessentials-1.0.2.2-HotFix+build.523.jar",
+      "path": "mods/neoessentials-1.0.2.3+build.694.jar",
       "hashes": {
-        "sha512": "99fe6f0c2806f1d4bb7e3d1b953dd4185cd757cf75d11011083c0fdd2878ce54e17fb6fd85654031db6834acd19e7e994b73a395f7a5cbbb4539ff1e74aa1203",
-        "sha1": "8afd0b626a89db0fcbb83a9ce9191d612644ef26"
+        "sha512": "49e8363cf77ee5afc03ff08a0319ca2e6d6270bb117f360971bb0998b182b4a316defe28a6fc19621936f3cec5ee32de4016838b28f115945527b4c36a66e034",
+        "sha1": "797c687fed011420549417636d5b82b7a633b8af"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yiaK4SZh/versions/hUbNaDGU/neoessentials-1.0.2.2-HotFix%2Bbuild.523.jar"
+        "https://cdn.modrinth.com/data/yiaK4SZh/versions/a4G9utKu/neoessentials-1.0.2.3%2Bbuild.694.jar"
       ],
-      "fileSize": 1252650
+      "fileSize": 1291637
     },
     {
       "path": "mods/neoforge-carpet-1.21.1-1.0.8+v251027.jar",
