@@ -10,13 +10,13 @@
     "path": "overrides/mods"
   },
   {
-    "alias": "Productive Bees",
-    "id": 377897,
+    "alias": "ForgePlaceholderAPI",
+    "id": 545871,
     "path": "overrides/mods"
   },
   {
-    "alias": "ForgePlaceholderAPI",
-    "id": 545871,
+    "alias": "AE2 Things",
+    "id": 609977,
     "path": "overrides/mods"
   },
   {
@@ -45,6 +45,11 @@
     "path": "overrides/mods"
   },
   {
+    "alias": "J.A.C.M Just Another Chisel",
+    "id": 920332,
+    "path": "overrides/mods"
+  },
+  {
     "alias": "productive farming",
     "id": 944463,
     "path": "overrides/mods"
@@ -67,6 +72,11 @@
   {
     "alias": "atlas_api",
     "id": 1145462,
+    "path": "overrides/mods"
+  },
+  {
+    "alias": "AE2 MEGA Things",
+    "id": 1150075,
     "path": "overrides/mods"
   },
   {
