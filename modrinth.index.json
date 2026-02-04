@@ -1971,6 +1971,21 @@
       "fileSize": 422658
     },
     {
+      "path": "mods/complete-cobblemon-collection-w-legendary-spawns-2.0.jar",
+      "hashes": {
+        "sha512": "e5e60f01cf9f2babb750f1c39494294fad03d016514e158c217fdcb4f3ba886dd0e93ad6aff47fabbb4885ddcd6826e3e876a7705f80681206d2575e853d0ca9",
+        "sha1": "0382076270577aaec6812e9a02e4473c93d25cc1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/578VPQc9/versions/C4SdQzjz/complete-cobblemon-collection-w-legendary-spawns-2.0.jar"
+      ],
+      "fileSize": 44827473
+    },
+    {
       "path": "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "hashes": {
         "sha512": "c0db64151d850d568386b4c287e75fa882a4590802a0a9bc0eec7d47240e56dbc3215b4edede97204d7817afc097cba5e438a66eb58b956213b2289e342823a5",
