@@ -2,6 +2,7 @@
 import os
 import json
 import subprocess
+import time
 from pathlib import Path
 from typing import Dict, List
 import requests
@@ -16,6 +17,7 @@ REPO_ROOT = SCRIPT_DIR.parent
 MODRINTH_INDEX = "modrinth.index.json"
 MODRINTH_INDEX_PATH = REPO_ROOT / MODRINTH_INDEX
 MODRINTH_API = "https://api.modrinth.com/v2"
+MODRINTH_USER_AGENT = "ComBEECraft-Server-Updater"
 
 ZIEL_BRANCH = "next"
 DRY_RUN = os.getenv("DRY_RUN", "false").lower() == "true"
@@ -33,17 +35,56 @@ def git(*args):
 # MODRINTH
 # ------------------------------------------------------------
 
+MODRINTH_SESSION = requests.Session()
+MODRINTH_SESSION.headers.update({
+    "User-Agent": MODRINTH_USER_AGENT,
+    "Accept": "application/json",
+})
+
+def _safe_int(value: str, default: int) -> int:
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return default
+
+def _rate_limit_sleep_from_headers(headers: Dict[str, str], min_seconds: int = 1) -> int:
+    reset_seconds = _safe_int(headers.get("X-Ratelimit-Reset"), min_seconds)
+    return max(reset_seconds, min_seconds)
+
+def modrinth_get(path: str, timeout: int = 30, max_retries: int = 6) -> requests.Response:
+    url = f"{MODRINTH_API}{path}"
+
+    for attempt in range(1, max_retries + 1):
+        response = MODRINTH_SESSION.get(url, timeout=timeout)
+        limit = response.headers.get("X-Ratelimit-Limit")
+        remaining = _safe_int(response.headers.get("X-Ratelimit-Remaining"), -1)
+
+        if response.status_code == 429 and attempt < max_retries:
+            wait_seconds = _rate_limit_sleep_from_headers(response.headers)
+            print(f"⏳ Modrinth rate limit hit ({remaining}/{limit}). Waiting {wait_seconds}s...")
+            time.sleep(wait_seconds)
+            continue
+
+        response.raise_for_status()
+
+        if remaining == 0:
+            wait_seconds = _rate_limit_sleep_from_headers(response.headers)
+            print(f"⏳ Modrinth quota exhausted ({remaining}/{limit}). Waiting {wait_seconds}s for reset...")
+            time.sleep(wait_seconds)
+
+        return response
+
+    raise RuntimeError(f"Modrinth request failed after {max_retries} retries: {url}")
+
 def get_slug(project_id: str) -> str:
-    r = requests.get(f"{MODRINTH_API}/project/{project_id}", timeout=30)
-    r.raise_for_status()
+    r = modrinth_get(f"/project/{project_id}", timeout=30)
     return r.json()["slug"]
 
 def matches_mc_strict(mc: str, game_versions: List[str]) -> bool:
     return mc in game_versions
 
 def fetch_latest_version(project_id: str, mc_version: str, loaders: List[str]) -> Dict:
-    r = requests.get(f"{MODRINTH_API}/project/{project_id}/version", timeout=30)
-    r.raise_for_status()
+    r = modrinth_get(f"/project/{project_id}/version", timeout=30)
     versions = r.json()
 
     def ok(v):
