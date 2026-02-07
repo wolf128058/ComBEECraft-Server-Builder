@@ -178,9 +178,8 @@ def main():
                 continue
 
             git("push", "-f", "origin", branch)
-
             if GITHUB_TOKEN:
-                requests.post(
+                pr_resp = requests.post(
                     f"https://api.github.com/repos/{GITHUB_REPO}/pulls",
                     headers={
                         "Authorization": f"token {GITHUB_TOKEN}",
@@ -192,7 +191,15 @@ def main():
                         "base": ZIEL_BRANCH,
                         "body": "Automated Modrinth update",
                     },
+                    timeout=30,
                 )
+
+                if pr_resp.status_code == 201:
+                    print(f"🟢 PR created for {branch}")
+                elif pr_resp.status_code == 422 and "A pull request already exists" in pr_resp.text:
+                    print(f"⏭  PR already exists for {branch}")
+                else:
+                    print(f"⚠️ PR creation response for {branch}: {pr_resp.status_code} {pr_resp.text}")
 
         except Exception as e:
             print(f"⚠️ {slug}: {e}")

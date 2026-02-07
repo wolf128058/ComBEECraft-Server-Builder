@@ -1,0 +1,96 @@
+name: Modrinth Dependency Updates
+
+on:
+  schedule:
+    - cron: "55 5 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test run without push/PR creation"
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: modrinth-dependency-updates
+  cancel-in-progress: false
+
+jobs:
+  update-modrinth-dependencies:
+    name: Update modrinth.index.json and create PRs
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout next
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: next
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Create update branches and PRs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+        run: |
+          python tools/create_prs.py
+
+      - name: Cleanup merged update branches on origin
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+
+          git fetch --prune origin
+
+          mapfile -t BRANCHES < <(git for-each-ref --format='%(refname:short)' refs/remotes/origin/update-* | sed 's#^origin/##')
+
+          if [ "${#BRANCHES[@]}" -eq 0 ]; then
+            echo "No update-* branches on origin."
+            exit 0
+          fi
+
+          # Open PR head branches targeting next should never be deleted.
+          OPEN_HEADS=$(curl -fsSL \
+            -H "Authorization: token ${GITHUB_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pulls?state=open&base=next&per_page=100" \
+            | python -c 'import json,sys; prs=json.load(sys.stdin); print("\\n".join(p["head"]["ref"] for p in prs))')
+
+          for branch in "${BRANCHES[@]}"; do
+            if printf '%s\n' "${OPEN_HEADS}" | grep -Fxq "$branch"; then
+              echo "Keep $branch (open PR against next)."
+              continue
+            fi
+
+            if git merge-base --is-ancestor "origin/$branch" "origin/next"; then
+              echo "Delete $branch (already merged into next)."
+              git push origin --delete "$branch"
+            else
+              echo "Keep $branch (not merged into next)."
+            fi
+          done
