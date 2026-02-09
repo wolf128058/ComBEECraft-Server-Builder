@@ -6,6 +6,7 @@ import time
 from pathlib import Path
 from typing import Dict, List
 import requests
+from requests.exceptions import RequestException
 
 # ------------------------------------------------------------
 # CONFIG
@@ -51,17 +52,43 @@ def _rate_limit_sleep_from_headers(headers: Dict[str, str], min_seconds: int = 1
     reset_seconds = _safe_int(headers.get("X-Ratelimit-Reset"), min_seconds)
     return max(reset_seconds, min_seconds)
 
+def _backoff_seconds(attempt: int, base: int = 2, cap: int = 60) -> int:
+    return min(cap, base ** (attempt - 1))
+
 def modrinth_get(path: str, timeout: int = 30, max_retries: int = 6) -> requests.Response:
     url = f"{MODRINTH_API}{path}"
 
     for attempt in range(1, max_retries + 1):
-        response = MODRINTH_SESSION.get(url, timeout=timeout)
+        try:
+            response = MODRINTH_SESSION.get(url, timeout=timeout)
+        except RequestException as exc:
+            if attempt < max_retries:
+                wait_seconds = _backoff_seconds(attempt)
+                print(
+                    f"⏳ Modrinth request error on attempt {attempt}/{max_retries}: {exc}. "
+                    f"Retrying in {wait_seconds}s..."
+                )
+                time.sleep(wait_seconds)
+                continue
+            raise RuntimeError(
+                f"Modrinth request failed after {max_retries} attempts: {url} ({exc})"
+            ) from exc
+
         limit = response.headers.get("X-Ratelimit-Limit")
         remaining = _safe_int(response.headers.get("X-Ratelimit-Remaining"), -1)
 
         if response.status_code == 429 and attempt < max_retries:
             wait_seconds = _rate_limit_sleep_from_headers(response.headers)
             print(f"⏳ Modrinth rate limit hit ({remaining}/{limit}). Waiting {wait_seconds}s...")
+            time.sleep(wait_seconds)
+            continue
+
+        if 500 <= response.status_code < 600 and attempt < max_retries:
+            wait_seconds = _backoff_seconds(attempt)
+            print(
+                f"⏳ Modrinth server error {response.status_code} on attempt "
+                f"{attempt}/{max_retries}. Retrying in {wait_seconds}s..."
+            )
             time.sleep(wait_seconds)
             continue
 
@@ -156,11 +183,12 @@ def main():
             continue
 
         project_id = url.split("/data/")[1].split("/")[0]
-        slug = get_slug(project_id)
-
-        print(f"\n🔍 Checking {slug}")
+        slug = project_id
 
         try:
+            slug = get_slug(project_id)
+            print(f"\n🔍 Checking {slug}")
+
             latest = fetch_latest_version(project_id, mc_version, loaders)
             new = build_entry(latest, old)
 
