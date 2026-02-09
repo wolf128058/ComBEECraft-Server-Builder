@@ -1011,19 +1011,19 @@
       "fileSize": 3115385
     },
     {
-      "path": "mods/VanillaBackport-neoforge-1.21.1-1.1.5.4.jar",
+      "path": "mods/VanillaBackport-neoforge-1.21.1-1.1.5.4.2.jar",
       "hashes": {
-        "sha512": "f1461ae21210c102e3420b61785a03f79b2affbf46780070949d12d57c7e21203c862f2b450dfb3f2eefd6558fb09fb21ade1519ac8eff64b4a1c29a8591b3a8",
-        "sha1": "a6645a9667824a2fa73afc1e40e5e550ccaec9fc"
+        "sha512": "0dc6377040cf2f7c8e391435362f64b66ef4024c69b12a0855c5d58adb1546faf3efe9c07fcc55e5cd3e16e3a90614f2047c4d606e93be0963df84f5ebb6db4b",
+        "sha1": "e57f9d74f7e3b740bb26534bd6dbe8d9bc3a9253"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/6xwxDTgf/versions/JsRGGZTd/VanillaBackport-neoforge-1.21.1-1.1.5.4.jar"
+        "https://cdn.modrinth.com/data/6xwxDTgf/versions/UPdfb9fX/VanillaBackport-neoforge-1.21.1-1.1.5.4.2.jar"
       ],
-      "fileSize": 27449388
+      "fileSize": 28491169
     },
     {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
