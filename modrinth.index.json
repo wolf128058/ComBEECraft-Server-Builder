@@ -3006,19 +3006,19 @@
       "fileSize": 652279
     },
     {
-      "path": "mods/mcw-doors-1.1.2-mc1.21.1neoforge.jar",
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
       "hashes": {
-        "sha512": "8589d05dca9b39e49d1cc4f18eedccc990ad9670eb1089e6c20f6f3a9384c5968b0147b94c824a5c2355957d34f7be1058fda1525d21cdc350c8422b8734ac39",
-        "sha1": "bb6b47cf7b32b6b5737138c2cd1a2e4d8e1d8d49"
+        "sha512": "43ddf00be46af91c009a95392a094f05017155214c46c7980042cbcf871864dc792416497019e688eb558897c87848bd70c282ec4a6d7b268e1ba30389ba987a",
+        "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/kNxa8z3e/versions/4EOKyL43/mcw-doors-1.1.2-mc1.21.1neoforge.jar"
+        "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
       ],
-      "fileSize": 1193693
+      "fileSize": 1190404
     },
     {
       "path": "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
