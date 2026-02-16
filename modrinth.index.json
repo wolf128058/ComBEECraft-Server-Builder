@@ -2991,19 +2991,19 @@
       "fileSize": 143704
     },
     {
-      "path": "mods/mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
+      "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
       "hashes": {
-        "sha512": "56815ee76e34188cff8987d673a99fb754a7259ba697f1dd3c46788237dd0f862f46ad75f0ab7ab508869fd2381da24dc7d90ef4185664961c948aaa0a265402",
-        "sha1": "d9abd8dd1dc0cb05c9a5f9c3b37f255df4a94c3d"
+        "sha512": "e98e476324229564132288f0a59bfcc897cff4cda7d12fe218563ca48d382d880662375687c69d1b4619144262ae09cbef130f4330474d8eacd37a21e8e9afb4",
+        "sha1": "71ece28129789a2123cf07e79938f488d8675bb2"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/GURcjz8O/versions/4AUDy7dQ/mcw-bridges-3.1.1-mc1.21.1neoforge.jar"
+        "https://cdn.modrinth.com/data/GURcjz8O/versions/aQ7rY7ng/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
       ],
-      "fileSize": 652279
+      "fileSize": 661387
     },
     {
       "path": "mods/mcw-doors-1.1.2-mc1.21.1neoforge.jar",
