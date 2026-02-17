@@ -1971,19 +1971,19 @@
       "fileSize": 819976
     },
     {
-      "path": "mods/connector-2.0.0-beta.12+1.21.1-full.jar",
+      "path": "mods/connector-2.0.0-beta.14+1.21.1-full.jar",
       "hashes": {
-        "sha512": "5d3746f9cf220c3592f1398f7b7380af265c91b465c3fbaa813f521c41ac022e9e5ce909b4251a05ef8c92c3b93a3ce7e0c081577ef8ec2ab2b4ca86d112799f",
-        "sha1": "b835ddbf29090a67271879789a395f2c502ca269"
+        "sha512": "6ed3168c2c7dad2606ada1fdf63ee412bb8bb5620718a702f6ac51310e671f2f93ab46fc96400e258f4433e51b96f9dd21441e1a8963d8b356c75b578e156dcc",
+        "sha1": "930067497b5c1249e51b3e33620ab4e72dc92f4c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/u58R1TMW/versions/YCMXHxwl/connector-2.0.0-beta.12%2B1.21.1-full.jar"
+        "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar"
       ],
-      "fileSize": 4528520
+      "fileSize": 4526785
     },
     {
       "path": "mods/cookingforblockheads-neoforge-1.21.1-21.1.17.jar",
