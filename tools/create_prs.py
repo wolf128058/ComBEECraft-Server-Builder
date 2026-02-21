@@ -225,7 +225,12 @@ def main():
 
             print("✅ UPDATE DETECTED")
 
-            git("checkout", "-B", branch)
+            # Ensure we're on next and create a clean branch
+            git("checkout", ZIEL_BRANCH)
+            # Delete local branch if it exists (ignore error if not)
+            subprocess.run(["git", "branch", "-D", branch], capture_output=True)
+            # Create fresh branch from next
+            git("checkout", "-b", branch)
 
             new_index = json.loads(json.dumps(index))
             new_index["files"] = [
