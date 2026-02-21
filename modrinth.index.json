@@ -2106,19 +2106,19 @@
       "fileSize": 342140
     },
     {
-      "path": "mods/create-dragons-plus-1.8.6.jar",
+      "path": "mods/create-dragons-plus-1.8.7.jar",
       "hashes": {
-        "sha512": "c8ee9a46aea4281840eb9a99fa6973c7a6c7c25a0e0b2263a971b239d246271d5b34f1c77e42f735eb7241504ab3014c225006769cc38f2ce9886206a182c0a3",
-        "sha1": "1a77a871b15b3ec57fe5f7f3fcf1b9b0b2dd1518"
+        "sha512": "b7b343c53c0f6ae307e2bf596515f93f337ebbed8e449b930e87e5b9e72be495afa620b83507bb0e59bf30d60be0b0a7716d2be8319cff42bf7e0a253779b0a3",
+        "sha1": "3e53b26e850f9d2a995868b0d7c012ba8e9d373b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/SVTlUqYg/create-dragons-plus-1.8.6.jar"
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/C1pFgdCC/create-dragons-plus-1.8.7.jar"
       ],
-      "fileSize": 644837
+      "fileSize": 644935
     },
     {
       "path": "mods/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
