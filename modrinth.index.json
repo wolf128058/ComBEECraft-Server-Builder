@@ -621,19 +621,19 @@
       "fileSize": 74419
     },
     {
-      "path": "mods/Kiwi-1.21.1-NeoForge-15.8.2.jar",
+      "path": "mods/Kiwi-1.21.1-NeoForge-15.8.3.jar",
       "hashes": {
-        "sha512": "25a745c24d3baa3c24e7840ff85cdbd0b10cdbee194f5d41e28d419595b67b7175a4a648a6b141acf11c6c8137e0f73e0fd903d7d51d8d29e675eb9734314f14",
-        "sha1": "1128b93633b6d39b2a7924343641aec8b49f50ea"
+        "sha512": "3d0168a9189adf81002533421d183d83f75c30523be5499416ee430288e10175df0d43027435600f4c49d5fffffd0f78b86b2bef5bd67f82b1c494ba2f8b5536",
+        "sha1": "042592fb37494fb566ae43881fc3aeecd4880f50"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/ufdDoWPd/versions/eCzvKS7q/Kiwi-1.21.1-NeoForge-15.8.2.jar"
+        "https://cdn.modrinth.com/data/ufdDoWPd/versions/2flHQIzv/Kiwi-1.21.1-NeoForge-15.8.3.jar"
       ],
-      "fileSize": 1530397
+      "fileSize": 1538356
     },
     {
       "path": "mods/L_Ender's Cataclysm 1.21.1-3.23.jar",
