@@ -2796,19 +2796,19 @@
       "fileSize": 6869790
     },
     {
-      "path": "mods/letsdo-farm_and_charm-neoforge-1.1.15.jar",
+      "path": "mods/letsdo-farm_and_charm-neoforge-1.1.20.jar",
       "hashes": {
-        "sha512": "3530338abf95ac01ced400c82f5488cd76c216460818cee7eb29c9a82a4fd4d9824e085fc1fca948af3d4a553cd18190ecfb140a258ee4df048fca0ec644103f",
-        "sha1": "f6a9035f535bf84847ee7250e4f43b167e0317e2"
+        "sha512": "075f517b77fc5f9de922f5b35670c8889a022f31d85cd8aed0e330f58aee94e3916e8301faeda4af1ea0bd5714602e73a140282a69193908d8b1d2057b9e2e9f",
+        "sha1": "92811b785364bd9ea74eb64fe92f647e48ac5ca6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/HJetCzWo/versions/Uy1QolYM/letsdo-farm_and_charm-neoforge-1.1.15.jar"
+        "https://cdn.modrinth.com/data/HJetCzWo/versions/dYdFBNuG/letsdo-farm_and_charm-neoforge-1.1.20.jar"
       ],
-      "fileSize": 2539367
+      "fileSize": 2577994
     },
     {
       "path": "mods/letsdo-herbalbrews-neoforge-1.1.2.jar",
