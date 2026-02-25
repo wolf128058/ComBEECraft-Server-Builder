@@ -156,19 +156,19 @@
       "fileSize": 16319
     },
     {
-      "path": "mods/BuildingWands-neoforge-MC1.21-2.14.jar",
+      "path": "mods/BuildingWands-neoforge-MC1.21-3.0.jar",
       "hashes": {
-        "sha512": "1a596f8c8f97495a32a477dd588b92a2a3997fa039c4814be2715c0ceb356829e115eb18063c3fd20c7f8845b5215d7ab6fc207af92308a4aa898f7cde8cea27",
-        "sha1": "15d4c4a1b240daaf040403168041adeaadbcfa52"
+        "sha512": "2cd35e5ebd3fe05ea102505c15fedccd48dbe3d9cb0d3bfeddc0bf0654beed35ddc696e6cf1be1118f76e4af50449921f660bdb8b950eabefc6a7397acd07c9c",
+        "sha1": "0ed753e6a5b9adca6b8b9348169413e577d950f8"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/XkisZUfp/versions/Imevjyz0/BuildingWands-neoforge-MC1.21-2.14.jar"
+        "https://cdn.modrinth.com/data/XkisZUfp/versions/LhsSDlbe/BuildingWands-neoforge-MC1.21-3.0.jar"
       ],
-      "fileSize": 413807
+      "fileSize": 459911
     },
     {
       "path": "mods/Camerapture-1.10.12+mc1.21.1-neoforge.jar",
