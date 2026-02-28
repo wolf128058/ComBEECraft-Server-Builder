@@ -81,19 +81,19 @@
       "fileSize": 16156
     },
     {
-      "path": "mods/AdvancedAE-1.6.9-1.21.1.jar",
+      "path": "mods/AdvancedAE-1.6.10-1.21.1.jar",
       "hashes": {
-        "sha512": "bd3b35da7a2ca6729541c80097a6988124adc7fd5a37d8f515a9e0a1146e692e9f836da1dcad0af7d431243350840fe1482633d601517a8224a73eb3f2b5db5e",
-        "sha1": "bb0c85f17d5e8dbce57b75802bc473d0d3c2edb3"
+        "sha512": "e1455c5a2ce80e0f9526e4a454a652ad7956dc949f5c8427996308f5bd988e69e4d6de24724689c355afd0bcd4f81d6c7fda9d4ea76f17b74d1d69fc36672371",
+        "sha1": "1b2269a2e2c9fbe465295f9cc50d1cefbd7b1414"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/rxYaglEe/versions/dAIGNknN/AdvancedAE-1.6.9-1.21.1.jar"
+        "https://cdn.modrinth.com/data/rxYaglEe/versions/hsQjcNSg/AdvancedAE-1.6.10-1.21.1.jar"
       ],
-      "fileSize": 4796834
+      "fileSize": 4796780
     },
     {
       "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
