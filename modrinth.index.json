@@ -3981,19 +3981,19 @@
       "fileSize": 986580
     },
     {
-      "path": "mods/sophisticatedcore-1.21.1-1.4.1.1459.jar",
+      "path": "mods/sophisticatedcore-1.21.1-1.4.5.1499.jar",
       "hashes": {
-        "sha512": "9ad51af2ccaf6187ce788010e68abf651fb56adc0bb75203f11bc5a9540fcba9d05846a37ff26ceb598986ee444be91d9e30e101fc3a71aea63e33fc1574e45f",
-        "sha1": "3c64d31392ba06f676f0ade2022ffc3f68a0976b"
+        "sha512": "abed32b266c999ee4e3989ef9570102f93b92ec9af8dcdc46feef8ccb8f5858284706f2d783480450657452fed0175b3a8c742407a4412fade0f71dbfdfba493",
+        "sha1": "fb75fe25d174b9c72246d805038b5d49b1d865fa"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nmoqTijg/versions/23alQult/sophisticatedcore-1.21.1-1.4.1.1459.jar"
+        "https://cdn.modrinth.com/data/nmoqTijg/versions/qi2pvRvC/sophisticatedcore-1.21.1-1.4.5.1499.jar"
       ],
-      "fileSize": 1455484
+      "fileSize": 1461903
     },
     {
       "path": "mods/sophisticatedstorage-1.21.1-1.5.26.1480.jar",
