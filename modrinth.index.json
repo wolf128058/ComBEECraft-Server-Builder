@@ -4146,19 +4146,19 @@
       "fileSize": 558373
     },
     {
-      "path": "mods/supplementaries-1.21-3.5.19-neoforge.jar",
+      "path": "mods/supplementaries-1.21-3.5.26-neoforge.jar",
       "hashes": {
-        "sha512": "1c5bef31049b897d945abd456487a2ba465319fc6218011b597720afc89ce9b676ddb1d01b4498762da8af621e66680ab5a6e7a8e95513580e604e7094fdf353",
-        "sha1": "f8e9ef89e00e22de80e92c505d8bad18651385dd"
+        "sha512": "5413fa2d34a54475c01fa29ba6cf4b76f4d44834b5ba0ea4eaabb049c9445758cf23cd75591131ce9694d33f15bf1c757ef57d02b73e0aeabebd836838ecb06b",
+        "sha1": "14e5539225e45764200e56091507a9220efda9be"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/GCthWMfx/supplementaries-1.21-3.5.19-neoforge.jar"
+        "https://cdn.modrinth.com/data/fFEIiSDQ/versions/MSKshgx9/supplementaries-1.21-3.5.26-neoforge.jar"
       ],
-      "fileSize": 13350254
+      "fileSize": 13354404
     },
     {
       "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
