@@ -1596,19 +1596,19 @@
       "fileSize": 3106485
     },
     {
-      "path": "mods/bookshelf-neoforge-1.21.1-21.1.80.jar",
+      "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "hashes": {
-        "sha512": "bff24c4540b3bffdd687060fa6e4176e619166e30f5d13c31746d77ca6b44657b82dbe87441c5b2fa84bddca2f57d86f6294977929b8a631ae5ef3bee5b90883",
-        "sha1": "04faab5a3e3fde909601145ac7dd8d806087958d"
+        "sha512": "78d4577a8e8fbb241216968475dd73f5b9e5efeb7da802b18a4e6c290e49af6cb4a5676e9855d0d8ff3613f967812e4bd363bbb9196c17c954d19454f84b2214",
+        "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uy4Cnpcm/versions/vQ3DXKc6/bookshelf-neoforge-1.21.1-21.1.80.jar"
+        "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar"
       ],
-      "fileSize": 328814
+      "fileSize": 328813
     },
     {
       "path": "mods/botanypots-neoforge-1.21.1-21.1.41.jar",
