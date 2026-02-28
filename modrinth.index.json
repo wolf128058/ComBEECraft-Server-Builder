@@ -4401,19 +4401,19 @@
       "fileSize": 432269
     },
     {
-      "path": "mods/waystones-neoforge-1.21.1-21.1.25.jar",
+      "path": "mods/waystones-neoforge-1.21.1-21.1.28.jar",
       "hashes": {
-        "sha512": "03ed5454fd2fc404a910ada3776fd6199ecd039602eeeb5e7a160b9431f4e45cfc54741ad48846fbf9461b941a73d3458d7222553a2cc3598b392499bd2d0e50",
-        "sha1": "88446787b139183f7270d030c168c003f1834de6"
+        "sha512": "c5c75dc801769625e4cb341baf132458f393d8754e03dd4a052798fa26d4f38147595bbc3c2bd17d54eca31e77648e01fa9f2cb1f3cb748e607bb2b6ff192b89",
+        "sha1": "dae6c9c647e13f97602d51ce29d7069769dbb1a7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LOpKHB2A/versions/f4A1aY3t/waystones-neoforge-1.21.1-21.1.25.jar"
+        "https://cdn.modrinth.com/data/LOpKHB2A/versions/ShK7Iy1S/waystones-neoforge-1.21.1-21.1.28.jar"
       ],
-      "fileSize": 865610
+      "fileSize": 875969
     },
     {
       "path": "mods/worldedit-mod-7.3.8.jar",
