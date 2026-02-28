@@ -2061,19 +2061,19 @@
       "fileSize": 166931
     },
     {
-      "path": "mods/crd_broadcasts-neoforge-1.4.0+1.21.1.jar",
+      "path": "mods/crd_broadcasts-neoforge-1.4.1+1.21.1.jar",
       "hashes": {
-        "sha512": "c235038b34f5c0557c6492b0c7725487e6477c99e3b8067c87b6dfff49916302ad9a463a87fd2ee9039899490b29869fccc95f16d82313372c10ac804f679ac3",
-        "sha1": "6efd0994c404ceae511707e0ae4ebe01323b4bed"
+        "sha512": "121038371afa999f360f51a04dfb213a52060b4cb1234028a21f584b88922918eda8adb9e5664fc669b07909932fbdc962d4d450096e90f9d6cc3e22a2839835",
+        "sha1": "216325e2e6a56823d48d06329bd3825e43355730"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TmNAjS6y/versions/VGvc3RbP/crd_broadcasts-neoforge-1.4.0%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/TmNAjS6y/versions/VZ5p3Nry/crd_broadcasts-neoforge-1.4.1%2B1.21.1.jar"
       ],
-      "fileSize": 1122721
+      "fileSize": 1122943
     },
     {
       "path": "mods/create-1.21.1-6.0.9.jar",
