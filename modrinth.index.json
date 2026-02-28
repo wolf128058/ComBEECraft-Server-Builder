@@ -1341,19 +1341,19 @@
       "fileSize": 118319
     },
     {
-      "path": "mods/ae2wtlib-19.3.0.jar",
+      "path": "mods/ae2wtlib-19.4.0.jar",
       "hashes": {
-        "sha512": "477fbc6642b2f96208b99189b9fb3fb774d41587a545a35d0b417fc0321bbe944db2553f0a08d0663258500ea73c3773f7fc093af604ff1d4b579b32c7c40d69",
-        "sha1": "455fb1b4708a6aa26aedbd0c33f2b331c35cdc98"
+        "sha512": "0b73c2c42ae89e8e5644269d150556de5b26689710d2dd5f86d2b3c77b5be16e1c91223cebe8ab3d7c80af773cbbdbbc6cc0190ecb1db06a191a0f0f99778e1a",
+        "sha1": "45f6cd74a45cd57fb1a2a784d53403d1c185b2a3"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/pNabrMMw/versions/jJ2svSk6/ae2wtlib-19.3.0.jar"
+        "https://cdn.modrinth.com/data/pNabrMMw/versions/wutnk0In/ae2wtlib-19.4.0.jar"
       ],
-      "fileSize": 240969
+      "fileSize": 242215
     },
     {
       "path": "mods/aeinfinitybooster-neoforge-1.21.1-1.0.0.54.jar",
