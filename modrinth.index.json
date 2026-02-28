@@ -891,19 +891,19 @@
       "fileSize": 1365582
     },
     {
-      "path": "mods/Platform-neoforge-1.21.1-1.2.11.6.1.jar",
+      "path": "mods/Platform-neoforge-1.21.1-1.2.11.6.2.jar",
       "hashes": {
-        "sha512": "a50c664353e3b6c1d188a798ac7c2f048ffcd11cf0cc24d60a5ecdb4c75aec4a46e4d8baa2d8d2ec0d4dfd5ecb8058882efa0a0749571aec25fd88534c75c59b",
-        "sha1": "84ae3804b3e5b9a00b97375131ced449e6a27545"
+        "sha512": "a6434172f74a1d3877be96022d6a8a49ee09ff0a38c52b4811c0f65cd0bf8749f09ebf315fcb7a737a178610324faf29c3c7e98c8e0a93f5460d27453cebab38",
+        "sha1": "b33452ab3a003fb12271b5b8c51f93c1c3c5559e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/i6fiqm5y/versions/XH89ujUq/Platform-neoforge-1.21.1-1.2.11.6.1.jar"
+        "https://cdn.modrinth.com/data/i6fiqm5y/versions/ZmMlPE4e/Platform-neoforge-1.21.1-1.2.11.6.2.jar"
       ],
-      "fileSize": 469711
+      "fileSize": 469409
     },
     {
       "path": "mods/Powah-6.2.8.jar",
