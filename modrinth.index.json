@@ -38,15 +38,15 @@
     {
       "path": "mods/AEAdditions-1.21.1-6.0.2.jar",
       "hashes": {
-        "sha512": "7277df53e3b37b5893680e7ed34ef14be5c181069a6d54a9debf6e16a44617214da8fc09323c1fa4f2067af96d08fe1f4d31affc7623c052f3a3cb45357b454b",
-        "sha1": "127856adc3aadef9240168ece9f1290345ac2ff8"
+        "sha512": "1ecb64e3735df1a14971958dabec7b63dd1b5002dcc87f5140920311a72523d84734558bd52115bedbc988442d4c39dc7e8a664a1fbc05badb73db1ad4a7479a",
+        "sha1": "7a54db29c574f4a20377e13b255549f2090f8d2a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/BaiPFaoT/versions/GyhrnxXK/AEAdditions-1.21.1-6.0.2.jar"
+        "https://cdn.modrinth.com/data/BaiPFaoT/versions/gXxTjzyJ/AEAdditions-1.21.1-6.0.2.jar"
       ],
       "fileSize": 783647
     },
