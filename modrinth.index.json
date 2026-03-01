@@ -1866,19 +1866,19 @@
       "fileSize": 125742
     },
     {
-      "path": "mods/cobblemonraiddens-neoforge-0.7.2+1.21.1.jar",
+      "path": "mods/cobblemonraiddens-neoforge-0.8.0+1.21.1.jar",
       "hashes": {
-        "sha512": "0e00faef7384eacf7e0b63b2247575022aa71b06b82925d6eb11a6d5d338861a40b0334f41131d00b4e1046e76542b37706fa631689c12c9177e275a88681f89",
-        "sha1": "b6feabe9e71fa5e126e9c7dddd2af496630ae362"
+        "sha512": "9475026f7f6c539f16ac110b29b5bb5dbee97191dbe72a6ebf8783a9fd983bafcee65e2e0b9955fb73e6bd35c87b46983604c9dafc162b456f36f44b83dbaa3f",
+        "sha1": "cc6737e0347ccd8099d75f29978030fd5e3380f5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/GebWh45l/versions/rKpBdHmC/cobblemonraiddens-neoforge-0.7.2%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/GebWh45l/versions/AjUGEOVG/cobblemonraiddens-neoforge-0.8.0%2B1.21.1.jar"
       ],
-      "fileSize": 2514748
+      "fileSize": 2578008
     },
     {
       "path": "mods/cobblemore_lib-neoforge-1.2.7.jar",
