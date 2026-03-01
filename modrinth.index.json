@@ -1656,19 +1656,19 @@
       "fileSize": 20389
     },
     {
-      "path": "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.89.jar",
+      "path": "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
       "hashes": {
-        "sha512": "74f3d539351430f5ecddfb6cf7b5c374739a3eea7199092864a615a11cc3251784dd50e61b81961e5e299f14c536c38df1310e289c213611e5a0767a99483378",
-        "sha1": "39300dc4508a0d4f9e1f3867d4b87952cbf7b6e6"
+        "sha512": "cdfddfa4b99820fcc8dc546330a90cfff989f66782ea9be03f862684f3ac353e4f72aa71c30369ec9e4635cbfd774abf4ad7e1a4f63eee9d6b472913e28f5884",
+        "sha1": "7837dd615c054675d88e034be04ffa1cec114265"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/COlSi5iR/versions/O0Yop0i3/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.89.jar"
+        "https://cdn.modrinth.com/data/COlSi5iR/versions/4ra0NTk5/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.90.jar"
       ],
-      "fileSize": 4508294
+      "fileSize": 4506973
     },
     {
       "path": "mods/caelus-neoforge-7.0.1+1.21.1.jar",
