@@ -1236,19 +1236,19 @@
       "fileSize": 198183
     },
     {
-      "path": "mods/[1.21.1-Neoforge] Hybrid Aquatic 1.5.4.jar",
+      "path": "mods/[1.21.1-Neoforge] Hybrid Aquatic 1.5.5.jar",
       "hashes": {
-        "sha512": "ba4bcaa586e2b1d296ecec8f623f93952b93c1ffb172c520b75a694994e6441d977d6154f61eb2beba83f85c3e574acd659227958c2249ee5e1cede77c7c61ac",
-        "sha1": "6dc3cf7573304ca6fdd838985349d0e10a47d689"
+        "sha512": "8e3b83d1fd8437bae4397d387528fc71b63b33ddd67fce5e8da17f79892e0984f66dc6cb8ebf35e74e37753796a71ec9dd92038a88420a17873f9b6d89335a01",
+        "sha1": "d82ab972a0b436ae28be9c1865fa319d534e8c1d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/HH4FjUqN/versions/LfdJVCH9/%5B1.21.1-Neoforge%5D%20Hybrid%20Aquatic%201.5.4.jar"
+        "https://cdn.modrinth.com/data/HH4FjUqN/versions/1DTuj8UO/%5B1.21.1-Neoforge%5D%20Hybrid%20Aquatic%201.5.5.jar"
       ],
-      "fileSize": 3359414
+      "fileSize": 3375151
     },
     {
       "path": "mods/accelerated-decay-neoforge-21.0.0.jar",
