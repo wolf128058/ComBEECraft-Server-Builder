@@ -4056,19 +4056,19 @@
       "fileSize": 223524
     },
     {
-      "path": "mods/spudaciousshops-1.9.8.jar",
+      "path": "mods/spudaciousshops-1.9.9.jar",
       "hashes": {
-        "sha512": "c255d57f110174fe6c65652c4a4e8eb194f4201b2447406da255d7f431df77ac6788d0142612729ca8d91ab396648151e57f36b554122fc800d340e3e5462ad5",
-        "sha1": "410734e3d565f110c64aa2e7f7ba15058041e5f3"
+        "sha512": "beb1a1380bd32bb516ed27257a366395c8d1ac2c231abb4543ce6aa12b898b42d10da593b77ca96734b185bc4292475d3a447e62fd6be7f86aa8f76af060c239",
+        "sha1": "eefa744f6c391544da81b1e261a72b7568d9e162"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5L4ZQ2Jk/versions/YxFxEvDh/spudaciousshops-1.9.8.jar"
+        "https://cdn.modrinth.com/data/5L4ZQ2Jk/versions/ilCCpqQi/spudaciousshops-1.9.9.jar"
       ],
-      "fileSize": 899534
+      "fileSize": 919987
     },
     {
       "path": "mods/status-fabric-1.21.1-1.0.8.jar",
