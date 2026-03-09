@@ -846,19 +846,19 @@
       "fileSize": 165280
     },
     {
-      "path": "mods/Patchouli-1.21.1-92-NEOFORGE.jar",
+      "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "hashes": {
-        "sha512": "36cad2a2e5839fd4ee99165c4f275d1c3c0c71ed130413485e43f8506e7d2c3de2e2dbad40f90262378c6c6c5148140a473b0f7acd806e1a4bfede9c9a04600f",
-        "sha1": "97ae42096ee4a0a242cd8468dde293017f3cc39c"
+        "sha512": "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f",
+        "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nU0bVIaL/versions/h6hKI2ob/Patchouli-1.21.1-92-NEOFORGE.jar"
+        "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
       ],
-      "fileSize": 646486
+      "fileSize": 646777
     },
     {
       "path": "mods/PerWorldGameRules-1.21.1-NeoForge-4.0.1.jar",
