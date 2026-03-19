@@ -291,19 +291,19 @@
       "fileSize": 1538347
     },
     {
-      "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
+      "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
       "hashes": {
-        "sha512": "f614e06f2871cdaddd6eb526ee831a661e2818243e310f3087ca89ab989c25a6140d4b4305fd5537a80960c00047d7b3e86bf177dd7605ff8e963f0f644e7fc0",
-        "sha1": "a84b16272a6cd1b3fec0ff0e2ffdd05cf92dc02a"
+        "sha512": "d5461d5fab247fe2d30ba5578c7768cf3c4c8758b155acb5c901913c22c43ddd6af6e7dbd5ae4cca8b106f7e2953b4427c0a97e53869861d64b0266c825d178b",
+        "sha1": "6699f876f9e10f936910055f7fe1a283d8bb9e0f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/ziOp6EO8/versions/nQqU8c1K/Corgilib-NeoForge-1.21.1-5.0.0.7.jar"
+        "https://cdn.modrinth.com/data/ziOp6EO8/versions/nqrTa84r/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
       ],
-      "fileSize": 310185
+      "fileSize": 309763
     },
     {
       "path": "mods/CreativeCore_NEOFORGE_v2.13.27_mc1.21.1.jar",
