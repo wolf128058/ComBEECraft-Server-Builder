@@ -2241,19 +2241,19 @@
       "fileSize": 410690
     },
     {
-      "path": "mods/deep_aether-1.21.1-1.1.4.jar",
+      "path": "mods/deep_aether-1.21.1-1.1.5.1.jar",
       "hashes": {
-        "sha512": "3279832ff54cfc25bb87d561ea4c7b33fab4e65152c9272e069035676104034e5e9b5a8d911b45c7e12520e691363d6c7278d6f2d094b888270493b9d9e564cf",
-        "sha1": "d850e07ebabebd0a471e89c0ef63f03ef241d1bb"
+        "sha512": "f848fee0a8a73d0696bf721753af1b752b067791900a19a949ce9faa0adcf1f03b29f44e5ea945404c4505891b14dadab89009253cd31cc85c241c07fe9c5684",
+        "sha1": "2cffdb08d7cb068186cf0fe766fd937425889af1"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gcHIih5B/versions/4izgIGwK/deep_aether-1.21.1-1.1.4.jar"
+        "https://cdn.modrinth.com/data/gcHIih5B/versions/MSW5emg8/deep_aether-1.21.1-1.1.5.1.jar"
       ],
-      "fileSize": 40626167
+      "fileSize": 46236011
     },
     {
       "path": "mods/despawntweaks-neoforge-1.0.0-1.21.1.jar",
