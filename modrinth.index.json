@@ -4176,19 +4176,19 @@
       "fileSize": 3641681
     },
     {
-      "path": "mods/tbcs-neoforge-1.21.1-0.13.0-beta.jar",
+      "path": "mods/tbcs-neoforge-1.21.1-0.14.1-beta.jar",
       "hashes": {
-        "sha512": "db3a9910b8dfc37c31f607558c440825a4d3f094570bc6a534f5da2357061fd47cb42686ea2e5ee1e5c9d51d038cb8c222b2b61f12e46e1d2253f02c751ebe08",
-        "sha1": "16479628ce269fceb12ad77f257c9e02690914ef"
+        "sha512": "7611c76ca09e9182cfec3b8afc10cacf002985b3e3d6f81889d1cfeb052fc5b23bcac52a0218c1476324d5193d7ff56403ad9671dd2f7317261f820ec917f637",
+        "sha1": "fba33848f1bdc9144bd118de7a7459b9125f2aa2"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NApIzVVy/versions/IJ8TLF5d/tbcs-neoforge-1.21.1-0.13.0-beta.jar"
+        "https://cdn.modrinth.com/data/NApIzVVy/versions/IIauGpPZ/tbcs-neoforge-1.21.1-0.14.1-beta.jar"
       ],
-      "fileSize": 50827
+      "fileSize": 57714
     },
     {
       "path": "mods/terrablenderfix-neoforge-1.21.1-0.0.1.jar",
