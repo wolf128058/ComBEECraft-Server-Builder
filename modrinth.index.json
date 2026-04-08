@@ -1821,19 +1821,19 @@
       "fileSize": 185490
     },
     {
-      "path": "mods/cobblemon_spawn_alerts-neoforge-1.11.4.jar",
+      "path": "mods/cobblemon_spawn_alerts-neoforge-1.13.2.jar",
       "hashes": {
-        "sha512": "ac66871097839e40ce34fed926d3bf02126109192fbcc4e1d2915f1771585321627de52110a805f1bdaf06fdc2684a4e99097ce6c354503afa7eb264f169ca4e",
-        "sha1": "052da5c3257c89ed80280eb99365088ba2cdbc5e"
+        "sha512": "c0ef93232ec9ef5a1c54f8a991e176ff85f9449f26976e9feb38750bfc4827a40cf75c6c44bf58d8260aa47f567f5a0157a64b9ac52e50042f53bcd7015b1a54",
+        "sha1": "be415dc230d0875be3eadf512fdb648ab2751164"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/pb6jwG0t/versions/fiMl1AeI/cobblemon_spawn_alerts-neoforge-1.11.4.jar"
+        "https://cdn.modrinth.com/data/pb6jwG0t/versions/Ke2fN79T/cobblemon_spawn_alerts-neoforge-1.13.2.jar"
       ],
-      "fileSize": 1328540
+      "fileSize": 2971804
     },
     {
       "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.5.jar",
