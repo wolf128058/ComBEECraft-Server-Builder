@@ -666,19 +666,19 @@
       "fileSize": 11950439
     },
     {
-      "path": "mods/MekanismGenerators-1.21.1-10.7.17.83.jar",
+      "path": "mods/MekanismGenerators-1.21.1-10.7.19.85.jar",
       "hashes": {
-        "sha512": "26f0279c59b146d08aa909ffd999de340c3617a51e1224983dfd1ec4735a6244b6472441a2f95a7f2cd850247ec1c323b4d31d423a693a60b2dbd66d99bbf3c2",
-        "sha1": "2c8d5f69ec3d69837e5caf3d2a50927b0a85d74e"
+        "sha512": "6c3d5b7ea2f67f43c3d169c97de2855a7085f38019cf426e015ccc8ca9bc4f66e96b1cdf4a9afdc92bef7b2e236f16c81415ed5e48736805d5961d29525316d6",
+        "sha1": "44c4d8006597580ff7e4101b5a22f7b426cdcaf6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/OFVYKsAk/versions/bPzSK3o5/MekanismGenerators-1.21.1-10.7.17.83.jar"
+        "https://cdn.modrinth.com/data/OFVYKsAk/versions/a6gl7srE/MekanismGenerators-1.21.1-10.7.19.85.jar"
       ],
-      "fileSize": 1104550
+      "fileSize": 1114598
     },
     {
       "path": "mods/MoogsEndStructures-1.21-2.0.1.jar",
