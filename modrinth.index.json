@@ -651,19 +651,19 @@
       "fileSize": 73344852
     },
     {
-      "path": "mods/Mekanism-1.21.1-10.7.17.83.jar",
+      "path": "mods/Mekanism-1.21.1-10.7.19.85.jar",
       "hashes": {
-        "sha512": "df8de81d0c57894e4965ad39aa7468576a95007d07de96d021b9d0a89ba82b2da53beeda590a21f665e57dd358c7c88c3382f2eea0d678d18a58f9519d352886",
-        "sha1": "2977b4f3130f8abab508ff56d774bb2cd419c5d0"
+        "sha512": "66745825330a98f3e4a5ea3a44aff8b00870f715c144edc38dd2f61b4240589600b58ae89efac3b54dbb5aa430b1059dac1a28fd71cac5cc9002bbeb5ba3f22b",
+        "sha1": "b78945c40cfe7640408f3fd1e44da385a8c8b805"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Ce6I4WUE/versions/D32JUF51/Mekanism-1.21.1-10.7.17.83.jar"
+        "https://cdn.modrinth.com/data/Ce6I4WUE/versions/5KzzycBT/Mekanism-1.21.1-10.7.19.85.jar"
       ],
-      "fileSize": 11950439
+      "fileSize": 11976009
     },
     {
       "path": "mods/MekanismGenerators-1.21.1-10.7.17.83.jar",
