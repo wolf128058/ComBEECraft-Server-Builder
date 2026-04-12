@@ -3756,19 +3756,19 @@
       "fileSize": 981192
     },
     {
-      "path": "mods/recipe_integration-0.3.0.jar",
+      "path": "mods/recipe_integration-0.4.0.jar",
       "hashes": {
-        "sha512": "e92d4186e64f82f305331a3daa3a75822591fd1fc9b8ca35f44392de6b1959a2ce9366c0cb57b9839a3cb59f714f2dfc5ea847bc0f5f6adf3e6f2a2206adf4cd",
-        "sha1": "dabc2eac8ae1574e7d2bc365563cd72585ecd30e"
+        "sha512": "1630a7c0b18d37cad7d66aeee78a3b8cab7e7805c137a89051117322056ae8280bac4c628d7a8459ef483fabddb8a87df75ef4abb77e5753b2d5092b3ba09ae6",
+        "sha1": "40a56de509e38d1d8c6a9cc408a62e838f285703"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/35hUUUwA/versions/uVUhhVIS/recipe_integration-0.3.0.jar"
+        "https://cdn.modrinth.com/data/35hUUUwA/versions/6vxfvFCK/recipe_integration-0.4.0.jar"
       ],
-      "fileSize": 1775376
+      "fileSize": 2070204
     },
     {
       "path": "mods/reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
