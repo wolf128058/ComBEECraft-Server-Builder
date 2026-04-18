@@ -3921,19 +3921,19 @@
       "fileSize": 2870569
     },
     {
-      "path": "mods/silent-lib-1.21.1-neoforge-10.5.1.jar",
+      "path": "mods/silent-lib-1.21.1-neoforge-10.6.0.jar",
       "hashes": {
-        "sha512": "c6e2f244940eeef1e251f3bb2e8ce68f749d324848f9b4bf37454a5f5b64d3ea046ccd7b7dc53f781e0b567e9f7149afc4cc6502c3e7bb7cc8513e3cfac24c67",
-        "sha1": "b08b639706ce8cbc426045501b7f2da59eceb14f"
+        "sha512": "1a3ede879804303c01fbeff84d64ce94c811f6c2670d5b2cadb3260488d609bed4cf1fa5e9609e2b7287ecfe16400ec6c0c436bfbfad9c94234b95a44be0a702",
+        "sha1": "991055113a165bef7d0b620c091165d55f7dbb24"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/BQhuHQo4/versions/djmtrwla/silent-lib-1.21.1-neoforge-10.5.1.jar"
+        "https://cdn.modrinth.com/data/BQhuHQo4/versions/xavD8Lt3/silent-lib-1.21.1-neoforge-10.6.0.jar"
       ],
-      "fileSize": 146707
+      "fileSize": 268791
     },
     {
       "path": "mods/silentgems-1.21.1-neoforge-5.1.3.jar",
