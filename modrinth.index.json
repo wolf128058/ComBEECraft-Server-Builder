@@ -3381,19 +3381,19 @@
       "fileSize": 388133
     },
     {
-      "path": "mods/oceansdelight-neoforge-1.0.3-1.21.jar",
+      "path": "mods/oceansdelight-neoforge-1.0.4-1.21.1.jar",
       "hashes": {
-        "sha512": "1e340a7ad3cd026ed2f15daa6308146ebeacbcb642e312dc131d3637a1c24b20ce448688a83476323a52e122b467e74da20cf02dc04d28faa0b9a2c60684467b",
-        "sha1": "f74863b60417876c67f9cb438bc5a059e8e805c2"
+        "sha512": "8079160938175f9d0c1b8f10587c40e3c6b54210511109331f0bb37a845aa90522f60c4e668688e8a0b4023e0464b80d44f50a6af39572fe519d48c9581a9f15",
+        "sha1": "2246edd8fc1bbf60422f5099854c1de0b2a439c9"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/DGiq4ZSW/versions/uYwpUE9A/oceansdelight-neoforge-1.0.3-1.21.jar"
+        "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar"
       ],
-      "fileSize": 108785
+      "fileSize": 117108
     },
     {
       "path": "mods/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar",
