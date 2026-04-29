@@ -966,19 +966,19 @@
       "fileSize": 825317
     },
     {
-      "path": "mods/SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar",
+      "path": "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar",
       "hashes": {
-        "sha512": "507e145249aa5eb5ddb1b97f9e48084219ba81d2b97f5b7dc5e6a72b368f6dbeaf1c521b0a722e5125b88e94dfb2586ee5c992340678c5de52567c67d72a924d",
-        "sha1": "e80e1e6ba406e435412f81d918442f0ea2da8516"
+        "sha512": "efaf415d9dad768ac9b3893973349db65d7848b42d99952e82dbd1b0e66163ba09cfc2233953a8887b54da5ef52e366d7fa18f1b467e05780639be10a0e1e0ef",
+        "sha1": "f0c846484bd7c769b88f38ab31429457f52552d7"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4q8UOK1d/versions/conRdzcK/SubtleEffects-neoforge-1.21.1-1.13.2-hotfix.1.jar"
+        "https://cdn.modrinth.com/data/4q8UOK1d/versions/s3Fo4cDk/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
       ],
-      "fileSize": 3179780
+      "fileSize": 3306773
     },
     {
       "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
