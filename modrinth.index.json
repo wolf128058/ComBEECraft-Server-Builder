@@ -906,19 +906,19 @@
       "fileSize": 469711
     },
     {
-      "path": "mods/Powah-6.2.8.jar",
+      "path": "mods/Powah-6.2.10.jar",
       "hashes": {
-        "sha512": "66681e28b9e3f8b491bd10bf634af5372465fd851d404f9bf05ef1f26772cc8b3fcfb502ae29673ae6ca9059dfdbf70afb2ffe938d7ef5e29cd65cdc3d91c53b",
-        "sha1": "cddbf8d2a6adfbcd8f73c13515af0da9c8139179"
+        "sha512": "41d616d3d944faaee2cde4d15b3fc35cdd154690169f43d8436e6432df50db90355ca5fef78bd0f7864d97d9a14039280c8fb78d8c3e1d407618c7ccff47d97f",
+        "sha1": "f134ab3e0ace3793abf93129e318eb817898a4e1"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/KZO4S4DO/versions/y2Y1fHd2/Powah-6.2.8.jar"
+        "https://cdn.modrinth.com/data/KZO4S4DO/versions/1prWLuga/Powah-6.2.10.jar"
       ],
-      "fileSize": 2737273
+      "fileSize": 2737991
     },
     {
       "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
