@@ -801,19 +801,19 @@
       "fileSize": 29865
     },
     {
-      "path": "mods/OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
+      "path": "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
       "hashes": {
-        "sha512": "66b27e29aa3c15b1beef24f219cb1f3ed442aad4cdca2d276fc0516131b65dc977cacd17d6555433bad062ddb9feb8145d71ca87d7b99e70d9c5091542818785",
-        "sha1": "106ca4d0a3597e1a5c6489e98361c81436c528e0"
+        "sha512": "c33faa056c9d5403f06b7aa883290c86c33dcea3502f99720df98eccbd819cd3050fb2ffecf048f2dbee1b69a14e9dc6c23245f35ba3a78e46b056859666a60a",
+        "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/RH2KUdKJ/versions/cSBObQER/OctoLib-NEOFORGE-0.6.0.4%2B1.21.jar"
+        "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
       ],
-      "fileSize": 507443
+      "fileSize": 544378
     },
     {
       "path": "mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.5.4.jar",
