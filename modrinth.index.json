@@ -1836,19 +1836,19 @@
       "fileSize": 1328540
     },
     {
-      "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.5.jar",
+      "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar",
       "hashes": {
-        "sha512": "34cba49dcd8b5ee8490718774ec45fee522c6e8ecaabb9feb81534cbfd3318baf9eaa5cb4ab8c4f5887e319117c17d5edbcca4d4ef40d9c3fb66b14f626930eb",
-        "sha1": "c4c09ff65502ee82fa311fe1d499c30a03c4cc74"
+        "sha512": "da25a8922c8bf346cbc584d615dfc4d515442fff9739b5c7acf4f9794cf79be5a063273131db596a1c925f309989674016f1b2e1b8b407d0ba2951e0189bd189",
+        "sha1": "25468a1bb884998a0ebf7c061c32641fa0909841"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NPCfuUI4/versions/txt0gaav/cobblemonintegrations-neoforge-1.21.1-1.1.5.jar"
+        "https://cdn.modrinth.com/data/NPCfuUI4/versions/NEiILQCx/cobblemonintegrations-neoforge-1.21.1-1.1.6.jar"
       ],
-      "fileSize": 365523
+      "fileSize": 366734
     },
     {
       "path": "mods/cobblemonpokemonbadges-neoforge-0.1.1.jar",
