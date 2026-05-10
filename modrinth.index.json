@@ -2601,19 +2601,19 @@
       "fileSize": 5551314
     },
     {
-      "path": "mods/fruitsdelight-1.2.12.jar",
+      "path": "mods/fruitsdelight-1.2.14.jar",
       "hashes": {
-        "sha512": "403b5586d56992d60bc47f9bb958eb32a13ff8ccc1554eb90d43cb0fd80843da9c2784514d5f062e466464685523d95fafdca38b7d42876a1e5f409d31c80060",
-        "sha1": "d988016317f75331ed385517fad42c2cfd293fce"
+        "sha512": "473fd3b7cd94fd7daba34554143d70751816b6cd5bbf8b238e9a6d3ee7d80b2c2b9833840dea4c66c6ef4db35ebf0f2c03c3bad80e09b426938ea977a48dc3f5",
+        "sha1": "9e13ddd63337a180c6e69c0b3c7e622f1d27c71a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/g6sbyCTu/versions/34hdoNH8/fruitsdelight-1.2.12.jar"
+        "https://cdn.modrinth.com/data/g6sbyCTu/versions/TWbuEFZt/fruitsdelight-1.2.14.jar"
       ],
-      "fileSize": 1908304
+      "fileSize": 1910595
     },
     {
       "path": "mods/fusion-1.2.12-neoforge-mc1.21.1.jar",
