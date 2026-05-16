@@ -3906,19 +3906,19 @@
       "fileSize": 14942925
     },
     {
-      "path": "mods/silent-gear-1.21.1-neoforge-4.0.30.jar",
+      "path": "mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
       "hashes": {
-        "sha512": "48281d13e055c45383cc1d5e218a0b838e50e096e81a53bd278598d7416ab81b56336cce8f9f4c822436e4e8c73da3adc26dc44c2f8ac511f96e5f498ac4179f",
-        "sha1": "e4207ac46808a0076bfb3d2fa9bb89cbde981383"
+        "sha512": "a9760a18eb1564c546376deb475cd84f668aa76f4b947420902949f5014b675292f7fd808fe51dcfcb915ccebbf4e55f77c9865a013b74034b827dafa7564a98",
+        "sha1": "928064b09748d6e963077c114d65f5ce79aff581"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/73mSSnCf/versions/hdAjBFOy/silent-gear-1.21.1-neoforge-4.0.30.jar"
+        "https://cdn.modrinth.com/data/73mSSnCf/versions/VRVOMdub/silent-gear-1.21.1-neoforge-4.2.1.1.jar"
       ],
-      "fileSize": 2870569
+      "fileSize": 3147675
     },
     {
       "path": "mods/silent-lib-1.21.1-neoforge-10.5.1.jar",
