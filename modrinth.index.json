@@ -1416,19 +1416,19 @@
       "fileSize": 456981
     },
     {
-      "path": "mods/almostunified-neoforge-1.21.1-1.3.0.jar",
+      "path": "mods/almostunified-neoforge-1.21.1-1.4.2.jar",
       "hashes": {
-        "sha512": "9f517d364d2bb2339ee37a601527515fac3c35542439c9ff48de0b1bbf56df734841acf75a4ccf7750501005ebe4a5e9a01391760d5e19fdfa996e074fe3be9b",
-        "sha1": "d4d4e89eeec0693433dd16f5cf8dbd0181ae6fe6"
+        "sha512": "82ddfb82b86dcbf62c729ebbb2ed571bf284d31a8ad494b7e10db2da24a87e7887969e6092b78e79053ea0279c75de58dc548d30eca6ba60c2816a9bd3e436fd",
+        "sha1": "f9a58fa95780f4b045d30559c1fdaedaa7f0fba3"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sdaSaQEz/versions/ZSRQ3k7q/almostunified-neoforge-1.21.1-1.3.0.jar"
+        "https://cdn.modrinth.com/data/sdaSaQEz/versions/e8iYxxI3/almostunified-neoforge-1.21.1-1.4.2.jar"
       ],
-      "fileSize": 293343
+      "fileSize": 295093
     },
     {
       "path": "mods/alternate_current-mc1.21-1.9.0.jar",
