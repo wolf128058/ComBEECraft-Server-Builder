@@ -351,19 +351,19 @@
       "fileSize": 111722
     },
     {
-      "path": "mods/Design-n-Decor-1.21.1-2.1.0.jar",
+      "path": "mods/Design-n-Decor-1.21.1-2.2b.jar",
       "hashes": {
-        "sha512": "4aedb1e3a3fe67b391b5c877e094c6cbb5eb395b4f3173b860c90e2ea4e803d1367fd6593bb378184ad46991cf2d5c656444e60edebecf9887e053f29e9e5a9f",
-        "sha1": "6ff962a9c2e9cc9abdc6de0b01f834839ce7fed1"
+        "sha512": "d888553c8a254c3654f8da2ae2cae0bb642594546c71988739c93bf6b18668145e0ce5b1c20ae0544b9b6019f17e4da944bd5bc17e4c6b73e7f1374cfa2c9db9",
+        "sha1": "ff5f0411a3d82e15d69b65617128f6d54e818e1b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar"
+        "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar"
       ],
-      "fileSize": 3264862
+      "fileSize": 6329899
     },
     {
       "path": "mods/DnDesires-1.21.1-2.2d-BETA.jar",
