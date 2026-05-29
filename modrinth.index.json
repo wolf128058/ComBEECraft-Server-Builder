@@ -4431,19 +4431,19 @@
       "fileSize": 6222854
     },
     {
-      "path": "mods/wwoo-2.3.4.jar",
+      "path": "mods/wwoo-neoforge-2.6.7.jar",
       "hashes": {
-        "sha512": "4ca1ffa9274152e6b5bf978f03be0bd350599e2481ca42494b3a65f0390cb1c83284185f9758e41fe32136c42dc5d5944d6d355679b2939e2b1f592181fc1c89",
-        "sha1": "1e26a8ea18cf133fffd900dce5c3393ee2f81e6c"
+        "sha512": "25fbb4ba43b4031bf6b17788b95ad1374b5bd512a450c2391b4adcaba726804c43e6f91b1a2139ff2af9ae473d3ae990c4b386c52280e0a2330034f5f1b08572",
+        "sha1": "bfc20e94b4a8ad630654993d5799bcca36fe238d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/II7t6llZ/versions/5nUEDt1Z/wwoo-2.3.4.jar"
+        "https://cdn.modrinth.com/data/II7t6llZ/versions/sU7oaRZv/wwoo-neoforge-2.6.7.jar"
       ],
-      "fileSize": 2217959
+      "fileSize": 5764879
     },
     {
       "path": "mods/xaerominimap-neoforge-1.21.1-25.3.9.jar",
