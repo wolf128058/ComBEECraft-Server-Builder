@@ -4341,19 +4341,19 @@
       "fileSize": 503024
     },
     {
-      "path": "mods/undergroundworlds-neoforge-21.1.0.jar",
+      "path": "mods/undergroundworlds-neoforge-3.0.2-1.21.1.jar",
       "hashes": {
-        "sha512": "8070e5236a448b481e61bfd59de2015c53cab90601ed70b1de914b68b1fa114fe9329edb6cd45f1992ed4a158296f17d4f3c6ae52fc0a0eefbaf8a14d3a38a04",
-        "sha1": "6c4952a3b76d722ee5d3ea6f97389c2315200bc6"
+        "sha512": "f6920b3fa97c84b3c80df7bb3cba79ca206d1730b9210966eeaaae2c7f7096f4625a0b5b8d2d207e1b92c35838c396a116db4c556a1fb70473d2a20aeb11afbc",
+        "sha1": "681d8c8d6a8960c112c7f2499a2bfefb05bd4901"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/g9fDJQZe/versions/2oFutdYP/undergroundworlds-neoforge-21.1.0.jar"
+        "https://cdn.modrinth.com/data/g9fDJQZe/versions/aqtQkQ70/undergroundworlds-neoforge-3.0.2-1.21.1.jar"
       ],
-      "fileSize": 621515
+      "fileSize": 3831434
     },
     {
       "path": "mods/universaljewelry-1.1.1.jar",
