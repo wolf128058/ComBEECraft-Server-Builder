@@ -3531,19 +3531,19 @@
       "fileSize": 10310
     },
     {
-      "path": "mods/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
+      "path": "mods/plushie_buddies-1.0.1-neofroge-1.21.1.jar",
       "hashes": {
-        "sha512": "ad2e779db3c0ddd05a5873384a5392bef533834e62a5e53b6f71c36a3389f2d0827a83fc26be83811a9e07987b0eca392d6a9dca438752564c5654a3775424d6",
-        "sha1": "be92f6f19c846641fe99ef1b4aaa76ea04c7460f"
+        "sha512": "c703c37ad3916186528755392a7316c2aa9aa7fbd97a423df06aba70a300c337ee4044de56da075cb3d09dd41d7740b9e8dd5073ebb71ec9c6bb992952391384",
+        "sha1": "03aa8759bf907ab073c56116ba37849fef9f03bd"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5hoSWfrw/versions/lms85HFr/plushie_buddies-0.1.7-neofroge-1.21.1.jar"
+        "https://cdn.modrinth.com/data/5hoSWfrw/versions/79cJi8lU/plushie_buddies-1.0.1-neofroge-1.21.1.jar"
       ],
-      "fileSize": 395626
+      "fileSize": 462152
     },
     {
       "path": "mods/polyeng-0.4.1.jar",
