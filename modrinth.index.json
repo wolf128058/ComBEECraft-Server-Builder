@@ -4356,19 +4356,19 @@
       "fileSize": 621515
     },
     {
-      "path": "mods/universaljewelry-1.1.1.jar",
+      "path": "mods/universaljewelry-2.0.jar",
       "hashes": {
-        "sha512": "7314ddc0ce3b30133562148b2f0aadbfad27a79481da25a48054688ebcdab12361682a33e743772d2ce97d1d9ba3ea34289a4dd6fb823b67e5f5f22ebd239c4a",
-        "sha1": "02039d0d980be16568a63c1e77eac9ffd5cfe4c3"
+        "sha512": "3593902b5a2a26a33ac0d3b954d74951fe90e3559995950514186d17589c72efd8df22d5f71fa8d0a8a47609b9a045836ce36efc2422fba7b3d4539215ecca3d",
+        "sha1": "4937489966d7343d9d84a7d89da038efc5e94d72"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/RDOWziKW/versions/TrhcDW8T/universaljewelry-1.1.1.jar"
+        "https://cdn.modrinth.com/data/RDOWziKW/versions/TOo6821K/universaljewelry-2.0.jar"
       ],
-      "fileSize": 35022
+      "fileSize": 35235
     },
     {
       "path": "mods/voicechat-neoforge-1.21.1-2.6.11.jar",
