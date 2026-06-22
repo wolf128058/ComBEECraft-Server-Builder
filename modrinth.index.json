@@ -3156,19 +3156,19 @@
       "fileSize": 572870
     },
     {
-      "path": "mods/mcwbyg-neoforge-1.21.1-1.5.jar",
+      "path": "mods/mcwbyg-neoforge-1.21.1-1.6.jar",
       "hashes": {
-        "sha512": "5aba05ccd1ee351bf4b91560cabb81c5019b246aae24542d72bf067085ea0813f25c380f832a13f024efe246fbe2a700a40fa7daa4fbdf66cdb64f2844451824",
-        "sha1": "2510e4d5a0217935c8b9239e42ac54b568001f68"
+        "sha512": "ac981abad604af2e987a9a42c84ab26396dea7b821d583db714aeb5f093d68bd7728ddb6322d6e8cab9554e5f4c328473c43fba4a87185adb6c5e9cbaf4f48c8",
+        "sha1": "c41a4d1cbd8165b8f34cb0cb60bf3bd61f0a1fbc"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/s4B19O5h/versions/POZ8yWWK/mcwbyg-neoforge-1.21.1-1.5.jar"
+        "https://cdn.modrinth.com/data/s4B19O5h/versions/UIM6ZYR1/mcwbyg-neoforge-1.21.1-1.6.jar"
       ],
-      "fileSize": 12736547
+      "fileSize": 12774131
     },
     {
       "path": "mods/mega_showdown-neoforge-1.6.9+1.7.3+1.21.1.jar",
