@@ -3696,19 +3696,19 @@
       "fileSize": 4764199
     },
     {
-      "path": "mods/rechiseled-1.2.1-neoforge-mc1.21.jar",
+      "path": "mods/rechiseled-1.2.5-neoforge-mc1.21.jar",
       "hashes": {
-        "sha512": "b2896b9c92918186dbed1eee5dcdbbadd7b3ed7a163ca097771313937f7a442ffbe16f2d741dce30e6a6b278e504ba660ec55d2d7bcee331ed09bc76092af170",
-        "sha1": "8c87742fb27ee6f457c6c0f09483bf7d5aa97801"
+        "sha512": "d849bc3e775577978bbf96dccee11b0904fa928c556a12e05adf759edab9479bd757f490380475e974eaa137c566ffe8bfb62d5df19f966dfd99b67a2fe0ee9b",
+        "sha1": "ed2973c6952caa3173259314276b5b9d72880494"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/B0g2vT6l/versions/L3VzIZ2O/rechiseled-1.2.1-neoforge-mc1.21.jar"
+        "https://cdn.modrinth.com/data/B0g2vT6l/versions/S5FnErRw/rechiseled-1.2.5-neoforge-mc1.21.jar"
       ],
-      "fileSize": 11477470
+      "fileSize": 11498611
     },
     {
       "path": "mods/rechiseled_chipped-2.0-1.21.1.jar",
