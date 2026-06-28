@@ -2871,19 +2871,19 @@
       "fileSize": 92312
     },
     {
-      "path": "mods/lithium-neoforge-0.15.2+mc1.21.1.jar",
+      "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
       "hashes": {
-        "sha512": "86ed9b0d2d267f6dab87e49e0757341fccc8c3efe3b734a496d2b72eee06e903c0f4a6852ec14e30b69bf65885975d2d838f1add73d222c60a22c93f25a0cfb0",
-        "sha1": "54457ba68b0066a5b6034655f8d31a29a3e5e6b1"
+        "sha512": "2735da2088b88a8bdcd4ad02a2b6fffbfd3925557cefd4fa54b5477dfb9e582ea7f521300c060f57dff1325dd21bff276b7333363ad3371ed6893e3de9eca9cd",
+        "sha1": "97212e45c963730bbfc7c44780df99317814c21b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OLpCvF3o/lithium-neoforge-0.15.2%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
       ],
-      "fileSize": 773944
+      "fileSize": 774220
     },
     {
       "path": "mods/lithostitched-1.5.7-neoforge-1.21.1.jar",
