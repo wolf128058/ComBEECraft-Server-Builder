@@ -2046,19 +2046,19 @@
       "fileSize": 255939
     },
     {
-      "path": "mods/cratedelight-25.09.22-1.21-neoforge.jar",
+      "path": "mods/cratedelight-26.07.01-1.21-neoforge.jar",
       "hashes": {
-        "sha512": "bc1618b6c9d38386f4df4c60ef1cc18447b9967ac7ca30e9012c7f771d2f6098c1873a9a974c8b728110e68e5561e25ba9b1e047c6373a1c3191aae825001e41",
-        "sha1": "3cfe8feb1962e0b69d7a47e44458533489d62e4d"
+        "sha512": "8378c2b0289f2b76a805034d9b6694b6a256e4a9805d2a44cd8dc39c528993a549c436a4474d82b858efca7cae3b8201347f3305d386244e171dfb67e760b772",
+        "sha1": "23522b85b799a781ac9b3a60aa7dafd65bd3bc23"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/9rlXSyLg/versions/YYynf5qc/cratedelight-25.09.22-1.21-neoforge.jar"
+        "https://cdn.modrinth.com/data/9rlXSyLg/versions/8x7j76JV/cratedelight-26.07.01-1.21-neoforge.jar"
       ],
-      "fileSize": 166931
+      "fileSize": 202120
     },
     {
       "path": "mods/crd_broadcasts-neoforge-1.4.0+1.21.1.jar",
