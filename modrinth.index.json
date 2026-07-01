@@ -1791,19 +1791,19 @@
       "fileSize": 7368421
     },
     {
-      "path": "mods/cobblemon_industries-neoforge-1.3.2.jar",
+      "path": "mods/cobblemon_industries-neoforge-1.5.0.jar",
       "hashes": {
-        "sha512": "e57e10e95cb0761c16db5472e6437a68e8fc8a32aab3ec148b62660c3fef9965d288266142b19d4be7c209bf4da6a012ec9f10fb67779c7c85bae2f43adc2c6a",
-        "sha1": "0786681db620439b21831244b0c13ce1b8d1af8f"
+        "sha512": "3dbb6f9ae75c9c174c401156e43d2e6ec1258ed04451258b7d191d30c143ffa569d0aed78dd811056c28a17c9ba3949258381fc622554f19b0fbd384a3724ef6",
+        "sha1": "78f715e905a8d7083ee0a5a495d6d000af9fda77"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/7BX9lbH9/versions/r37zxfXQ/cobblemon_industries-neoforge-1.3.2.jar"
+        "https://cdn.modrinth.com/data/7BX9lbH9/versions/EOMncLWr/cobblemon_industries-neoforge-1.5.0.jar"
       ],
-      "fileSize": 63072
+      "fileSize": 115057
     },
     {
       "path": "mods/cobblemon_smartphone-neoforge-1.0.5.jar",
