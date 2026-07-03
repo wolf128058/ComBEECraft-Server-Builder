@@ -1311,19 +1311,19 @@
       "fileSize": 217161
     },
     {
-      "path": "mods/addonslib-neoforge-1.21.1-1.10.jar",
+      "path": "mods/addonslib-neoforge-1.21.1-1.14.jar",
       "hashes": {
-        "sha512": "72155a40cbc0f6ceb22b5b1d84f826eb06d6dccf8052307cd69f1f1688ca7eead0d7beaca467730ed78b534de57828150fc04ae0f464810c81a6ad83b8c493b5",
-        "sha1": "16ff192afe3249a4fae754a8fc134bd07a58b8c4"
+        "sha512": "6c5b08e0cfaa4f7e6902f6f937a955850db14fc6e09bf99881ea8ff19149644972878375a5e5dd57861d990ebf4908b03e8cd070dd166a96c2f2b8c3c72bea7f",
+        "sha1": "9f4eae06f0b713ed73cfcae03c668fb5b289e020"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/cl5ec0Qm/versions/rRKPlFV5/addonslib-neoforge-1.21.1-1.10.jar"
+        "https://cdn.modrinth.com/data/cl5ec0Qm/versions/7SEGJEQj/addonslib-neoforge-1.21.1-1.14.jar"
       ],
-      "fileSize": 117921
+      "fileSize": 131893
     },
     {
       "path": "mods/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
