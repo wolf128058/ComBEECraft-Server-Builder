@@ -1536,19 +1536,19 @@
       "fileSize": 531765
     },
     {
-      "path": "mods/azurelib-neo-1.21.1-3.1.3.jar",
+      "path": "mods/azurelib-neo-1.21.1-3.1.11.jar",
       "hashes": {
-        "sha512": "0ad1c30ff3c0acafa09f8d84ca0d1aae679a9a06bf4555ac41d77be75210866369f4053a87c6d62e2a86598e8d9ab8febed9a746062654b2c55e938445388ec6",
-        "sha1": "96ff2f731aefe29c67948a8778b4022201f29944"
+        "sha512": "9dca330008f001adb15d06a23607000ec9d954b194381039b705a0a92400614eb4a6628a1d85b01004dd12bd10c302d20c3eab60bcbcc7460dc64f7ae57b9c44",
+        "sha1": "9a168688466b3f924c09a20a2d99febe4588ffa5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/7zlUOZvb/versions/u50RGlc4/azurelib-neo-1.21.1-3.1.3.jar"
+        "https://cdn.modrinth.com/data/7zlUOZvb/versions/viJCjM85/azurelib-neo-1.21.1-3.1.11.jar"
       ],
-      "fileSize": 866162
+      "fileSize": 877948
     },
     {
       "path": "mods/balm-neoforge-1.21.1-21.0.56.jar",
