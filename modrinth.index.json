@@ -1356,19 +1356,19 @@
       "fileSize": 240969
     },
     {
-      "path": "mods/aeinfinitybooster-neoforge-1.21.1-1.0.0.54.jar",
+      "path": "mods/aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
       "hashes": {
-        "sha512": "ee273cf78ffe1848c9acdaefd243d107689f90484a420a4864bfbac7219c16dd5a1c944231159754e47dabd617b4726f2b9843a86ebbf8e9865592fcd931372e",
-        "sha1": "d00daf281a852358022b936a21ae272578f00afd"
+        "sha512": "3e09e02562d4764829f9bd106367e550b847407e1edadb9f88cb7f1bf62c3cb2c19ded43aaf3f67a8dfd833b44eb80e34ca06c0d7871e9a9ad1d67ea608057ce",
+        "sha1": "61756becbab62dd376378ceb74a3daa45b70562a"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/VQhDBNs8/versions/FkjLiVaY/aeinfinitybooster-neoforge-1.21.1-1.0.0.54.jar"
+        "https://cdn.modrinth.com/data/VQhDBNs8/versions/qpbQk2Iq/aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar"
       ],
-      "fileSize": 30409
+      "fileSize": 30454
     },
     {
       "path": "mods/aeroblender-1.21.1-1.0.0-neoforge.jar",
