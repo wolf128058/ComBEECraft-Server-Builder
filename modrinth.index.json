@@ -4086,19 +4086,19 @@
       "fileSize": 508502
     },
     {
-      "path": "mods/storagedelight-25.12.09-1.21-neoforge.jar",
+      "path": "mods/storagedelight-26.07.01a-1.21-neoforge.jar",
       "hashes": {
-        "sha512": "e19fcc9d8e0b4e3b6131da89f8f59afa5fbcd3b8ac0226b15703198fdc2d5a82bd4166459df887f07921609435aa9ad3351c2854a171eeb8b5dd52a55d6fda6f",
-        "sha1": "b61e8454f99d4e18730ac3e2a2c51c618c4c548a"
+        "sha512": "2160c9fa415d5db9baf52922b2ad11753823e81431586b59a41b6d64ac7fc8ed2dfb07e10f307913467ed47284894edee40d3977e25b38664856356088e1cf52",
+        "sha1": "47695bde566353ecb092bfe8401db6d666aeb141"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LTTvOp5L/versions/EqOVv3RL/storagedelight-25.12.09-1.21-neoforge.jar"
+        "https://cdn.modrinth.com/data/LTTvOp5L/versions/zuWePqzc/storagedelight-26.07.01a-1.21-neoforge.jar"
       ],
-      "fileSize": 649502
+      "fileSize": 841065
     },
     {
       "path": "mods/structure_layout_optimizer-neoforge-1.0.12.jar",
