@@ -2676,19 +2676,19 @@
       "fileSize": 17627680
     },
     {
-      "path": "mods/guideme-21.1.15.jar",
+      "path": "mods/guideme-21.1.17.jar",
       "hashes": {
-        "sha512": "4a35b2d9ae3958cb9e152757223b0fc0f85ed2c55da2c3bb773b9a353cf5db15e4294ac2b6d897c0d7c82674dd86c084dd2e35fb80b5bcf92067735c03288edc",
-        "sha1": "924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5"
+        "sha512": "8b5d8cf7592d7b4759f5347c5acd1b0eb46403437b10b900f535e4cdde59ab1b37d57b71f3f67cdc99a66d55ad5d760f51b55ba2bc50aecf538f8572003e4cbf",
+        "sha1": "060e374f578db694a0b8f3ad409bd424cae86359"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Ck4E7v7R/versions/ILW6vM7o/guideme-21.1.15.jar"
+        "https://cdn.modrinth.com/data/Ck4E7v7R/versions/rduAfwb7/guideme-21.1.17.jar"
       ],
-      "fileSize": 9309183
+      "fileSize": 9309396
     },
     {
       "path": "mods/ibo-3.1.0-neoforge-1.21.jar",
