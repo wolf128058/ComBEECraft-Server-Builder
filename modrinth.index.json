@@ -4446,19 +4446,19 @@
       "fileSize": 2217959
     },
     {
-      "path": "mods/xaerominimap-neoforge-1.21.1-25.3.9.jar",
+      "path": "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
       "hashes": {
-        "sha512": "57ac202fa0e692ed338bbeee7834afd07dac31f8c0f6911a737f73b7c4d9e066ad262a6974d0a3ded665d95e01c280aa56c8f2f6df999f50236c621cc37a4cf6",
-        "sha1": "58b5fb8edd5ded608f6a6c303373504bb9932517"
+        "sha512": "7ece42b6665cb3a83d77bca1ae9ab31e9f418a7e0ee73f4be1839b62a8dde7e2727d554b6ed056ca4e7510c1aaa6603e5caaa62355bca9ff202171df73ac49ee",
+        "sha1": "21b3232e62dabcbb5bf28866481e8de2c0ccb780"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/7KUAY3Iw/xaerominimap-neoforge-1.21.1-25.3.9.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar"
       ],
-      "fileSize": 2137493
+      "fileSize": 2185409
     },
     {
       "path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.10.jar",
