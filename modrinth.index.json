@@ -2151,19 +2151,19 @@
       "fileSize": 679850
     },
     {
-      "path": "mods/create_train_parts-0.3.6-1.21.1-6.0.9-216.jar",
+      "path": "mods/create_train_parts-0.5.2-1.21.1-6.0.10-281.jar",
       "hashes": {
-        "sha512": "06dd3c21a2f83fa30455d55e91c18ad0171997968b3169548a608c9a4514c5ad504a9a185f7a79c3559c1ac315f7e0093a9088f6107b592f9fe0c3ec6cac0820",
-        "sha1": "9375e43d82fed97ece089dc460c7c46bba351af3"
+        "sha512": "73b4aaee6d94431811dc9826e3aaa0665f393a6753a06379b5a0633f8a6f1070d0c54417cd8e4a2134634c732fc8edfe4d91cbd225ba763ea63500f84a3e2dba",
+        "sha1": "2d0dc7d7838f5bdaabdd96080b1e4b950bfd3306"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/h0bu4oDk/versions/RCISS5uM/create_train_parts-0.3.6-1.21.1-6.0.9-216.jar"
+        "https://cdn.modrinth.com/data/h0bu4oDk/versions/wSuDZsee/create_train_parts-0.5.2-1.21.1-6.0.10-281.jar"
       ],
-      "fileSize": 3531012
+      "fileSize": 3699282
     },
     {
       "path": "mods/createaddition-1.5.10.jar",
