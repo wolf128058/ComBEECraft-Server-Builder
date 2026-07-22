@@ -201,19 +201,19 @@
       "fileSize": 340572
     },
     {
-      "path": "mods/CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar",
+      "path": "mods/CobbleDollars-neoforge-2.0.0+Beta-6.1+1.21.1.jar",
       "hashes": {
-        "sha512": "b4fd057936f87ef443206229a789d56469b81f827285a7c88bcbd7edf9cf7d10070ac94defea3b712386540cd801f433321ab3b536d0f193ac3e2c9074656b65",
-        "sha1": "caf03c43fca60906d176e1446ba35f2988b0c3e1"
+        "sha512": "1e1b37de91b9aab4df3dcd92093ef2a35a4081841407d70725e0f455694558b39b9b84f3746509c04b3894c0d674d9ac723a0fe8c08b7bf5ea2501777ce0c219",
+        "sha1": "3d4559f77fc47d10ccac7079dbaefd1c414636c3"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/s7N7AsqL/versions/QSl34Qen/CobbleDollars-neoforge-2.0.0%2BBeta-5.1%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/s7N7AsqL/versions/Iqiqjfsi/CobbleDollars-neoforge-2.0.0%2BBeta-6.1%2B1.21.1.jar"
       ],
-      "fileSize": 373240
+      "fileSize": 504569
     },
     {
       "path": "mods/CobbleFurnies-neoforge-1.0.jar",
