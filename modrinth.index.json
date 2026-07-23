@@ -276,19 +276,19 @@
       "fileSize": 467675
     },
     {
-      "path": "mods/CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "path": "mods/CodeChickenLib-1.21.1-4.6.1.529.jar",
       "hashes": {
-        "sha512": "2d4efdc64531d5bb8133a247bc22a0728ab99dbcb2842ad0303b2242afd0ddc1b90cd43f8ed8562f651d8d9e228c95d15d73b4b63b3980286450de2df9c0e5ef",
-        "sha1": "6a278b5a2788c2fee7ae52d17f24187332d436b2"
+        "sha512": "acc300da463672a4091e0f48266df4a5b0704bc23e044e71ca47c3d56390d09eef3690baad8f8744d657bac8d5e02a2b4a2bb77ed0478dba9ad9b8c35901645f",
+        "sha1": "354d850ca72568b88d67e3c903efced7e62dc90f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/2gq0ALnz/versions/gQ1srSKh/CodeChickenLib-1.21.1-4.6.1.526.jar"
+        "https://cdn.modrinth.com/data/2gq0ALnz/versions/vLDGhjNJ/CodeChickenLib-1.21.1-4.6.1.529.jar"
       ],
-      "fileSize": 1538347
+      "fileSize": 1538382
     },
     {
       "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
