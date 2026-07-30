@@ -756,19 +756,19 @@
       "fileSize": 120258
     },
     {
-      "path": "mods/MyNethersDelight-1.21.1-1.9.jar",
+      "path": "mods/MyNethersDelight-1.21.1-1.10.4.jar",
       "hashes": {
-        "sha512": "0c32e35b573d9a15a1f1fdfdc3d0af8c59a38a41918ee6e6b00f6b9fd8f0997609aea8f372110caaa4d284e31583eeb9ccdbb8c29b6cd72b9fca81889ac8598f",
-        "sha1": "146bc38650e09875c678a78014a3ed55d2fd4ca9"
+        "sha512": "97b3244486430bce3bc6851bf700a9643cd018fdb48961210fecce3a6823ad2a4a25e4943763c0a27f68607cc33c7ce6b0b913cacb12dd1a28850ac5508cc57c",
+        "sha1": "6f2803d6a84d296e07382dd2f6c13c3b4fd57cbd"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/O53VhQoZ/versions/n2vJCdff/MyNethersDelight-1.21.1-1.9.jar"
+        "https://cdn.modrinth.com/data/O53VhQoZ/versions/OdH19ieD/MyNethersDelight-1.21.1-1.10.4.jar"
       ],
-      "fileSize": 798485
+      "fileSize": 904388
     },
     {
       "path": "mods/MysticalAgriculture-1.21.1-8.0.22.jar",
