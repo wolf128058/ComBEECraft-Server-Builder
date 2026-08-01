@@ -3951,19 +3951,19 @@
       "fileSize": 1457506
     },
     {
-      "path": "mods/sliceanddice-forge-4.2.2.jar",
+      "path": "mods/sliceanddice-4.3.3-neoforge.jar",
       "hashes": {
-        "sha512": "6bc2bb30ae523b1b522e3fdd4bd6437e9f69074a4101b0d43bac3867b0e37ee60eb05cdaee55fea434444323f5c1fc4b3cab9bca0b6fda53b3685291b8b734ef",
-        "sha1": "980f26c4ed2b077462950e1710d28c0b6af7aecd"
+        "sha512": "3bdbd282ae5aa11ef6c186b752497541730b50fb400c4962230bcd7734cfe4e8daa2ee565387450dfe0eb6deaa0fa44bf81f99c788bac09b1a60d8f1991db37f",
+        "sha1": "dea6393354faf06632ca1f0185a51fb3c9b5816e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/GmjmRQ0A/versions/DwseRoo3/sliceanddice-forge-4.2.2.jar"
+        "https://cdn.modrinth.com/data/GmjmRQ0A/versions/N67LJgrN/sliceanddice-4.3.3-neoforge.jar"
       ],
-      "fileSize": 406282
+      "fileSize": 1354014
     },
     {
       "path": "mods/sophisticatedbackpacks-1.21.1-3.25.24.1499.jar",
