@@ -4206,19 +4206,19 @@
       "fileSize": 15278
     },
     {
-      "path": "mods/the_bumblezone-7.11.8+1.21.1-neoforge.jar",
+      "path": "mods/the_bumblezone-7.15.3+1.21.1-neoforge.jar",
       "hashes": {
-        "sha512": "a3652aa53ba0dddd3c572269b9ed81e98f4117cdf8a8b14e985cccf28143509f2e34a89332067b3ab6d0275ac2259227620f9e6e9099f10e0ce978a6a261a20a",
-        "sha1": "0614f2adfcfa4f6c59e064c212de40a1e9a3d5cb"
+        "sha512": "7fd04ccddfdc55f9c9112aa0ec2f4003d07953c0d45721bf5160a4daddd4aedafbc16917d9f4a45bc8726b63b69679d528f65b9b55885b01ca5561e9f4aad78b",
+        "sha1": "d15559a5a29b2976d8f7f29aecf1a6b75ebe7c7d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/38tpSycf/versions/pTgYjNli/the_bumblezone-7.11.8%2B1.21.1-neoforge.jar"
+        "https://cdn.modrinth.com/data/38tpSycf/versions/jHtMMEiy/the_bumblezone-7.15.3%2B1.21.1-neoforge.jar"
       ],
-      "fileSize": 69473637
+      "fileSize": 69672269
     },
     {
       "path": "mods/timcore-neoforge-1.7.3-1.31.0.jar",
