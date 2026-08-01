@@ -3861,19 +3861,19 @@
       "fileSize": 484332
     },
     {
-      "path": "mods/rusticdelight-neoforge-1.21-1.5.2.jar",
+      "path": "mods/rusticdelight-neoforge-1.21-1.7.1.jar",
       "hashes": {
-        "sha512": "0dafee83ccdf84af2e1b323ff9de53d657dea2b05bf692de20eae9610cac7d484ad1e6ab6d1e32941d4fe985dff65eb4b8511f285e24e7df1aad78f7b0c138c9",
-        "sha1": "40cd8c09659f51395db1f64abd256ddf901ed949"
+        "sha512": "1aa22e862f0775699782ee20aa5cf75ce528404711cf8587cb7a732c710aa76f4d14035d2cdd0ed92980eb5f9388765b7f17a5aa31bdeadb85382aad488a6d2a",
+        "sha1": "697df889af0cec1823cf5330fca62bf7f6e5037f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/foa4fGIH/versions/kBZMg6OP/rusticdelight-neoforge-1.21-1.5.2.jar"
+        "https://cdn.modrinth.com/data/foa4fGIH/versions/sAaG4pSA/rusticdelight-neoforge-1.21-1.7.1.jar"
       ],
-      "fileSize": 543569
+      "fileSize": 1031957
     },
     {
       "path": "mods/servercore-neoforge-1.5.10+1.21.1.jar",
