@@ -4296,19 +4296,19 @@
       "fileSize": 3780683
     },
     {
-      "path": "mods/tt20-0.7.2+mc1.21.jar",
+      "path": "mods/tt20-0.8.4+mc1.21.1-neoforge.jar",
       "hashes": {
-        "sha512": "5ac0e645f61e44f82bd52f8f592aadfa11df502d311730804cf7f7625d511086e7f82ef994df1f9f5f0ffb0eda9c3229ac219c13c2245da24cf018d6faa79699",
-        "sha1": "32689a528835f1d29c0b02baaa127ca582ecabe8"
+        "sha512": "a78b10a4d8aa302c3006dc173fe44db703cda974a47d07ec70f652b29b9aed2dc0a15fd7da1a76fa508b8769391725e0ab4f95c82a10435c77e760bdb6c99cc5",
+        "sha1": "142f42d3f49bb14d49c0cca0af7d1d5abbb54b6e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/YS3ZignI/versions/izJJ7jqZ/tt20-0.7.2%2Bmc1.21.jar"
+        "https://cdn.modrinth.com/data/YS3ZignI/versions/2RnrIn18/tt20-0.8.4%2Bmc1.21.1-neoforge.jar"
       ],
-      "fileSize": 60778
+      "fileSize": 685295
     },
     {
       "path": "mods/txnilib-neoforge-1.0.24-1.21.1.jar",
