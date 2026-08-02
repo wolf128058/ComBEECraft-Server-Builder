@@ -3891,19 +3891,19 @@
       "fileSize": 1429522
     },
     {
-      "path": "mods/shadered-1.1.2.jar",
+      "path": "mods/shadered-1.21.1-1.5.8.jar",
       "hashes": {
-        "sha512": "be5d619bef992e9b9c4d3a7662752b8908825df22241dca4de9e771cfb48ff6f96754305f99117403041792b7b18d0e54f2a45ae2b5e670497a5742571c838bf",
-        "sha1": "70e978841fc8f8cce4bec8f6bca15644d1c957e3"
+        "sha512": "7e71b959d5454d40a54b0bbb043816cf5a968628129b0eef7458234e13675366662f75b7057d411d4659f3d7f96cfb84a513bfe500d8a6dd7871714fab8836e3",
+        "sha1": "f8e509709672be22fe142c79d74d0bd52df82e75"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NtwUFqmD/versions/Mk1fz49U/shadered-1.1.2.jar"
+        "https://cdn.modrinth.com/data/NtwUFqmD/versions/bAjFtQzT/shadered-1.21.1-1.5.8.jar"
       ],
-      "fileSize": 14942925
+      "fileSize": 34477501
     },
     {
       "path": "mods/silent-gear-1.21.1-neoforge-4.0.30.jar",
