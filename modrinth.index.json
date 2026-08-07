@@ -591,19 +591,19 @@
       "fileSize": 24037
     },
     {
-      "path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "hashes": {
-        "sha512": "678b998677a3d73f98f82dac4093893bfc8a3c2335ec627b4147811c381a040475decdb8db31cc3cbe600abb5a7a6dedcd356eed0ba471af0becdcf49bf5b137",
-        "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50"
+        "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2",
+        "sha1": "88ee316e68900080b017f60c12162e2731924cf8"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar"
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar"
       ],
-      "fileSize": 725742
+      "fileSize": 726853
     },
     {
       "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
