@@ -1521,19 +1521,19 @@
       "fileSize": 584004
     },
     {
-      "path": "mods/astikorcartsredux-1.2.2.jar",
+      "path": "mods/astikorcartsredux-1.2.4.jar",
       "hashes": {
-        "sha512": "c3cbee867aa4ef73606105247c9c1106dfcb7d3e9f6bf387f3285ba1425f9d9966beb335fc01c8d314a56251933dcc712384eb4b6953fa948a0191b915f5e9ea",
-        "sha1": "a120524992f6010de34a5f36f8789d7ab95f99db"
+        "sha512": "d6ecf33be5065cffdd449167396f538bd89bfd8a38d86957bab1551869aebd1c0263504eb06e27d3adb9d7f25698fe9f61bd64f1490c0f6fb8d1c62fb9f5aa25",
+        "sha1": "aaede46046d3989a5f58ccf00466e186119f54bd"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/mnLFouB0/versions/6t5FXuOX/astikorcartsredux-1.2.2.jar"
+        "https://cdn.modrinth.com/data/mnLFouB0/versions/JtPCk233/astikorcartsredux-1.2.4.jar"
       ],
-      "fileSize": 531765
+      "fileSize": 576717
     },
     {
       "path": "mods/azurelib-neo-1.21.1-3.1.3.jar",
