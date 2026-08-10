@@ -3636,19 +3636,19 @@
       "fileSize": 52976
     },
     {
-      "path": "mods/puffish_attributes-0.8.2-1.21-neoforge.jar",
+      "path": "mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
       "hashes": {
-        "sha512": "0e4f1617025f41cff598b0cac6b53bff10d0a72ecc7831e009894157edf5a6b31149bd1fd6fe0d3d60feafe0176e467409a2af3550b3003d60098d2ad56e38b9",
-        "sha1": "f4b67aa8da294203203bc8e6cd4b0cbf0a99d9dc"
+        "sha512": "e92d8a653b8c8e0b481aac1722ac5da9ca9174e61b3607e1b28c714e55c6b6399f68592bd227576a5a81dce251776a3221b5fc7e1b1446f17fa4795d9c1b449a",
+        "sha1": "9e6a87f790fc9281ea2685f8d4f6435d0d7c6d1f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/FCFcFw09/versions/Fl3WeKhH/puffish_attributes-0.8.2-1.21-neoforge.jar"
+        "https://cdn.modrinth.com/data/FCFcFw09/versions/ZySEqrUb/puffish_attributes-0.8.3-1.21-neoforge.jar"
       ],
-      "fileSize": 235521
+      "fileSize": 235542
     },
     {
       "path": "mods/puffish_skills-0.17.1-1.21-neoforge.jar",
