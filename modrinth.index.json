@@ -2706,19 +2706,19 @@
       "fileSize": 43101
     },
     {
-      "path": "mods/immersive_melodies-neoforge-0.6.2+1.21.1.jar",
+      "path": "mods/immersive_melodies-neoforge-0.7.1+1.21.1.jar",
       "hashes": {
-        "sha512": "5d12643ad9b515577c2e6bc6f4dccd41de1f6e1876fed29372b48e383e4121dc28c55e095f789e9640ad3f266a8754e73f020b0cb5a5405a67a89e9de62e34c5",
-        "sha1": "b854ee1c181eb1da9cd9999aa656b3bbcee29c1e"
+        "sha512": "7767699354cbb1e85869b70765cd0d7c8ac245001673b0d6a52601121e526f5e2753123400599bcc8daae28724eaaa28145171090157cf82e6944a1e2a9ab3a8",
+        "sha1": "0be207824ef9905fcb3372b95572ad0feda991cc"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TaSmHw8V/versions/YfqFZc6N/immersive_melodies-neoforge-0.6.2%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/TaSmHw8V/versions/g7uA7qmu/immersive_melodies-neoforge-0.7.1%2B1.21.1.jar"
       ],
-      "fileSize": 5520152
+      "fileSize": 5534299
     },
     {
       "path": "mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
