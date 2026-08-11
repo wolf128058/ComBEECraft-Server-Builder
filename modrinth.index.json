@@ -2091,19 +2091,19 @@
       "fileSize": 19019888
     },
     {
-      "path": "mods/create-central-kitchen-2.2.6.jar",
+      "path": "mods/create-central-kitchen-2.6.0.jar",
       "hashes": {
-        "sha512": "f6e0ffce362ae76b047e2ce82580436c569f85d3c2ef19d4e97fb4cc7b18309ff54c9f414335c68eed2e4b19d374711320fbc32275834f10eb1ee47250625b50",
-        "sha1": "9cf552c6a83f66293aa1f58b4d9676cf45ecfbf8"
+        "sha512": "9f42e5f3e557118a8dec364ee87fa9ee3d91f8f386eaf656ae2410dff6e5263bdeb0d532fe1af7dab51c3faf9fa6672d3089a28e5c04242e86b55407f41b7152",
+        "sha1": "f0dd0161de70f2177ba2e06c68ef0dbea08cdf2f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/btq68HMO/versions/rYgctWCz/create-central-kitchen-2.2.6.jar"
+        "https://cdn.modrinth.com/data/btq68HMO/versions/1mQSm4Yb/create-central-kitchen-2.6.0.jar"
       ],
-      "fileSize": 342140
+      "fileSize": 488390
     },
     {
       "path": "mods/create-dragons-plus-1.8.6.jar",
