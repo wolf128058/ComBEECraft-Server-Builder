@@ -1551,19 +1551,19 @@
       "fileSize": 866162
     },
     {
-      "path": "mods/balm-neoforge-1.21.1-21.0.56.jar",
+      "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
       "hashes": {
-        "sha512": "08ab4483999bee8f4a13b0069e09565255336375542af498188219e1509e2b58eaf281bfe75c7e135c8d5e2804c0982538cbf5d7cf02a5dec1bd8be8f9b075e6",
-        "sha1": "635e706136bb228e6a72d41d86dec495f812ccb5"
+        "sha512": "779b4f9e9738ae6f010e87f71b2ed5a114eb9b1b3d5b55cf42ad538094e5b064a1d3f4ff00064aac90da1c841a144464d47378d9bffc448a71d87132cb954101",
+        "sha1": "69e0b3b69dd23c132e85b7e82310f45ae96b263d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yoii3Xj6/balm-neoforge-1.21.1-21.0.56.jar"
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/KgypwTqX/balm-neoforge-1.21.1-21.0.65.jar"
       ],
-      "fileSize": 739709
+      "fileSize": 783793
     },
     {
       "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
