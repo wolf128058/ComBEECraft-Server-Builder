@@ -4161,19 +4161,19 @@
       "fileSize": 13350254
     },
     {
-      "path": "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
       "hashes": {
-        "sha512": "5edc9324618b481b60e1c970138a60842d79a9e486cc89c83f01ca41eb193c55ac622dedbe48799492c59b4e8d25c53757396f8fb3d4806eb5b1de12e5d7dd0c",
-        "sha1": "eb7666961fb0b0d0ff8bc01ff62194952f6b6b8c"
+        "sha512": "7464b1556250ceee25b4b531e07f65568c98a9d26f97232c1f6016be63ff243891de8283e072981deb968ea7d8b83bdc1579ee842b6b792446f4c26a43af4b62",
+        "sha1": "8f00e36a11568c0b66bbdf5c0e9ee492e511b303"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/DjLobEOy/versions/E4Wy3O8Y/t_and_t-neoforge-fabric-1.13.7%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/DjLobEOy/versions/DZxwgj6V/t_and_t-fabric-neoforge-1.13.11.jar"
       ],
-      "fileSize": 3641681
+      "fileSize": 3553006
     },
     {
       "path": "mods/tbcs-neoforge-1.21.1-0.13.0-beta.jar",
