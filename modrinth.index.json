@@ -4281,19 +4281,19 @@
       "fileSize": 6128519
     },
     {
-      "path": "mods/trainutilities-neoforge-3.0.2.jar",
+      "path": "mods/trainutilities-neoforge-3.1.0.jar",
       "hashes": {
-        "sha512": "3293993505103432507d8252d8f4ccf06f884cc89df9a4910d36335248faec310b26488e374adcf2bd115564fa8418eb3b9edfca3af18ca95b0e6cc6e4a841da",
-        "sha1": "2a2a2ef95e447520ffd83c6322fd0b19db320ff3"
+        "sha512": "a892b0b06947830c01639ac1ecc026b6d974a73911589061c560216a8f3e82de9a8e7794c88d594a37fc39aed77f1e94500bf29b953be1dd7bd51880adf1ae79",
+        "sha1": "6a95dd0e71052cc040538d3ee8a4668fbb01ae4f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/kVIxLqso/versions/32iAhysd/trainutilities-neoforge-3.0.2.jar"
+        "https://cdn.modrinth.com/data/kVIxLqso/versions/MeF3ulWd/trainutilities-neoforge-3.1.0.jar"
       ],
-      "fileSize": 3780683
+      "fileSize": 5053928
     },
     {
       "path": "mods/tt20-0.7.2+mc1.21.jar",
