@@ -2166,19 +2166,19 @@
       "fileSize": 3531012
     },
     {
-      "path": "mods/createaddition-1.5.10.jar",
+      "path": "mods/createaddition-1.7.0.jar",
       "hashes": {
-        "sha512": "22522c86d5ca798c9ee9f3c20f18f540be125fa1c76d736d1c2e876a31469b5ee61eef27829e7b69f16940675186519448f6b4978635b6010db1422da8edca0d",
-        "sha1": "2bd194da923dd38239ef49df30ecf1a720d38997"
+        "sha512": "267779bf2a215a0be39748e6a8e387322df697bc9de8e7e9558e6885aa790a2e73f334a55bfc5f97f4130d22262011433675fd0830ab1e3e3b10c9898d8a702c",
+        "sha1": "fd73ba9809ed6656a8c2aae81c9badb382085657"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/kU1G12Nn/versions/CP8Lhuwu/createaddition-1.5.10.jar"
+        "https://cdn.modrinth.com/data/kU1G12Nn/versions/zlC557Yg/createaddition-1.7.0.jar"
       ],
-      "fileSize": 1595173
+      "fileSize": 1705668
     },
     {
       "path": "mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar",
