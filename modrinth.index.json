@@ -2736,19 +2736,19 @@
       "fileSize": 576866
     },
     {
-      "path": "mods/irons_spellbooks-1.21.1-3.15.2.jar",
+      "path": "mods/irons_spellbooks-1.21.1-3.16.3.jar",
       "hashes": {
-        "sha512": "73e9d978fd64da167c902ca4bcc2a7ac1ab004aeb0dd3092da75f59eb963574037534ec516de5776ad4de1e9447ab0656111afd1d84c12e190f06d011829a318",
-        "sha1": "2bd487eda649c1a5cfff10b14a0d9258a12a47fc"
+        "sha512": "fd782f98c6c59b193c4832f33775291d2a7e639e1e23dd47510bfb494d99d182bec1253566b9394f96c733a0d0108be34bd729614b82dc29e55e096fdeb96f5b",
+        "sha1": "e8832385c01db56b9fcb19c48fcedc76a3a70d92"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/Cu7ovsnN/irons_spellbooks-1.21.1-3.15.2.jar"
+        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/slKLosTb/irons_spellbooks-1.21.1-3.16.3.jar"
       ],
-      "fileSize": 12609331
+      "fileSize": 13890045
     },
     {
       "path": "mods/irons_spells_dynamic_skilltree_1.1.0.jar",
