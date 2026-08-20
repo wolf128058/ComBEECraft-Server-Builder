@@ -3276,19 +3276,19 @@
       "fileSize": 1575809
     },
     {
-      "path": "mods/morerelics-1.6.2.1-1.21.1.jar",
+      "path": "mods/morerelics-1.7.7-1.21.1.jar",
       "hashes": {
-        "sha512": "9f96f386e833057a204c659f2fe22fe752156b757d6b6156561bba02b03bcd58e06e81592875ad0c9efc7739d3325de149054065c37d5a98b6e0b3b43a4653a0",
-        "sha1": "01f1626febb1749983df21e120cd701cd336dae2"
+        "sha512": "86b057eb467853641cc7726daaf65ff6df74beafd7e99e8754536bbb46974c69f070613f83e297847f4a2ae3eaccaf6844b8277c1b9e1ea7e5f4f21fae653f56",
+        "sha1": "ba0c920bc7712d1ff85012327b26e1a808c648f6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NmYBBHLU/versions/GCYxPxrU/morerelics-1.6.2.1-1.21.1.jar"
+        "https://cdn.modrinth.com/data/NmYBBHLU/versions/xmL9iQXg/morerelics-1.7.7-1.21.1.jar"
       ],
-      "fileSize": 564009
+      "fileSize": 827079
     },
     {
       "path": "mods/neoessentials-1.0.2.4+build.751.jar",
