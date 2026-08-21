@@ -3396,19 +3396,19 @@
       "fileSize": 108785
     },
     {
-      "path": "mods/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar",
+      "path": "mods/open-parties-and-claims-neoforge-1.21.1-0.30.3.jar",
       "hashes": {
-        "sha512": "b969b2afd6d2b5e2085127399ccefaa2c6dcef9f91aada26c274f0afa633f9425a8aa6db225a48de33daefba04a9a6f48dd212f7b4487186aa861a560084982a",
-        "sha1": "b559696138085bdcf437674f095a4201b2587ddb"
+        "sha512": "2d4ad4946b44d0bb80fb2309c99e2eae87922f019cb1c4c988e452bcd81952af5d8eb64c4b6760cbe7ef440f2f946b0021411fbd54579a833bf96ac16a1411e5",
+        "sha1": "07d0dc7f42ad988065b1280d1452f3fed00f3fba"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gF3BGWvG/versions/M6DB7Bdh/open-parties-and-claims-neoforge-1.21.1-0.25.8.jar"
+        "https://cdn.modrinth.com/data/gF3BGWvG/versions/AzM8UF04/open-parties-and-claims-neoforge-1.21.1-0.30.3.jar"
       ],
-      "fileSize": 1311358
+      "fileSize": 1821784
     },
     {
       "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
