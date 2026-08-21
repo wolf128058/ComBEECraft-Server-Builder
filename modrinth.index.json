@@ -2031,19 +2031,19 @@
       "fileSize": 63981
     },
     {
-      "path": "mods/craftingtweaks-neoforge-1.21.1-21.1.7.jar",
+      "path": "mods/craftingtweaks-neoforge-1.21.1-21.1.11.jar",
       "hashes": {
-        "sha512": "73f2a02e66633e1b8372ad77ad3d7e8eb294558882a19c13eae674529da2a58c91ffb3c2bd8ad78de9f40da10e6eb6f2f9634773ff0d66510dcc676941a48a7d",
-        "sha1": "4717e32cc9d21022e85c6e51771fb69be8e40ff4"
+        "sha512": "e1869211c2e037bdaadbe9b9f592d4ccfb7ab94d7ba6803629d6525945edc05db973db6bd7568f2af4550ae4616ae6cbb832e1684412ba439d37f523b564d9a7",
+        "sha1": "b6252039445978a742f439fc398f2a198b86bd4e"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/DMu0oBKf/versions/UBFLqHl0/craftingtweaks-neoforge-1.21.1-21.1.7.jar"
+        "https://cdn.modrinth.com/data/DMu0oBKf/versions/IhkQpEve/craftingtweaks-neoforge-1.21.1-21.1.11.jar"
       ],
-      "fileSize": 255939
+      "fileSize": 256086
     },
     {
       "path": "mods/cratedelight-25.09.22-1.21-neoforge.jar",
