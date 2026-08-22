@@ -1026,19 +1026,19 @@
       "fileSize": 27449388
     },
     {
-      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.8.jar",
       "hashes": {
-        "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d",
-        "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b"
+        "sha512": "83520e057a949ed6e8dcee33984ae0eef83c2e57d001ffbbba0b51090176608f7378327ece773312543cd8cbb802f951b7c24b57f3ab6cf19d2be10b47af30d0",
+        "sha1": "eb5757e5cb387553ed4d342e7aecf5b7dcb384a0"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+        "https://cdn.modrinth.com/data/Ua7DFN59/versions/K3Dp2T0P/YungsApi-1.21.1-NeoForge-5.1.8.jar"
       ],
-      "fileSize": 388678
+      "fileSize": 389834
     },
     {
       "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
