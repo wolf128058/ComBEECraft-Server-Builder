@@ -2001,19 +2001,19 @@
       "fileSize": 1247975
     },
     {
-      "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "path": "mods/copycats-3.0.8+mc.1.21.1-neoforge.jar",
       "hashes": {
-        "sha512": "ecc98e659be66a71af0aee66a9f4c7c8838f4f0101402644929079ce7280a572a000e7e417905e1869a51d6e49ebbd601008f54585e07ee4ed01f2c4bc752bfe",
-        "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
+        "sha512": "85edd42d46ba2c331212584d1009bf2c7bd21782c89d2a1d994dbdd170a6812e20fee6aa51faf0aa9357bd75e973b692b460c30680093f8fc2c097c52dc60b08",
+        "sha1": "ee0cddd7053622aa0a6964e7367bd69795273e7d"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+        "https://cdn.modrinth.com/data/UT2M39wf/versions/ZwGlMBIk/copycats-3.0.8%2Bmc.1.21.1-neoforge.jar"
       ],
-      "fileSize": 1791747
+      "fileSize": 1799269
     },
     {
       "path": "mods/coroutil-neoforge-1.21.0-1.3.8.jar",
