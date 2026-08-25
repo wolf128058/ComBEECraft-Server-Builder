@@ -2586,19 +2586,19 @@
       "fileSize": 17515951
     },
     {
-      "path": "mods/forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar",
+      "path": "mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
       "hashes": {
-        "sha512": "59aa2599fde40dcaaf210ce7d9d7f9e665c9173370708d7337c7230f2f0eb894a4f130bfbfb78b612d4faad25353d03ceab42691b1b3bcacd924dd72434732ef",
-        "sha1": "47b05580454707ac1f701c40bdbfbf86b15cbe9f"
+        "sha512": "2b44ecd839544e3668a02f8de86433d507417d068dcafeee7f698744fc2b12fd888a1bba509da57c8e2884d01dbaf344f49bbac0f22cdae599507356ed0cbe30",
+        "sha1": "1a2c41d2efbe1c60159b90a165557e7c06d03a5c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/tIUhtT2C/forgified-fabric-api-0.116.7%2B2.2.0%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/Aqlf1Shp/versions/V9WdDUTx/forgified-fabric-api-0.116.15%2B2.3.5%2B1.21.1.jar"
       ],
-      "fileSize": 5551314
+      "fileSize": 5613159
     },
     {
       "path": "mods/fruitsdelight-1.2.12.jar",
