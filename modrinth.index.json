@@ -3726,19 +3726,19 @@
       "fileSize": 177517
     },
     {
-      "path": "mods/rechiseledae2-neoforge-1.21-1.21.1-1.0.0.jar",
+      "path": "mods/rechiseledae2-neoforge-1.21-1.21.1-1.1.0.jar",
       "hashes": {
-        "sha512": "355c9c95aaad5f126f93db9e694c12bba836632313060722eeed38b7d39eb48a44290864d4d7f3b03755897ac8b547706de6f05b16fe1d1d1c50782e2ab1d7c3",
-        "sha1": "8235516df96d621d8b17749cee483b98703ba076"
+        "sha512": "fd810f6a94fcf3904d66d202997f5e49c8f80e7533b63c337f4f28961c59fd762ff3741c9028f9f3678db9585f311fbd9a8d5eb01124edcd8a66228870b129ce",
+        "sha1": "5142f5b9be2ebfcf8f1938331d879b30ecdf0312"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sDBUwZVY/versions/QyElNsOO/rechiseledae2-neoforge-1.21-1.21.1-1.0.0.jar"
+        "https://cdn.modrinth.com/data/sDBUwZVY/versions/VjScksgi/rechiseledae2-neoforge-1.21-1.21.1-1.1.0.jar"
       ],
-      "fileSize": 275513
+      "fileSize": 275532
     },
     {
       "path": "mods/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
