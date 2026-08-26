@@ -3291,19 +3291,19 @@
       "fileSize": 564009
     },
     {
-      "path": "mods/neoessentials-1.0.2.4+build.751.jar",
+      "path": "mods/neoessentials-1.0.5-1.21.x+build.54-all.jar",
       "hashes": {
-        "sha512": "f10d0498ae8a7d407c1c43a322ef04d9e2f2b6d9eeb52aebb35e1ae99a4f2db20b47d3ec918f5bc6de2a4c726833ad72dcb91dd83f746d23a50f0e57eb5f69c7",
-        "sha1": "9e58cbda3bd3fb02ab418358f99f44d59ceebb4d"
+        "sha512": "dfd21fa0bac1cd027d3c45447dc429e301d69a0569587cfecfd7427d9a01bbda58b147d85eb6bf8ff1062cb950d11b649d48f2d8460f505df384c3f9a8a8b0d0",
+        "sha1": "4cd0817867723bb577b8f71043ac757dacf28b63"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yiaK4SZh/versions/I1GS0rfP/neoessentials-1.0.2.4%2Bbuild.751.jar"
+        "https://cdn.modrinth.com/data/yiaK4SZh/versions/ok9cOS8q/neoessentials-1.0.5-1.21.x%2Bbuild.54-all.jar"
       ],
-      "fileSize": 1361910
+      "fileSize": 3529306
     },
     {
       "path": "mods/neoforge-carpet-1.21.1-1.0.8+v251027.jar",
