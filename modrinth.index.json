@@ -606,19 +606,19 @@
       "fileSize": 725742
     },
     {
-      "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+      "path": "mods/JadeAddons-1.21.1-NeoForge-6.1.1.jar",
       "hashes": {
-        "sha512": "dcf1135718e74c55d4b01116c9955b88a8c8a5180e61dc51d292479aff3d2fff38c8ca0f1b4a6e42e54644f1c8907846a61799491df455b71541aa342d8b8896",
-        "sha1": "d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3"
+        "sha512": "febdc3d503da6901ae5b4ed4f12b75abc3cb8b96556964acc2587f5809a7d20cff363f4ec4c0ccee6782d5b4c6dff8791e874a7865c93216484039cc103be362",
+        "sha1": "6c50a845ac3d336fa88e6466c36aa8b3815ca5c5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+        "https://cdn.modrinth.com/data/xuDOzCLy/versions/ZHjXkd1n/JadeAddons-1.21.1-NeoForge-6.1.1.jar"
       ],
-      "fileSize": 74419
+      "fileSize": 75431
     },
     {
       "path": "mods/Kiwi-1.21.1-NeoForge-15.8.2.jar",
