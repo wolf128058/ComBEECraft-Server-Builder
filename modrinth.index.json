@@ -3216,19 +3216,19 @@
       "fileSize": 183435
     },
     {
-      "path": "mods/modernfix-neoforge-5.26.1+mc1.21.1.jar",
+      "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
       "hashes": {
-        "sha512": "d6df16e21c454b86b07991408dd0eb0f611942ee01d9598375a6b0907167aaf29e2906c8ad11c5f0971979e68ea8267d9a8deb82ba638bd85ccd4265d2448a1d",
-        "sha1": "50abc7ff4ef2fcbc3baf4c6b96e2a7141cbd1b8a"
+        "sha512": "da13fa15b2c96a74a7d5f8ea94ea404c96237b97d52c9a77e7e34ac918d28c40760a68cf3897691b317d5119ab9b85035142c3624108b13dda3516c340b96131",
+        "sha1": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/c759JLsq/modernfix-neoforge-5.26.1%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar"
       ],
-      "fileSize": 498852
+      "fileSize": 604333
     },
     {
       "path": "mods/monsters_in_the_closet-1.0.3+1.21-forge.jar",
