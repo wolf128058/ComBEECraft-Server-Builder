@@ -1701,19 +1701,19 @@
       "fileSize": 22895
     },
     {
-      "path": "mods/cataclysm_spellbooks-1.1.10-1.21.jar",
+      "path": "mods/cataclysm_spellbooks-1.1.13-1.21.jar",
       "hashes": {
-        "sha512": "219c81a47406b01fd18d09ed0782b07dc97c0ace893caebf1dabba0db3cec7db5fd6be98f6b8a7a8a3454742843b93cdc3ab44daf20318fb386f1bf4da92c0d3",
-        "sha1": "b3974e36087126d1ca1b826cb88d7d22fb30d5cb"
+        "sha512": "b8ff8a9c5fd1c31a9fe40a987c73b45116c9112c5688f00d84cb6f9b30453f421e427b998e786b510af31e72b278df4549fcbcb5a3a6a4ab8e78f58b7dda06ac",
+        "sha1": "4af8348cc77bbff2ab7057c1fac26a5ab0a5b6a2"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/3FEg0A8D/versions/AFPKOUgd/cataclysm_spellbooks-1.1.10-1.21.jar"
+        "https://cdn.modrinth.com/data/3FEg0A8D/versions/m8aMfihn/cataclysm_spellbooks-1.1.13-1.21.jar"
       ],
-      "fileSize": 450926
+      "fileSize": 1175880
     },
     {
       "path": "mods/charmofundying-neoforge-9.1.0+1.21.1.jar",
