@@ -4251,19 +4251,19 @@
       "fileSize": 3352
     },
     {
-      "path": "mods/torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "path": "mods/torchmaster-neoforge-1.21.1-21.1.11.jar",
       "hashes": {
-        "sha512": "855dd7f37a01c617dddcb5fe569b14a14cff4d5ea7f53a958bec4a694eb4b82677160a2509a84a03e41adea2d44617434667f56f2191e6427811ddbdc63e48fc",
-        "sha1": "3f565ecc8560eba3ae3e15ff6542a3025d7377a2"
+        "sha512": "67d2f02f2146049dd68e9ee69a8df3149b5af1ed43f44c6111bc03de439a3d8a21eee28cc29f1f39c095edf123465ce6d18d51f65f3013931d3efae5726fd381",
+        "sha1": "3d285841584fc0c36db4d3f8b5b05667c116ef6f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Tl8ESrhX/versions/PhWXajPC/torchmaster-neoforge-1.21.1-21.1.9.jar"
+        "https://cdn.modrinth.com/data/Tl8ESrhX/versions/1WtG1xOA/torchmaster-neoforge-1.21.1-21.1.11.jar"
       ],
-      "fileSize": 130605
+      "fileSize": 160746
     },
     {
       "path": "mods/trafficcraft-neoforge-1.21.1-1.1.3.jar",
