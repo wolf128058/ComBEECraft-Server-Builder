@@ -726,19 +726,19 @@
       "fileSize": 3074614
     },
     {
-      "path": "mods/MoogsVoyagerStructures-1.21-5.0.5.jar",
+      "path": "mods/MoogsVoyagerStructures-universal-1.21-5.1.1.jar",
       "hashes": {
-        "sha512": "bc6f2a0590816e20a9df722181221e4e7769e64f9fe0efdb88666bae3443354ad59df95a0562f5a854cdc3d5d9a9c12448b605cc3b7fee51e61a85b397fd8f05",
-        "sha1": "6335b4caf8d5f969c948b5a2ce6c675d367a600b"
+        "sha512": "c05abf7a226da3a59e7eb4889fa78aef7e391ccc075551a3545d4b24ee908958dca13c87408c95dfa8e659d0dc5fbabf99dd1d034ad258eb4937bb984ae767c8",
+        "sha1": "a845fe54a5afc9c0efcfd7b99069f0c9b7fa3a52"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/OQAgZMH1/versions/aHamoWna/MoogsVoyagerStructures-1.21-5.0.5.jar"
+        "https://cdn.modrinth.com/data/OQAgZMH1/versions/F4KldqbX/MoogsVoyagerStructures-universal-1.21-5.1.1.jar"
       ],
-      "fileSize": 2670229
+      "fileSize": 2244261
     },
     {
       "path": "mods/Multiworld-NeoForged-1.21.1.jar",
