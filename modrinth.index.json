@@ -2376,19 +2376,19 @@
       "fileSize": 456648
     },
     {
-      "path": "mods/easy_mob_farm-neoforge-1.21.1-10.4.0.jar",
+      "path": "mods/easy_mob_farm-neoforge-1.21.1-10.12.0.jar",
       "hashes": {
-        "sha512": "bd3b37a29d46fd496320febc7983a2b696a7cd4c08ddc475e5949e794840c091141e90db5a5e0a35db9163d3b6286138e1b56a5ad119f6b781db749c40efe0ec",
-        "sha1": "f82d8f40bd4f1754d0bdbfc03d163dc4bdd37606"
+        "sha512": "3d7008547917ffaf542f5b27f55bedfc50396626c389f6651b8d598813bbcdb3cfbd1d226a5f873da42b10a422f27e3faae9bb5c6834fe0fe959b7828993fde3",
+        "sha1": "4e822709b21cb7062f973996fab326aef22a7387"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/crxsDbEo/versions/RjyE0Eq3/easy_mob_farm-neoforge-1.21.1-10.4.0.jar"
+        "https://cdn.modrinth.com/data/crxsDbEo/versions/EUHqff16/easy_mob_farm-neoforge-1.21.1-10.12.0.jar"
       ],
-      "fileSize": 897940
+      "fileSize": 1021064
     },
     {
       "path": "mods/easy_npc-neoforge-1.21.1-6.7.1.jar",
