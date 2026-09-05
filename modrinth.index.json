@@ -1041,19 +1041,19 @@
       "fileSize": 388678
     },
     {
-      "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
       "hashes": {
-        "sha512": "8c73b73a335ff1a788ef187dc68ad1225e21fd9230e0f2d7b768969383f799b053a0e1ec01cfd98b1980dc4b98db2a1c764c00739f58336714b7d982dc254424",
-        "sha1": "c7eaa25a8734525d7085e730728344242a177990"
+        "sha512": "a5fa3881a32a96c25c8012aac347221363792d68491ae1f6e26d345264f7acff7c7562d6c96e0ee2f00c63ad50351742763a740f0965cc9ca0b97808f8847bba",
+        "sha1": "6420fdb345b5e33b3a51254799dc281c9c53d3c5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Dfu00ggU/versions/ygKiHadA/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar"
+        "https://cdn.modrinth.com/data/Dfu00ggU/versions/Feo6YOjN/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar"
       ],
-      "fileSize": 392794
+      "fileSize": 400316
     },
     {
       "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
