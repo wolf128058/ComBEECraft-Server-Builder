@@ -4266,19 +4266,19 @@
       "fileSize": 130605
     },
     {
-      "path": "mods/trafficcraft-neoforge-1.21.1-1.1.3.jar",
+      "path": "mods/trafficcraft-neoforge-1.21.1-beta-1.2.0+4.jar",
       "hashes": {
-        "sha512": "a17228668d913fcffa608e5dd092f3e00c6f5f17d51295ee3092896b9b1b94ea0aa7da406e4385f3f6ce3464cb4c2a1c19135469a6afb44620b7073e49dbf69f",
-        "sha1": "c283b466dbb20cb2287012da73b1154356959749"
+        "sha512": "fa548798c3623820b9df557ee7a58929977c569bdc25b54c30316bac7eba35a39cc1034a681e1d3f6f227ec6e881e9223c89111a29cde97b7890163720967b82",
+        "sha1": "ca030ff65d70aa66ea9e35f3dade9100a776e6c6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Y1PXWvWn/versions/CnjuMcpt/trafficcraft-neoforge-1.21.1-1.1.3.jar"
+        "https://cdn.modrinth.com/data/Y1PXWvWn/versions/ddJimXLT/trafficcraft-neoforge-1.21.1-beta-1.2.0%2B4.jar"
       ],
-      "fileSize": 6128519
+      "fileSize": 4854261
     },
     {
       "path": "mods/trainutilities-neoforge-3.0.2.jar",
