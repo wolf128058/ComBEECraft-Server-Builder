@@ -3681,19 +3681,19 @@
       "fileSize": 222461
     },
     {
-      "path": "mods/rctmod-neoforge-1.21.1-0.17.6-beta.jar",
+      "path": "mods/rctmod-neoforge-1.21.1-0.19.0-beta.jar",
       "hashes": {
-        "sha512": "aba5a6ecfba592c8478da97932dc23d8794bad72b9c3d907dca3541bcc663a61dc2a81361181aa6e952b6b3ffb6781e515db9c4ae5a94d54e67aafc84f2e8205",
-        "sha1": "f58457cd67609ba8e292035cc1d7a3c2c503a8cc"
+        "sha512": "0a452a38e41610494c19f4a32e66cf07c7c75895560b4f005601ade5cc1014ec9fa8263f2b95c0467da87de436e9563cb972a1ddf2fa74cfea95d6e3fdb7d6cd",
+        "sha1": "df0794c72c89596e7fa43fd17355a89ff116846f"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/lRwTUnD7/versions/FWxzGtfz/rctmod-neoforge-1.21.1-0.17.6-beta.jar"
+        "https://cdn.modrinth.com/data/lRwTUnD7/versions/jOHFdQXi/rctmod-neoforge-1.21.1-0.19.0-beta.jar"
       ],
-      "fileSize": 4764199
+      "fileSize": 7562402
     },
     {
       "path": "mods/rechiseled-1.2.1-neoforge-mc1.21.jar",
