@@ -921,19 +921,19 @@
       "fileSize": 2737273
     },
     {
-      "path": "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "path": "mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
       "hashes": {
-        "sha512": "84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132f57a417e5bc679565439784c268b92ee8d353e4b26f86d3ef5e1c5453b",
-        "sha1": "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2"
+        "sha512": "630bea2bfeed34074d82bc75a4e3f94bb8235d5ae4b13d59c3ee8832bd493eb34584e81d183c5447bd1754e1845d8397eb910d16678243f64e7df8389ce147ac",
+        "sha1": "319fc1ea1498920b39a318ea324f6112a7318d67"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QAGBst4M/versions/EgWWSAhJ/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/lh44g7RC/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar"
       ],
-      "fileSize": 1080389
+      "fileSize": 1442182
     },
     {
       "path": "mods/SafePastures-1.1.1+1.21.1.jar",
