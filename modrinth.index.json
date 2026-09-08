@@ -261,19 +261,19 @@
       "fileSize": 96112
     },
     {
-      "path": "mods/Cobbreeding-neoforge-2.2.1.jar",
+      "path": "mods/Cobbreeding-neoforge-2.3.0.jar",
       "hashes": {
-        "sha512": "aa6c6d77ba39c3408d76a31001752ce15c938adfdb6a5a86496f448c56d03e0012f23acfb3ff5e08eee67bc2715ae401d76f13cfb44488e9e7cf5809a939420c",
-        "sha1": "a0843ba354d627c1062332034e1f373884003b23"
+        "sha512": "1f3a2f9c096bcf7a6383dcb3be40937eb99933493b7e8529c4e8c0cd54bfdb2db8696aade592940d531beebff502ec2637d654148422ceca2e6d7e7b060dec9c",
+        "sha1": "872bffd904e9c1058c253e84c59cc6ed08276c08"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/ItmVb4zY/versions/xt8IiPEN/Cobbreeding-neoforge-2.2.1.jar"
+        "https://cdn.modrinth.com/data/ItmVb4zY/versions/su1QucoO/Cobbreeding-neoforge-2.3.0.jar"
       ],
-      "fileSize": 467675
+      "fileSize": 468206
     },
     {
       "path": "mods/CodeChickenLib-1.21.1-4.6.1.526.jar",
