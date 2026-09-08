@@ -4221,19 +4221,19 @@
       "fileSize": 69473637
     },
     {
-      "path": "mods/timcore-neoforge-1.7.3-1.31.0.jar",
+      "path": "mods/timcore-neoforge-1.8.0-1.32.0.jar",
       "hashes": {
-        "sha512": "e92f511ebf988262759c5f52233711a2ee9247c123a57e020b1dae107907b2108a1ea20b334f630885bc51bf99538279f49faf3e8075934ae1d98cdaaeb78c03",
-        "sha1": "0ee7e9c7fec9185d9ee6065582a59dce38d938ca"
+        "sha512": "1c065f2867a176e5de2040304fa9288314ef63d39d80f09d3281c93217429dcb6e3db973a94f5a1e9c2434f5f7b16094b4e5ccca300c2774ca0ca77ee20e03ac",
+        "sha1": "7ec2623971732a84bcee63e8741667cf9f72befb"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/lVP9aUaY/versions/OrncUkpj/timcore-neoforge-1.7.3-1.31.0.jar"
+        "https://cdn.modrinth.com/data/lVP9aUaY/versions/oqlHaqBH/timcore-neoforge-1.8.0-1.32.0.jar"
       ],
-      "fileSize": 299471
+      "fileSize": 302395
     },
     {
       "path": "mods/toofast-1.21.0-0.4.3.5.jar",
