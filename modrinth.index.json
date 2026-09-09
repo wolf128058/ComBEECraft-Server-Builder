@@ -1686,19 +1686,19 @@
       "fileSize": 50235
     },
     {
-      "path": "mods/capturexp-neoforge-1.7.3-1.3.0.jar",
+      "path": "mods/capturexp-neoforge-1.8.0-1.3.0.jar",
       "hashes": {
-        "sha512": "d64cb6d3a8aedbbcb2fd53637d637d02c3f7eed36aa7906f2cb41f648a5859067517bdfd70d2379e10be2bf03aec4030637be7c56a54afecb5aff4784cd30e3b",
-        "sha1": "49bd6e318afc2d9f99d1bbd753012738ecc3c7ed"
+        "sha512": "355cd98c0586a838b88b96be866a955d36887a5836b37a697fecd8197d74fb36c06bebe9ae677b5a81d8b9b9982431abd67e56ba46b7319e06acdac6850efd7a",
+        "sha1": "9c6a2c2c2a182184cd2b94b2e9b2325a08346064"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LBl4Qguc/versions/nP29aFGP/capturexp-neoforge-1.7.3-1.3.0.jar"
+        "https://cdn.modrinth.com/data/LBl4Qguc/versions/tizgHzZ5/capturexp-neoforge-1.8.0-1.3.0.jar"
       ],
-      "fileSize": 22895
+      "fileSize": 23433
     },
     {
       "path": "mods/cataclysm_spellbooks-1.1.10-1.21.jar",
