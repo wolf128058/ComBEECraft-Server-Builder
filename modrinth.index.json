@@ -2406,19 +2406,19 @@
       "fileSize": 1723547
     },
     {
-      "path": "mods/easy_npc_bundle-neoforge-1.21.1-6.7.1.jar",
+      "path": "mods/easy_npc_bundle-neoforge-1.21.1-7.12.1.jar",
       "hashes": {
-        "sha512": "617549c1ff307b46fa7006ccdb85ebb516fdf5e734fe0c694d9bced2a19dffbbf44fa30c6498a2ad3d2e1ea63bb0b4f7ea107e6d8f75ee873ec7d91059756274",
-        "sha1": "b6831a3d75128d819b93c79d18ebb1beac9f736b"
+        "sha512": "1f92f1b5ae22be8f8b2905299f63b1cb1e3107f09694d375a979ca638b5c4483c7fb9ec85c598ddcd40d267f8b176f4ca149fc1fff4774a856a923e244c7424d",
+        "sha1": "a358c5c9602d718744ff9fb027a23ada1a3a4cb4"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/CgGEe1h3/versions/x7Ra44bs/easy_npc_bundle-neoforge-1.21.1-6.7.1.jar"
+        "https://cdn.modrinth.com/data/CgGEe1h3/versions/MMb3Z5Zl/easy_npc_bundle-neoforge-1.21.1-7.12.1.jar"
       ],
-      "fileSize": 32283
+      "fileSize": 25216
     },
     {
       "path": "mods/easy_npc_config_ui-neoforge-1.21.1-6.7.1.jar",
