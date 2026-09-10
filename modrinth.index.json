@@ -3516,19 +3516,19 @@
       "fileSize": 203149
     },
     {
-      "path": "mods/playerxp-neoforge-1.0.5+1.21.1.jar",
+      "path": "mods/playerxp-neoforge-1.1.2+1.21.1.jar",
       "hashes": {
-        "sha512": "065b5d6f9d433ec9d8036e01e2fa61a38184f1f8bdc52a8aedc29541acc242b9eef3cacc1533192c2f743e8f3b7ab58474931eb95fcdedbfa98cd89807bd28f7",
-        "sha1": "c215bb2adeb2173aacc586af754cbad0c509c161"
+        "sha512": "83fb086d88456448445f82cab6fb182e50d5fd78298bd54ccf880d4baa3d3df4cfbef807dd3e5f130a94e32713143a05a19886ae332d1c2bc03673760dba2dc6",
+        "sha1": "4eca5620c7f21e44271e985080da9334426b2120"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/zlrbPCvu/versions/Fol8Eojk/playerxp-neoforge-1.0.5%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/zlrbPCvu/versions/TnGS5djO/playerxp-neoforge-1.1.2%2B1.21.1.jar"
       ],
-      "fileSize": 10310
+      "fileSize": 16685
     },
     {
       "path": "mods/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
