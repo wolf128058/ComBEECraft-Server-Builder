@@ -3561,19 +3561,19 @@
       "fileSize": 20130
     },
     {
-      "path": "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "path": "mods/polymorph-neoforge-1.2.0+1.21.1.jar",
       "hashes": {
-        "sha512": "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff",
-        "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
+        "sha512": "dce77fffebae80532fec39d35c9c8b5817ba756bb03569022cc0854a8a6cf1868690f91451b587bd60d813e8403b5de91adbc324796bc423ef28deecfb13c775",
+        "sha1": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1.jar"
       ],
-      "fileSize": 174972
+      "fileSize": 172671
     },
     {
       "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
